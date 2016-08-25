@@ -1,0 +1,20 @@
+<!doctype html>
+<html ng-app="testApp">
+	<head>
+		<title>Hello AngularJS</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
+		
+    	<script src="static/js/searchResult.js"></script>
+	</head>
+
+	<body>
+		<div ng-controller="searchCtrl">
+		{% raw %}
+			<p>The Store is {{data[0]['Tienda']}}</p>
+			<p>The ID is {{data[0]['ID']}}</p>
+			<p>The Product is {{data[0]['Producto']}}</p>
+			<p>The Price is {{data[0]['Precio']}}</p>
+		{% endraw %}
+		</div>
+	</body>
+</html>
