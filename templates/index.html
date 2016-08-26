@@ -1,0 +1,24 @@
+<!doctype html>
+<html ng-app="testApp">
+	<head>
+		<title>Super Japi</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
+		
+    	<script src="static/js/searchResult.js"></script>
+    	<script src="static/js/angular-toArrayFilter.js"></script>
+	</head>
+
+	<body>
+		<div ng-controller="searchCtrl" >
+		{% raw %}
+			<div ng-repeat=" value in data | orderObjectBy:'Precio':false ">
+				<p >The Store is: {{value.Tienda}}</p>
+				<p>The ID is: {{value.ID}}</p>
+				<p>The Product is: {{value.Producto}}</p>
+				<p>The Price is: {{value.Precio}}</p>
+				<p>-------------------------------</p>
+			</div>
+		{% endraw %}
+		</div>
+	</body>
+</html>
