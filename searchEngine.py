@@ -28,6 +28,7 @@ def chedrauiSearchService(searchString):
 	searchQuery = searchTerm.replace(" ", "+")
 	productNames = []
 	allPrices = []
+	allImagesUrl = []
 	cj = CookieJar()
 
 	preOpener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
@@ -61,6 +62,14 @@ def chedrauiSearchService(searchString):
 			prices = price.find_all('span', class_='price')
 			allPrices.append(prices[-1].find(text=True).strip())
 
+		chedraui_imgUrl = mySoup.find_all('a', class_='product-image')
+		for image in chedraui_imgUrl:
+			images = image.find_all('img')
+			for img in images:
+			    if 'src' in img.attrs:
+			        allImagesUrl.append(img.attrs['src'])
+			#print allImagesUrl
+
 		print "Retreived data from page: " + str(page)
 
 	print "Number of products: ", len(productNames)
@@ -68,6 +77,7 @@ def chedrauiSearchService(searchString):
 
 	dfChedraui = pd.DataFrame(productNames, columns=['Producto'])
 	dfChedraui['Precio']=[Decimal('%.2f' % float(element.strip("$").replace(",", ""))) for element in allPrices]
+	dfChedraui['imgUrl']= allImagesUrl
 	#dfChedraui.to_csv('searches/outchedraui.csv', encoding='utf-8')
 	return dfChedraui
 
