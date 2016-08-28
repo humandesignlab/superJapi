@@ -12,7 +12,7 @@ def index():
 
 @app.route('/superJapi/api/v1.0/searchResult', methods=['GET'])
 def search():
-	return searchService('jitomate saladet')
+	return searchService('jamon serrano')
 
 if __name__ == '__main__':
 	app.run(debug=True)

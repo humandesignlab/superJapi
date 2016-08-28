@@ -164,6 +164,7 @@ def walmartSearchService(searchString):
 	productNames = []
 	brandNames = []
 	allPrices = []
+	allImagesUrl = []
 	searchQuery = searchTerm.replace(" ", "%20")
 	req = urllib2.Request("https://www.walmart.com.mx/super/WebControls/hlSearch.ashx?Text="+searchQuery)
 
@@ -180,9 +181,13 @@ def walmartSearchService(searchString):
 		productNames.append(cleanNames)
 		prices = json1['Products'][item]['Precio']
 		allPrices.append(prices)
+		itemCode = json1['Products'][item]['SEOUrl'][-14:-1]
+		imagesUrl = 'https://www.walmart.com.mx/super/images/Products/img_large/' + itemCode + 'L.jpg'
+		allImagesUrl.append(imagesUrl)
 
 	dfWalmart = pd.DataFrame(productNames, columns=['Producto'])
 	dfWalmart['Precio']=[Decimal('%.2f' % float(element.strip("$").replace(",", ""))) for element in allPrices]
+	dfWalmart['imgUrl'] = allImagesUrl
 	#dfSuperama.to_csv('searches/outsuperama.csv', encoding='utf-8')
 	return dfWalmart
 
@@ -193,7 +198,7 @@ def searchService(searchString):
 	dfMasterResult.index.levels[0].name = 'Tienda'
 	dfMasterResult.index.levels[1].name = 'ID'
 	#print dfMasterResult 
-	#dfMasterResult.to_csv('searches/outMasterResult.csv', encoding='utf-8')
+	dfMasterResult.to_csv('outMasterResult.csv', encoding='utf-8')
 	jsonResult = dfMasterResult.reset_index().to_json(orient='records')
 	replacedJsonResult = (unicodize(seg) for seg in re.split(r'(\\u[0-9a-f]{4})',jsonResult))
 	jsonCleanResult = (''.join(replacedJsonResult))
