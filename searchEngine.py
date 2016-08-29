@@ -137,6 +137,7 @@ def superamaSearchService(searchString):
 	productNames = []
 	brandNames = []
 	allPrices = []
+	allImagesUrl = []
 	searchQuery = searchTerm.replace(" ", "+")
 	req = urllib2.Request("http://www.superama.com.mx/buscador/resultado?busqueda="+searchQuery)
 
@@ -153,9 +154,13 @@ def superamaSearchService(searchString):
 		productNames.append(cleanNames)
 		prices = json1['Products'][item]['Precio']
 		allPrices.append(prices)
+		itemCode = json1['Products'][item]['Upc']
+		imagesUrl = 'http://www.superama.com.mx/Content/images/products/img_large/' + itemCode + 'L.jpg'
+		allImagesUrl.append(imagesUrl)
 
 	dfSuperama = pd.DataFrame(productNames, columns=['Producto'])
 	dfSuperama['Precio']=[Decimal('%.2f' % float(element.strip("$").replace(",", ""))) for element in allPrices]
+	dfSuperama['imgUrl'] = allImagesUrl
 	#dfSuperama.to_csv('searches/outsuperama.csv', encoding='utf-8')
 	return dfSuperama
 
