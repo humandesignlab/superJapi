@@ -13,22 +13,29 @@
 	<body>
 		<div ng-controller="searchCtrl" class="container-fluid" >
 		{% raw %}
-<!-- 			<div class="row" ng-repeat=" value in data | orderObjectBy:'ID':false " ng-if="value.Tienda == 'Chedraui' ">
-				<p class="col-md-8">The Store is: {{value.Tienda}}</p>
-				<p class="col-md-8">The ID is: {{value.ID}}</p>
-				<p class="col-md-8">The Product is: {{value.Producto}}</p>
-				<p class="col-md-8">The Price is: {{value.Precio}}</p>
-				<p class="col-md-8">The Image URL is: </p> <img class="col-md-8 img-responsive center-block" src="{{value.imgUrl}}"/>
-				<p class="col-md-8">-------------------------------</p>
-			</div> -->
+
+			<div class="page-header">
+			  <h1>Example page header <small>Subtext for header</small></h1>
+			</div>
 
 			<div class="row">
-				<div class="col-sm-6 col-md-4">
+			<div class="col-lg-6">
+			    <div class="input-group">
+			      <input type="text" class="form-control" placeholder="Search for...">
+			      <span class="input-group-btn">
+			        <button class="btn btn-default" type="button">Go!</button>
+			      </span>
+			    </div><!-- /input-group -->
+			  </div><!-- /.col-lg-6 -->
+			</div><!-- /.row -->
+
+			<div class="row">
+				<div class="col-sm-3 col-md-4">
 				<h2>Chedraui</h2>
 				    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'Chedraui' ">
 				    	<img src="{{value.imgUrl}}" alt="{{value.Producto}}">
 				    	<div class="caption">
-					        <h3>{{value.Producto}}</h3>
+					        <h4>{{value.Producto}}</h4>
 					        <p>Tienda: {{value.Tienda}}</p>
 					        <p>Precio: ${{value.Precio}}</p>
 					        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
@@ -36,12 +43,12 @@
 				    </div>
 				</div>
 
-				<div class="col-sm-6 col-md-4">
+				<div class="col-sm-3 col-md-4">
 					<h2>Superama</h2>
 				    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'Superama' ">
 				    	<img src="{{value.imgUrl}}" alt="{{value.Producto}}">
 				    	<div class="caption">
-					        <h3>{{value.Producto}}</h3>
+					        <h4>{{value.Producto}}</h4>
 					        <p>Tienda: {{value.Tienda}}</p>
 					        <p>Precio: ${{value.Precio}}</p>
 					        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
@@ -49,12 +56,25 @@
 				    </div>
 				</div>
 
-				<div class="col-sm-6 col-md-4">
+				<div class="col-sm-3 col-md-4">
 					<h2>La Comer</h2>
 				    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'La Comer' ">
 				    	<img src="{{value.imgUrl}}" alt="{{value.Producto}}">
 				    	<div class="caption">
-					        <h3>{{value.Producto}}</h3>
+					        <h4>{{value.Producto}}</h4>
+					        <p>Tienda: {{value.Tienda}}</p>
+					        <p>Precio: ${{value.Precio}}</p>
+					        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+				      	</div>
+				    </div>
+				</div>
+
+				<div class="col-sm-3 col-md-4">
+					<h2>Walmart</h2>
+				    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'Walmart' ">
+				    	<img src="{{value.imgUrl}}" alt="{{value.Producto}}">
+				    	<div class="caption">
+					        <h4>{{value.Producto}}</h4>
 					        <p>Tienda: {{value.Tienda}}</p>
 					        <p>Precio: ${{value.Precio}}</p>
 					        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
@@ -62,8 +82,11 @@
 				    </div>
 				</div>
 			</div>
+
 		{% endraw %}
 		</div>
+
+
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
 		<script type="text/javascript">"static/js/bootstrap.min.js"</script>

@@ -88,6 +88,7 @@ def lacomerSearchService (searchString):
 	presentation = []
 	brandNames = []
 	allPrices = []
+	allImagesUrl = []
 	req = urllib2.Request("http://www.lacomer.com.mx/GSAServices/searchArt?col=lacomer_2&orden=-1&p=1&pasilloId=false&s="+searchQuery+"&succId=14")
 
 	opener = urllib2.build_opener()
@@ -114,11 +115,18 @@ def lacomerSearchService (searchString):
 
 		prices = [lip['artPrven'] for lip in completeJson['res']]
 		allPrices.append(prices)
-
+		#Image URL:
+		#https://www.lacomer.com.mx/superc/img_art/7501055901401_1.jpg
+		itemCode = [lip['artEan'] for lip in completeJson['res']]
+		for code in itemCode:
+			imgUrl = 'https://www.lacomer.com.mx/superc/img_art/'+code+'_3.jpg'
+			#print imgUrl
+			allImagesUrl.append(imgUrl)
 	productNamesList  = sum(productNames, [])
 	presentationList = sum(presentation, [])
 	allPricesList = sum(allPrices, [])
-	brandNamesList = sum(brandNames, [])	
+	brandNamesList = sum(brandNames, [])
+	#allImagesUrl = sum(allImagesUrl, [])	
 
 	df = pd.DataFrame()
 	df['Producto'] = productNamesList
@@ -128,6 +136,7 @@ def lacomerSearchService (searchString):
 	dfLacomer = pd.DataFrame()
 	dfLacomer['Producto'] = df['Producto'].map(str) + " " + df['Presentación'].map(str) + " " + df['Marca']
 	dfLacomer['Precio'] = [Decimal('%.2f' % element) for element in allPricesList]
+	dfLacomer['imgUrl'] = allImagesUrl
 	#dfLacomer.to_csv('searches/outlacomer.csv', encoding='utf-8')
 	return dfLacomer
 
@@ -210,5 +219,5 @@ def searchService(searchString):
 	return jsonCleanResult
 
 
-#searchService('moño')
+#searchService('jamon serrano')
 
