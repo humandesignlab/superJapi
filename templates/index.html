@@ -29,60 +29,66 @@
 			  </div><!-- /.col-lg-6 -->
 			</div><!-- /.row -->
 
-			<div class="row">
-				<div class="col-sm-3 col-md-4">
-				<h2>Chedraui</h2>
-				    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'Chedraui' ">
-				    	<img src="{{value.imgUrl}}" err-src="static/img/imgNotFound1.jpg"  alt="{{value.Producto}}">
-				    	<div class="caption">
-					        <h4>{{value.Producto}}</h4>
-					        <p>Tienda: {{value.Tienda}}</p>
-					        <p>Precio: ${{value.Precio}}</p>
-					        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-				      	</div>
-				    </div>
-				</div>
-
-				<div class="col-sm-3 col-md-4">
-					<h2>Superama</h2>
-				    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'Superama' ">
-				    	<img src="{{value.imgUrl}}" err-src="static/img/imgNotFound1.jpg" alt="{{value.Producto}}">
-				    	<div class="caption">
-					        <h4>{{value.Producto}}</h4>
-					        <p>Tienda: {{value.Tienda}}</p>
-					        <p>Precio: ${{value.Precio}}</p>
-					        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-				      	</div>
-				    </div>
-				</div>
-
-				<div class="col-sm-3 col-md-4">
-					<h2>La Comer</h2>
-				    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'La Comer' ">
-				    	<img src="{{value.imgUrl}}" err-src="static/img/imgNotFound1.jpg" alt="{{value.Producto}}">
-				    	<div class="caption">
-					        <h4>{{value.Producto}}</h4>
-					        <p>Tienda: {{value.Tienda}}</p>
-					        <p>Precio: ${{value.Precio}}</p>
-					        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-				      	</div>
-				    </div>
-				</div>
-
-				<div class="col-sm-3 col-md-4">
-					<h2>Walmart</h2>
-				    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'Walmart' ">
-				    	<img src="{{value.imgUrl}}" err-src="static/img/imgNotFound1.jpg" alt="{{value.Producto}}">
-				    	<div class="caption">
-					        <h4>{{value.Producto}}</h4>
-					        <p>Tienda: {{value.Tienda}}</p>
-					        <p>Precio: ${{value.Precio}}</p>
-					        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-				      	</div>
-				    </div>
-				</div>
+			<div ng-if="!loaded" class="progress">
+			  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%">
+			    <span class="sr-only">45% Complete</span>
+			  </div>
 			</div>
+			<div ng-if="loaded">
+				<div class="row">
+					<div class="col-sm-3 col-md-4">
+					<h2>Chedraui</h2>
+					    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'Chedraui' ">
+					    	<img src="{{value.imgUrl}}" err-src="static/img/imgNotFound1.jpg"  alt="{{value.Producto}}">
+					    	<div class="caption">
+						        <h4>{{value.Producto}}</h4>
+						        <p>Tienda: {{value.Tienda}}</p>
+						        <p>Precio: ${{value.Precio}}</p>
+						        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+					      	</div>
+					    </div>
+					</div>
 
+					<div class="col-sm-3 col-md-4">
+						<h2>Superama</h2>
+					    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'Superama' ">
+					    	<img src="{{value.imgUrl}}" err-src="static/img/imgNotFound1.jpg" alt="{{value.Producto}}">
+					    	<div class="caption">
+						        <h4>{{value.Producto}}</h4>
+						        <p>Tienda: {{value.Tienda}}</p>
+						        <p>Precio: ${{value.Precio}}</p>
+						        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+					      	</div>
+					    </div>
+					</div>
+
+					<div class="col-sm-3 col-md-4">
+						<h2>La Comer</h2>
+					    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'La Comer' ">
+					    	<img src="{{value.imgUrl}}" err-src="static/img/imgNotFound1.jpg" alt="{{value.Producto}}">
+					    	<div class="caption">
+						        <h4>{{value.Producto}}</h4>
+						        <p>Tienda: {{value.Tienda}}</p>
+						        <p>Precio: ${{value.Precio}}</p>
+						        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+					      	</div>
+					    </div>
+					</div>
+
+					<div class="col-sm-3 col-md-4">
+						<h2>Walmart</h2>
+					    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'Walmart' ">
+					    	<img src="{{value.imgUrl}}" err-src="static/img/imgNotFound1.jpg" alt="{{value.Producto}}">
+					    	<div class="caption">
+						        <h4>{{value.Producto}}</h4>
+						        <p>Tienda: {{value.Tienda}}</p>
+						        <p>Precio: ${{value.Precio}}</p>
+						        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+					      	</div>
+					    </div>
+					</div>
+				</div>
+			</div> <!--loaded-->
 		{% endraw %}
 		</div>
 
