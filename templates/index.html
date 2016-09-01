@@ -21,9 +21,9 @@
 			<div class="row">
 			<div class="col-lg-6">
 			    <div class="input-group">
-			      <input type="text" class="form-control" placeholder="Search for...">
+			      <input id="searchText" type="text" class="form-control" placeholder="Search for...">
 			      <span class="input-group-btn">
-			        <button class="btn btn-default" type="button">Go!</button>
+			        <button id="searchBtn" ng-click ="init()" class="btn btn-default" type="button">Go!</button>
 			      </span>
 			    </div><!-- /input-group -->
 			  </div><!-- /.col-lg-6 -->
@@ -33,7 +33,7 @@
 				<div class="col-sm-3 col-md-4">
 				<h2>Chedraui</h2>
 				    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'Chedraui' ">
-				    	<img src="{{value.imgUrl}}" alt="{{value.Producto}}">
+				    	<img src="{{value.imgUrl}}" err-src="static/img/imgNotFound1.jpg"  alt="{{value.Producto}}">
 				    	<div class="caption">
 					        <h4>{{value.Producto}}</h4>
 					        <p>Tienda: {{value.Tienda}}</p>
@@ -46,7 +46,7 @@
 				<div class="col-sm-3 col-md-4">
 					<h2>Superama</h2>
 				    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'Superama' ">
-				    	<img src="{{value.imgUrl}}" alt="{{value.Producto}}">
+				    	<img src="{{value.imgUrl}}" err-src="static/img/imgNotFound1.jpg" alt="{{value.Producto}}">
 				    	<div class="caption">
 					        <h4>{{value.Producto}}</h4>
 					        <p>Tienda: {{value.Tienda}}</p>
@@ -59,7 +59,7 @@
 				<div class="col-sm-3 col-md-4">
 					<h2>La Comer</h2>
 				    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'La Comer' ">
-				    	<img src="{{value.imgUrl}}" alt="{{value.Producto}}">
+				    	<img src="{{value.imgUrl}}" err-src="static/img/imgNotFound1.jpg" alt="{{value.Producto}}">
 				    	<div class="caption">
 					        <h4>{{value.Producto}}</h4>
 					        <p>Tienda: {{value.Tienda}}</p>
@@ -72,7 +72,7 @@
 				<div class="col-sm-3 col-md-4">
 					<h2>Walmart</h2>
 				    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'Walmart' ">
-				    	<img src="{{value.imgUrl}}" alt="{{value.Producto}}">
+				    	<img src="{{value.imgUrl}}" err-src="static/img/imgNotFound1.jpg" alt="{{value.Producto}}">
 				    	<div class="caption">
 					        <h4>{{value.Producto}}</h4>
 					        <p>Tienda: {{value.Tienda}}</p>

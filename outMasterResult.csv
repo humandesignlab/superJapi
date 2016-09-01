@@ -2,7 +2,7 @@ Tienda,ID,Producto,Precio,imgUrl
 Superama,0,jamón serrano argal  90 g,58.00,http://www.superama.com.mx/Content/images/products/img_large/0841076401402L.jpg
 Superama,1,centro de jamón serrano riojano  por pza,999.00,http://www.superama.com.mx/Content/images/products/img_large/0750105771068L.jpg
 Superama,2,jamón serrano bernina  85 g,43.30,http://www.superama.com.mx/Content/images/products/img_large/0750104007673L.jpg
-Superama,3,jamón serrano parma  por kg,530.00,http://www.superama.com.mx/Content/images/products/img_large/0020564100000L.jpg
+Superama,3,jamón serrano parma  por kg,504.00,http://www.superama.com.mx/Content/images/products/img_large/0020564100000L.jpg
 Superama,4,jamón serrano riojano  loncheado 100 g,72.00,http://www.superama.com.mx/Content/images/products/img_large/0750142830110L.jpg
 Superama,5,jamón serrano bellótero  curado artesano 150 g,249.00,http://www.superama.com.mx/Content/images/products/img_large/0841097305749L.jpg
 Superama,6,"trío español argal  jamón serrano, chorizo pamplona y salchichón 150 g",87.00,http://www.superama.com.mx/Content/images/products/img_large/0841076401401L.jpg
@@ -68,30 +68,31 @@ La Comer,33,Jamon serrano espanol gourmet   tangamanga,598.42,https://www.lacome
 La Comer,34,Hueso de jamon serrano 1 kg camanzo camanzo,128.50,https://www.lacomer.com.mx/superc/img_art/2625138000005_3.jpg
 La Comer,35,Hueso de jamon serrano 1 kg camanzo camanzo,128.50,https://www.lacomer.com.mx/superc/img_art/7502272530405_3.jpg
 Chedraui,0,"Papa Sab Gour150gr, Jamón serrano",35.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113130_00.jpg
-Chedraui,1,Jamon Riojano Serrano 100 Gr,70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750142830110_00.jpg
-Chedraui,2,Jamon Parma Premium Serrano 120 Gr,94.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750151849136_00.jpg
-Chedraui,3,Jamon Parma Selecto Serrano Kg,502.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750151849120_00.jpg
-Chedraui,4,Jamon Iglesias Redondo Serrano 100 Gr,66.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/842791900000_00.jpg
-Chedraui,5,Jamon Peñaranda Serrano Kg,544.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750300147525_00.jpg
-Chedraui,6,Jamon 7 Hermanos Serrano Reserva 100 Gr,73.35,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/842119521657_00.jpg
-Chedraui,7,Jamon Monte Nevado Serrano 100 gr,67.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
-Chedraui,8,Jamon Botichelli Serrano 100 Gr,49.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105760152_00.jpg
-Chedraui,9,Jamon Tangamanga Serrano Kg,552.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750157625230_00.jpg
-Chedraui,10,Jamon Bernina Serrano Kg,482.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750170370047_00.jpg
-Chedraui,11,Jamon Navidul Serrano Madurado 100 Gr,65.95,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/841032002150_00.jpg
-Chedraui,12,Pate Jamon Serrano Novelda 110 Gr,38.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/841105500245_00.jpg
-Chedraui,13,Jamon Real Serrano Iberico 100 Gr,38.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/842151124586_00.jpg
-Chedraui,14,Jamon Bernina Serrano 85 Gr,46.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750104007673_00.jpg
-Chedraui,15,Jamon Sabio Serrano Orgánico 100 Gr,180.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750301758002_07.jpg
-Chedraui,16,Jamon Serrano Plata Bellota 150 Gr,275.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/841097305749_00.jpg
-Chedraui,17,Jamon Argal Serrano 90 Gr,56.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/841076401402_00.jpg
-Chedraui,18,Jamon Bertín Osborne Serrano Reserva 80,64.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/842554511316_00.jpg
-Chedraui,19,Jamon Parma Serrano Charola 150 Gr,94.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750151849165_00.jpg
-Chedraui,20,Jamon Perote Serrano 100 Gr,71.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750300000630_00.jpg
-Chedraui,21,Jamon Tangamanga Serrano Esp 100 Gr,70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750104005196_00.jpg
-Chedraui,22,Jamon Parma Serrano 100 Gr,72.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750151849135_00.jpg
-Chedraui,23,Jamon Cinta De Oro Serrano 100 Gr,44.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750135211142_00.jpg
-Chedraui,24,Jamon Pedrugada Serrano Kg,160.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750300000682_00.jpg
+Chedraui,1,Jamon Riojano Serrano Kg,556.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750142830109_00.jpg
+Chedraui,2,Jamon Riojano Serrano 100 Gr,70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750142830110_00.jpg
+Chedraui,3,Jamon Parma Premium Serrano 120 Gr,94.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750151849136_00.jpg
+Chedraui,4,Jamon Parma Selecto Serrano Kg,502.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750151849120_00.jpg
+Chedraui,5,Jamon Iglesias Redondo Serrano 100 Gr,66.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/842791900000_00.jpg
+Chedraui,6,Jamon Peñaranda Serrano Kg,544.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750300147525_00.jpg
+Chedraui,7,Jamon 7 Hermanos Serrano Reserva 100 Gr,73.35,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/842119521657_00.jpg
+Chedraui,8,Jamon Monte Nevado Serrano 100 gr,67.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
+Chedraui,9,Jamon Botichelli Serrano 100 Gr,49.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105760152_00.jpg
+Chedraui,10,Jamon Tangamanga Serrano Kg,552.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750157625230_00.jpg
+Chedraui,11,Jamon Bernina Serrano Kg,482.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750170370047_00.jpg
+Chedraui,12,Jamon Navidul Serrano Madurado 100 Gr,65.95,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/841032002150_00.jpg
+Chedraui,13,Pate Jamon Serrano Novelda 110 Gr,38.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/841105500245_00.jpg
+Chedraui,14,Jamon Real Serrano Iberico 100 Gr,38.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/842151124586_00.jpg
+Chedraui,15,Jamon Bernina Serrano 85 Gr,46.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750104007673_00.jpg
+Chedraui,16,Jamon Sabio Serrano Orgánico 100 Gr,180.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750301758002_07.jpg
+Chedraui,17,Jamon Serrano Plata Bellota 150 Gr,275.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/841097305749_00.jpg
+Chedraui,18,Jamon Argal Serrano 90 Gr,56.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/841076401402_00.jpg
+Chedraui,19,Jamon Bertín Osborne Serrano Reserva 80,64.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/842554511316_00.jpg
+Chedraui,20,Jamon Parma Serrano Charola 150 Gr,94.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750151849165_00.jpg
+Chedraui,21,Jamon Perote Serrano 100 Gr,71.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750300000630_00.jpg
+Chedraui,22,Jamon Tangamanga Serrano Esp 100 Gr,70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750104005196_00.jpg
+Chedraui,23,Jamon Parma Serrano 100 Gr,72.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750151849135_00.jpg
+Chedraui,24,Jamon Cinta De Oro Serrano 100 Gr,44.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750135211142_00.jpg
+Chedraui,25,Jamon Pedrugada Serrano Kg,160.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750300000682_00.jpg
 Walmart,0,jamón serrano bernina  por kg,482.00,https://www.walmart.com.mx/super/images/Products/img_large/0020357700000L.jpg
 Walmart,1,jamón serrano peñaranda  por kg,544.00,https://www.walmart.com.mx/super/images/Products/img_large/0020378800000L.jpg
 Walmart,2,jamón serrano riojano  por kg,556.00,https://www.walmart.com.mx/super/images/Products/img_large/0020576200000L.jpg
