@@ -1,0 +1,7 @@
+.thumbnail>img, .thumbnail a>img {
+	height: 200px;
+}
+
+.caption h4, .h4 {
+    height: 85px;
+}
