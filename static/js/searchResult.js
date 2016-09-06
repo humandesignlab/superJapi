@@ -1,7 +1,7 @@
 var app = angular.module('testApp', ['angular-toArrayFilter']);
 
 //CONTROLLERS:
-app.controller('searchCtrl', function($scope, $http){
+app.controller('searchCtrl', function($scope, $http, $log){
 
 	$scope.init = function(input) {
     // function implementation
@@ -13,18 +13,16 @@ app.controller('searchCtrl', function($scope, $http){
     		$http({
     			url: 'http://127.0.0.1:5000/superJapi/api/v1.0/searchResult',
     			method: 'POST',
-    			param: {userInput : $scope.input}
+    			data: JSON.stringify({userInput : $scope.input}),
+    			headers: {'Content-Type': 'application/json'}
 
     		}).success(function(response){
-    			$scope.data = response.data;
+    			$scope.data = response;
     			$scope.loaded = true;
-    			console.log(response);
+    			$log.info(response)
+    			//console.log(response);
     		});
-        console.log($scope.input)
-	    	/*$http.get('http://127.0.0.1:5000/superJapi/api/v1.0/searchResult')
-			.then(function(response){
-				$scope.data = response.data;
-				$scope.loaded = true;*/
+        	//console.log($scope.input)
 				
 				/*console.log(response.data.length)
 				for (var i = 0; i < response.data.length; i ++) {

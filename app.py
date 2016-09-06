@@ -13,8 +13,8 @@ def index():
 
 @app.route('/superJapi/api/v1.0/searchResult', methods=['GET', 'POST'])
 def search():
-	data1 = json.loads(request.data.decode('utf-8'))
-	print data1
+	data1 = json.loads(request.data.decode())
+	#print data1
 	searchString = data1['userInput']
 	return searchService(str(searchString))
 

@@ -1,386 +1,354 @@
 Tienda,ID,Producto,Precio,imgUrl
-Superama,0,papas sabritas flamin hot sabor chile y especias 170 g,29.49,http://www.superama.com.mx/Content/images/products/img_large/0750101115926L.jpg
-Superama,1,papas sabritas receta crujiente sabor chiles rojos 170 g,29.49,http://www.superama.com.mx/Content/images/products/img_large/0750101114326L.jpg
-Superama,2,papa blanca   alfa por kg,17.50,http://www.superama.com.mx/Content/images/products/img_large/0000000004083L.jpg
-Superama,3,papas botatas  adobadas 160 g,39.90,http://www.superama.com.mx/Content/images/products/img_large/0750301495502L.jpg
-Superama,4,papas healthy  naturales 100 g,24.51,http://www.superama.com.mx/Content/images/products/img_large/0750032629860L.jpg
-Superama,5,papas lays stax original 163 g,28.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112197L.jpg
-Superama,6,papas lays stax sabor queso 156 g,28.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112198L.jpg
-Superama,7,papas ruffles  sabor queso 200 g,34.89,http://www.superama.com.mx/Content/images/products/img_large/0750101113121L.jpg
-Superama,8,papas sabritas  original 170 g,32.90,http://www.superama.com.mx/Content/images/products/img_large/0750101113388L.jpg
-Superama,9,papas sabritas receta crujiente con sal 170 g,29.49,http://www.superama.com.mx/Content/images/products/img_large/0750101114324L.jpg
-Superama,10,papas lays stax sabor bbq picante 155.9 g,27.50,http://www.superama.com.mx/Content/images/products/img_large/0750101113469L.jpg
-Superama,11,papas sabritas crema y especias crema y especias 170 g,32.90,http://www.superama.com.mx/Content/images/products/img_large/0750101111559L.jpg
-Superama,12,papas sabritas receta crujiente sabor jalapeño 170 g,29.49,http://www.superama.com.mx/Content/images/products/img_large/0750101114325L.jpg
-Superama,13,papas a la francesa mccain  corte ondulado 1 kg,58.50,http://www.superama.com.mx/Content/images/products/img_large/0005577307747L.jpg
-Superama,14,papas a la francesa mccain  corte ondulado 500 g,31.80,http://www.superama.com.mx/Content/images/products/img_large/0005577307741L.jpg
-Superama,15,papas a la francesa mccain super wedges con cáscara sazonada 750 g,48.00,http://www.superama.com.mx/Content/images/products/img_large/0005577307735L.jpg
-Superama,16,papas congeladas mccain  corte delgado 1 kg,60.00,http://www.superama.com.mx/Content/images/products/img_large/0005577307748L.jpg
-Superama,17,papas congeladas mccain  rebanadas con hierbas y especias 650 g,48.00,http://www.superama.com.mx/Content/images/products/img_large/0005577300167L.jpg
-Superama,18,papas a la francesa kg,85.00,http://www.superama.com.mx/Content/images/products/img_large/0020089900000L.jpg
-Superama,19,papas en forma de carita   por pza,1.50,http://www.superama.com.mx/Content/images/products/img_large/0020051800000L.jpg
-Superama,20,papas fritas kg,74.08,http://www.superama.com.mx/Content/images/products/img_large/0020915200000L.jpg
-Superama,21,papas gratinadas por kg,89.00,http://www.superama.com.mx/Content/images/products/img_large/0020074400000L.jpg
-Superama,22,puré de papa mc caín  en foma de carita 400 g,44.00,http://www.superama.com.mx/Content/images/products/img_large/0005577300141L.jpg
-Superama,23,botana healthy papas  picante 100 g,24.51,http://www.superama.com.mx/Content/images/products/img_large/0750032629861L.jpg
-Superama,24,botana healthy papas  sabor cebolla 100 g,24.51,http://www.superama.com.mx/Content/images/products/img_large/0750032629865L.jpg
-Superama,25,botana healthy papas  sabor queso 100 g,24.51,http://www.superama.com.mx/Content/images/products/img_large/0750032629864L.jpg
-Superama,26,empanada rellena de rajas con papas pza,11.50,http://www.superama.com.mx/Content/images/products/img_large/0020026700000L.jpg
-Superama,27,papa cambray   por kilo,27.90,http://www.superama.com.mx/Content/images/products/img_large/0000000004728L.jpg
-Superama,28,papas cape cod  búffalo cheddar 198.5 g,59.50,http://www.superama.com.mx/Content/images/products/img_large/0002068500080L.jpg
-Superama,29,papas chips  sabor fuego 170 g,29.91,http://www.superama.com.mx/Content/images/products/img_large/0075752800188L.jpg
-Superama,30,papas chips  sabor fuego limón 100 g,23.50,http://www.superama.com.mx/Content/images/products/img_large/0075752801849L.jpg
-Superama,31,papas chips  sabor jalapeño 100 g,23.50,http://www.superama.com.mx/Content/images/products/img_large/0075752801976L.jpg
-Superama,32,papas chips  sabor jalapeño 170 g,29.91,http://www.superama.com.mx/Content/images/products/img_large/0750100026623L.jpg
-Superama,33,papas chips  sabor jalapeño 350 g,60.00,http://www.superama.com.mx/Content/images/products/img_large/0750100039840L.jpg
-Superama,34,papas chips  sabor sal de mar 100 g,23.50,http://www.superama.com.mx/Content/images/products/img_large/0075752801977L.jpg
-Superama,35,papas chips  sabor sal de mar 170 g,29.91,http://www.superama.com.mx/Content/images/products/img_large/0750100026620L.jpg
-Superama,36,papas chips  sabor sal de mar 350 g,60.00,http://www.superama.com.mx/Content/images/products/img_large/0750100039841L.jpg
-Superama,37,papas con sal 185 g por pza,26.85,http://www.superama.com.mx/Content/images/products/img_large/0040008132078L.jpg
-Superama,38,papas deshidratadas farm nuts  al limón 80 g,38.50,http://www.superama.com.mx/Content/images/products/img_large/0060694130057L.jpg
-Superama,39,papas farm nuts  deshidratadas 80 g,32.50,http://www.superama.com.mx/Content/images/products/img_large/0060694130053L.jpg
-Superama,40,papas farm nuts  deshidratadas con chile 80 g,32.50,http://www.superama.com.mx/Content/images/products/img_large/0060694130054L.jpg
-Superama,41,papas farm nuts al parmesano con chipotle 80 g,39.00,http://www.superama.com.mx/Content/images/products/img_large/0060694130060L.jpg
-Superama,42,papas fritas botatas  artesanales con sal 160 g,39.90,http://www.superama.com.mx/Content/images/products/img_large/0750301495501L.jpg
-Superama,43,papas fritas sabritas  con sal original 110 g,22.50,http://www.superama.com.mx/Content/images/products/img_large/0750101116765L.jpg
-Superama,44,papas kettle  con sal y pimienta molida 241 g,59.00,http://www.superama.com.mx/Content/images/products/img_large/0008411410853L.jpg
-Superama,45,papas kettle  sal de mar 241 g,59.00,http://www.superama.com.mx/Content/images/products/img_large/0008411410812L.jpg
-Superama,46,papas kettle  sal de mar y vinagre 240 g,59.00,http://www.superama.com.mx/Content/images/products/img_large/0008411410814L.jpg
-Superama,47,papas lays  bbq 184.2 g,71.00,http://www.superama.com.mx/Content/images/products/img_large/0002840001768L.jpg
-Superama,48,papas lays  sal y vinagre 184.2 g,71.00,http://www.superama.com.mx/Content/images/products/img_large/0002840001750L.jpg
-Superama,49,papas lays stax crema y cebolla 40 g,10.00,http://www.superama.com.mx/Content/images/products/img_large/0750101115057L.jpg
-Superama,50,papas lays stax original 40 g,10.00,http://www.superama.com.mx/Content/images/products/img_large/0750101115039L.jpg
-Superama,51,papas lays stax queso cheddar 40 g,10.00,http://www.superama.com.mx/Content/images/products/img_large/0750101115056L.jpg
-Superama,52,papas parios  caseras 1 kg,133.92,http://www.superama.com.mx/Content/images/products/img_large/0750300470630L.jpg
-Superama,53,papas parios adobadas caseras 185 g,23.75,http://www.superama.com.mx/Content/images/products/img_large/0750300470607L.jpg
-Superama,54,papas parios caseras con sal 185 g,23.75,http://www.superama.com.mx/Content/images/products/img_large/0750300470606L.jpg
-Superama,55,papas pringles  chile y limón 40 g,14.50,http://www.superama.com.mx/Content/images/products/img_large/0003800084761L.jpg
-Superama,56,papas pringles  crema y cebolla 40 g,14.50,http://www.superama.com.mx/Content/images/products/img_large/0003800084674L.jpg
-Superama,57,papas pringles  original 37 g,14.50,http://www.superama.com.mx/Content/images/products/img_large/0003800084673L.jpg
-Superama,58,papas pringles  queso 40 g,14.50,http://www.superama.com.mx/Content/images/products/img_large/0003800084675L.jpg
-Superama,59,papas pringles  sabor chile y limón 137 g,32.50,http://www.superama.com.mx/Content/images/products/img_large/0003800084679L.jpg
-Superama,60,papas pringles  sabor crema y cebolla 137 g,32.50,http://www.superama.com.mx/Content/images/products/img_large/0003800084680L.jpg
-Superama,61,papas pringles  sabor original 137 g,32.50,http://www.superama.com.mx/Content/images/products/img_large/0003800084684L.jpg
-Superama,62,papas pringles  sabor pizza 137 g,32.50,http://www.superama.com.mx/Content/images/products/img_large/0003800084688L.jpg
-Superama,63,papas pringles  sabor pizza 40 g,14.50,http://www.superama.com.mx/Content/images/products/img_large/0003800084554L.jpg
-Superama,64,papas pringles  sabor queso 137 g,32.50,http://www.superama.com.mx/Content/images/products/img_large/0003800084685L.jpg
-Superama,65,papas ruffles  sabor queso 290 g,46.00,http://www.superama.com.mx/Content/images/products/img_large/0750101111566L.jpg
-Superama,66,papas sabritas  original 240 g,42.99,http://www.superama.com.mx/Content/images/products/img_large/0750101111560L.jpg
-Superama,67,papas sabritas  original 340 g,56.49,http://www.superama.com.mx/Content/images/products/img_large/0750101111561L.jpg
-Superama,68,papas terra  combinación exótica mediterránea 192 g,69.00,http://www.superama.com.mx/Content/images/products/img_large/0072822912347L.jpg
-Superama,69,papas terra  combinación exótica original 192 g,69.00,http://www.superama.com.mx/Content/images/products/img_large/0072822912375L.jpg
-Superama,70,papas world table  con sal de mar 170 g,23.70,http://www.superama.com.mx/Content/images/products/img_large/0750179164203L.jpg
-Superama,71,paquete 2 banderillas más papas.,39.00,http://www.superama.com.mx/Content/images/products/img_large/0020907200000L.jpg
-Superama,72,paquete de hamburguesa con papas,59.00,http://www.superama.com.mx/Content/images/products/img_large/0020071100000L.jpg
-Superama,73,ruffles  mega crunch salsa roja 120 g,20.00,http://www.superama.com.mx/Content/images/products/img_large/0750101116441L.jpg
-Superama,74,botana crujiente snyders naturals sabor papas tomates y espinaca 170 g,49.90,http://www.superama.com.mx/Content/images/products/img_large/0007797508872L.jpg
-Superama,75,botana crujiente snyders naturals sabor papas tomates y espinaca 200 g,49.90,http://www.superama.com.mx/Content/images/products/img_large/0007797508871L.jpg
-Superama,76,combo 3   alitas o medio pollo + papas gajo,69.00,http://www.superama.com.mx/Content/images/products/img_large/0020902800000L.jpg
-Superama,77,papa   alfa chica por kilo,17.90,http://www.superama.com.mx/Content/images/products/img_large/0000000004730L.jpg
-Superama,78,papas cape cod kettle cooked original 226 g,59.40,http://www.superama.com.mx/Content/images/products/img_large/0002068500029L.jpg
-Superama,79,papas cape cod kettle cooked sabor sea salt and vinegar 226 g,59.40,http://www.superama.com.mx/Content/images/products/img_large/0002068507940L.jpg
-Superama,80,papas chips corte delgado sabor adobadas 170 g,33.00,http://www.superama.com.mx/Content/images/products/img_large/0075752800989L.jpg
-Superama,81,papas chips corte delgado sabor sal de mar 170 g,33.00,http://www.superama.com.mx/Content/images/products/img_large/0075752800988L.jpg
-Superama,82,papas deshidratadas farms nuts al vinagre y sal 80 g,39.00,http://www.superama.com.mx/Content/images/products/img_large/0060694130059L.jpg
-Superama,83,papas fritas happy snacks  premium chiles de asia 244 g,50.00,http://www.superama.com.mx/Content/images/products/img_large/0750101117665L.jpg
-Superama,84,papas fritas happy snacks  premium sal y vinagre 244 g,50.00,http://www.superama.com.mx/Content/images/products/img_large/0750101117660L.jpg
-Superama,85,papas fritas happy snacks  premium salsa bbq 244 g,50.00,http://www.superama.com.mx/Content/images/products/img_large/0750101117664L.jpg
-Superama,86,papas garden veggie straws sabor zesty ranch 198 g,60.00,http://www.superama.com.mx/Content/images/products/img_large/0082951530717L.jpg
-Superama,87,papas great value kettle cooked babecue 226.8 g,42.00,http://www.superama.com.mx/Content/images/products/img_large/0060538898795L.jpg
-Superama,88,papas great value kettle cooked original reducida en grasa 226.8 g,42.00,http://www.superama.com.mx/Content/images/products/img_large/0007874202198L.jpg
-Superama,89,papas great value kettle cooked sabor sal y vinagre 226.8 g,42.00,http://www.superama.com.mx/Content/images/products/img_large/0007874202197L.jpg
-Superama,90,papas kettle  backyard barbeque tamaño fiesta 241 g,59.00,http://www.superama.com.mx/Content/images/products/img_large/0008411411391L.jpg
-Superama,91,papas sabritas gourmet sabor chile pasilla al vino tinto 150 g,36.00,http://www.superama.com.mx/Content/images/products/img_large/0750101113129L.jpg
-Superama,92,papas sabritas gourmet sabor jamón serrano 150 g,36.00,http://www.superama.com.mx/Content/images/products/img_large/0750101113130L.jpg
-Superama,93,papas sabritas ligeras sabor chile y limón 100 g,25.50,http://www.superama.com.mx/Content/images/products/img_large/0750101114595L.jpg
-Superama,94,papas world table  sabor chile de árbol 170 g,23.70,http://www.superama.com.mx/Content/images/products/img_large/0750179164204L.jpg
-Superama,95,papas world table exotic potato surtido 170 g,59.00,http://www.superama.com.mx/Content/images/products/img_large/0007874201094L.jpg
-Superama,96,papilla gerber junior junior pollito con papas 250 g,25.60,http://www.superama.com.mx/Content/images/products/img_large/0750100092239L.jpg
-Superama,97,pizzerolas  220 g,35.00,http://www.superama.com.mx/Content/images/products/img_large/0750101113114L.jpg
-Superama,98,gomitas e frutti lunch bag en forma de hamburguesas papas fritas y hot dogs 77 g,25.50,http://www.superama.com.mx/Content/images/products/img_large/0081380500229L.jpg
-La Comer,0,Papas chips sal barcel,35.00,https://www.lacomer.com.mx/superc/img_art/7501000266203_3.jpg
-La Comer,1,Papas original fritas con sal sabritas,14.00,https://www.lacomer.com.mx/superc/img_art/7501011167438_3.jpg
-La Comer,2,Papa corte recto   valley farms,62.00,https://www.lacomer.com.mx/superc/img_art/55773077957_3.jpg
-La Comer,3,Pure de papa precocido   verde valle,16.00,https://www.lacomer.com.mx/superc/img_art/7501071301629_3.jpg
-La Comer,4,Botana espinaca / papa / tomate sal mar   sensible portion,85.00,https://www.lacomer.com.mx/superc/img_art/829515301460_3.jpg
-La Comer,5,Paps totis papas fritas chilehot chili hot chili totis,23.50,https://www.lacomer.com.mx/superc/img_art/7500366001558_3.jpg
-La Comer,6,Botanatira espinaca / papa / tomate sal mar   sensible portion,76.50,https://www.lacomer.com.mx/superc/img_art/829515302108_3.jpg
-La Comer,7,Papa casera adobada    ,29.00,https://www.lacomer.com.mx/superc/img_art/7503002228845_3.jpg
-La Comer,8,Botanas de mix de papas nativas   kiwa,78.00,https://www.lacomer.com.mx/superc/img_art/7862100330875_3.jpg
-La Comer,9,Papas chips sal barcel,35.00,https://www.lacomer.com.mx/superc/img_art/7501000266203_3.jpg
-La Comer,10,Papas original fritas con sal sabritas,14.00,https://www.lacomer.com.mx/superc/img_art/7501011167438_3.jpg
-La Comer,11,Papa corte recto   valley farms,62.00,https://www.lacomer.com.mx/superc/img_art/55773077957_3.jpg
-La Comer,12,Pure de papa precocido   verde valle,16.00,https://www.lacomer.com.mx/superc/img_art/7501071301629_3.jpg
-La Comer,13,Botana espinaca / papa / tomate sal mar   sensible portion,85.00,https://www.lacomer.com.mx/superc/img_art/829515301460_3.jpg
-La Comer,14,Paps totis papas fritas chilehot chili hot chili totis,23.50,https://www.lacomer.com.mx/superc/img_art/7500366001558_3.jpg
-La Comer,15,Botanatira espinaca / papa / tomate sal mar   sensible portion,76.50,https://www.lacomer.com.mx/superc/img_art/829515302108_3.jpg
-La Comer,16,Papa casera adobada    ,29.00,https://www.lacomer.com.mx/superc/img_art/7503002228845_3.jpg
-La Comer,17,Botanas de mix de papas nativas   kiwa,78.00,https://www.lacomer.com.mx/superc/img_art/7862100330875_3.jpg
-La Comer,18,Papa  corte recto 500 grs.   valley farms,36.00,https://www.lacomer.com.mx/superc/img_art/55773077872_3.jpg
-La Comer,19,Papa gajo    ,85.00,https://www.lacomer.com.mx/superc/img_art/2655362000007_3.jpg
-La Comer,20,Papa en aceite vegetal   helios,87.50,https://www.lacomer.com.mx/superc/img_art/8410095506257_3.jpg
-La Comer,21,Papas ruffles queso   sabritas,60.00,https://www.lacomer.com.mx/superc/img_art/7501011115675_3.jpg
-La Comer,22,Papas ruffles queso   sabritas,44.50,https://www.lacomer.com.mx/superc/img_art/7501011115668_3.jpg
-La Comer,23,Botana de harina papa con chile    ,29.67,https://www.lacomer.com.mx/superc/img_art/7503009722025_3.jpg
-La Comer,24,Papas corte recto    mc cain,39.90,https://www.lacomer.com.mx/superc/img_art/55773077407_3.jpg
-La Comer,25,Papas gourmet queso suizo con salsa neg sabritas,38.00,https://www.lacomer.com.mx/superc/img_art/7501011166011_3.jpg
-La Comer,26,Sopa de poro y papa   f/m,39.00,https://www.lacomer.com.mx/superc/img_art/2650453000003_3.jpg
-La Comer,27,Papas fritas artesanales con sal botatas,40.50,https://www.lacomer.com.mx/superc/img_art/7503014955012_3.jpg
-La Comer,28,Gnocchi de papa   divella,54.90,https://www.lacomer.com.mx/superc/img_art/8005121216035_3.jpg
-La Comer,29,Papas supergajos mc cain,62.00,https://www.lacomer.com.mx/superc/img_art/55773077353_3.jpg
-La Comer,30,Papas chips jalapeno barcel,35.00,https://www.lacomer.com.mx/superc/img_art/7501000266234_3.jpg
-La Comer,31,Pure de papa cuatro quesos idahoan,35.50,https://www.lacomer.com.mx/superc/img_art/29700001452_3.jpg
-La Comer,32,Ruffles papas fritas onduladas con sal sabritas,23.00,https://www.lacomer.com.mx/superc/img_art/7501011167681_3.jpg
-La Comer,33,Papa con cebolla en aceite   helios,87.50,https://www.lacomer.com.mx/superc/img_art/8410095506127_3.jpg
-La Comer,34,Papa gourmet pimienta    ,39.00,https://www.lacomer.com.mx/superc/img_art/7503002228241_3.jpg
-La Comer,35,Papas fritas  adobadas max sabritas,15.00,https://www.lacomer.com.mx/superc/img_art/7501011167445_3.jpg
-La Comer,36,Pure de papa   golden hills,11.50,https://www.lacomer.com.mx/superc/img_art/7501010750808_3.jpg
-La Comer,37,Papas azules fritas   terra,98.50,https://www.lacomer.com.mx/superc/img_art/728229679011_3.jpg
-La Comer,38,Hamburguesa pollo con papas francesa    ,31.00,https://www.lacomer.com.mx/superc/img_art/2655721000006_3.jpg
-La Comer,39,Papas toreadas habanero   barcel,35.00,https://www.lacomer.com.mx/superc/img_art/7501000394883_3.jpg
-La Comer,40,Papas con chorizo   f/m,95.00,https://www.lacomer.com.mx/superc/img_art/2650577000002_3.jpg
-La Comer,41,Pure de papa a las finas hirbas idahoan,35.50,https://www.lacomer.com.mx/superc/img_art/29700001469_3.jpg
-La Comer,42,Pure de papa caja maggi,16.00,https://www.lacomer.com.mx/superc/img_art/7501001604554_3.jpg
-La Comer,43,Paps papas fritas jalapenocaseras caseras totis,19.90,https://www.lacomer.com.mx/superc/img_art/7500366001312_3.jpg
-La Comer,44,Gourmet papas fritas chille pasilla   sabritas,38.00,https://www.lacomer.com.mx/superc/img_art/7501011131293_3.jpg
-La Comer,45,Papa  corte ondulado 500 grs.   valley farms,36.00,https://www.lacomer.com.mx/superc/img_art/55773077889_3.jpg
-La Comer,46,Papas chips a la diabla   barcel,35.00,https://www.lacomer.com.mx/superc/img_art/7501000171842_3.jpg
-La Comer,47,Papa crema especias    ,39.00,https://www.lacomer.com.mx/superc/img_art/74012992_3.jpg
-La Comer,48,Botanas espinaca / papa / tomate / ranch   sensible portion,76.50,https://www.lacomer.com.mx/superc/img_art/829515301477_3.jpg
-La Comer,49,Papa a la francesa    ,74.00,https://www.lacomer.com.mx/superc/img_art/2655401000005_3.jpg
-La Comer,50,Papas fritas artesanales adobadas botatas,40.50,https://www.lacomer.com.mx/superc/img_art/7503014955029_3.jpg
-La Comer,51,Bot.papas rostipapas 200 grs.   rostipapas,27.00,https://www.lacomer.com.mx/superc/img_art/7503002228029_3.jpg
-La Comer,52,Gajos papa picante   f/m,80.00,https://www.lacomer.com.mx/superc/img_art/2650485000002_3.jpg
-La Comer,53,Papas chips fiesta jalapeo   barcel,60.00,https://www.lacomer.com.mx/superc/img_art/7501000398409_3.jpg
-La Comer,54,Mezcla exotica papa / camote betabel / yuca natures heart,51.90,https://www.lacomer.com.mx/superc/img_art/7502252481765_3.jpg
-La Comer,55,Tortas papa con queso   f/m,87.00,https://www.lacomer.com.mx/superc/img_art/2650155000004_3.jpg
-La Comer,56,Paps papas fritas caseras con sal de mar caseras con sal de mar totis,23.50,https://www.lacomer.com.mx/superc/img_art/7500366001343_3.jpg
-La Comer,57,Papa crema con especias    ,31.00,https://www.lacomer.com.mx/superc/img_art/7502260330857_3.jpg
-La Comer,58,Papas deshidratadas con chile   farm nurts,38.88,https://www.lacomer.com.mx/superc/img_art/606941300546_3.jpg
-La Comer,59,Papas original sal fritas sabritas,40.40,https://www.lacomer.com.mx/superc/img_art/7501011115606_3.jpg
-La Comer,60,Papa rostizada    ,51.00,https://www.lacomer.com.mx/superc/img_art/2655365000004_3.jpg
-La Comer,61,Papas sal vinagre 80gr deshidratadas sal & vinag farm nuts,43.00,https://www.lacomer.com.mx/superc/img_art/606941300591_3.jpg
-La Comer,62,Papas fritas adobadas sabritas,23.00,https://www.lacomer.com.mx/superc/img_art/7501011167667_3.jpg
-La Comer,63,Ruffles  papas fritas onduladas con queso max sabritas,14.00,https://www.lacomer.com.mx/superc/img_art/7501011167469_3.jpg
-La Comer,64,Papas chips jalapeo    barcel,10.50,https://www.lacomer.com.mx/superc/img_art/7501000266333_3.jpg
-La Comer,65,Papas deshidratadas a la pimienta arabe farm nuts,34.50,https://www.lacomer.com.mx/superc/img_art/606941300621_3.jpg
-La Comer,66,Papas toreadas habanero    barcel,10.50,https://www.lacomer.com.mx/superc/img_art/7501000360604_3.jpg
-La Comer,67,Papas stax original   sabritas,27.60,https://www.lacomer.com.mx/superc/img_art/7501011121973_3.jpg
-La Comer,68,Original papas fritas con sal sabritas,22.00,https://www.lacomer.com.mx/superc/img_art/7501011167650_3.jpg
-La Comer,69,Gnocchi con papa   delallo,66.60,https://www.lacomer.com.mx/superc/img_art/72368510972_3.jpg
-La Comer,70,Papa pimienta  /  limon    ,31.00,https://www.lacomer.com.mx/superc/img_art/7502260330871_3.jpg
-La Comer,71,Papas stax crema   sabritas,27.60,https://www.lacomer.com.mx/superc/img_art/7501011121997_3.jpg
-La Comer,72,Papas chips sal    barcel,10.50,https://www.lacomer.com.mx/superc/img_art/7501000260669_3.jpg
-La Comer,73,Papa cortte ondulado   valley farms,62.00,https://www.lacomer.com.mx/superc/img_art/55773077964_3.jpg
-La Comer,74,Botana de harina papa    ,29.67,https://www.lacomer.com.mx/superc/img_art/7503009722018_3.jpg
-La Comer,75,Papas supercrujiente mc cain,69.00,https://www.lacomer.com.mx/superc/img_art/55773077315_3.jpg
-La Comer,76,Papas deshidrata al parmesano & chipotle farm nurts,33.90,https://www.lacomer.com.mx/superc/img_art/606941300607_3.jpg
-La Comer,77,Papas shoestring valley farms,53.00,https://www.lacomer.com.mx/superc/img_art/55773077926_3.jpg
-La Comer,78,Papas chips fiesta sal   barcel,60.00,https://www.lacomer.com.mx/superc/img_art/7501000398416_3.jpg
-La Comer,79,Pur de papa   f/m,65.00,https://www.lacomer.com.mx/superc/img_art/2650702000006_3.jpg
-La Comer,80,Papas chips a la diabla    barcel,10.50,https://www.lacomer.com.mx/superc/img_art/7501000149001_3.jpg
-La Comer,81,Papa adobada frimex 190    ,30.00,https://www.lacomer.com.mx/superc/img_art/7502260330826_3.jpg
-La Comer,82,Tortas de papa   f/m,75.00,https://www.lacomer.com.mx/superc/img_art/2650217000003_3.jpg
-La Comer,83,Farm nuts papas finas hierbas 80gr deshidratadas con limon farm nuts,44.05,https://www.lacomer.com.mx/superc/img_art/606941300577_3.jpg
-La Comer,84,Papas al pesto   -,99.00,https://www.lacomer.com.mx/superc/img_art/2650800000007_3.jpg
-La Comer,85,Paps papas fritas onduladas con sal onduladas con sal totis,23.50,https://www.lacomer.com.mx/superc/img_art/7500366001404_3.jpg
-La Comer,86,Hamburguesa de papa    ,38.90,https://www.lacomer.com.mx/superc/img_art/2610506000008_3.jpg
-La Comer,87,Paps papas fritas queso onduladas onduladas totis,23.50,https://www.lacomer.com.mx/superc/img_art/7500366001374_3.jpg
-La Comer,88,Papas adobadas fritas sabritas,25.00,https://www.lacomer.com.mx/superc/img_art/7501011133921_3.jpg
-La Comer,89,Papas original sal fritas sabritas,55.10,https://www.lacomer.com.mx/superc/img_art/7501011115613_3.jpg
-La Comer,90,Papa lisa 750 gr. lh   la huerta,49.50,https://www.lacomer.com.mx/superc/img_art/7501047932000_3.jpg
-La Comer,91,Papa natural frimex    ,30.00,https://www.lacomer.com.mx/superc/img_art/7502260330819_3.jpg
-La Comer,92,Ruffles  papas fritas onduladas con queso sabritas,23.00,https://www.lacomer.com.mx/superc/img_art/7501011167674_3.jpg
-La Comer,93,Tortas de papa   mc cain,42.50,https://www.lacomer.com.mx/superc/img_art/55773002089_3.jpg
-La Comer,94,Papa bbq    ,39.00,https://www.lacomer.com.mx/superc/img_art/74012961_3.jpg
-La Comer,95,Papas fritas   ricky s,37.90,https://www.lacomer.com.mx/superc/img_art/7500326832604_3.jpg
-La Comer,96,Papas corte ondulado mc cain,68.00,https://www.lacomer.com.mx/superc/img_art/55773077476_3.jpg
-La Comer,97,Charola nugget y papa francesa    ,31.00,https://www.lacomer.com.mx/superc/img_art/2655720000007_3.jpg
-La Comer,98,Pan de papa con tocino    ,55.00,https://www.lacomer.com.mx/superc/img_art/2661458000004_3.jpg
-La Comer,99,Papas corteshoestring valley farms,34.00,https://www.lacomer.com.mx/superc/img_art/55773077896_3.jpg
-La Comer,100,Papa gajo sazonada 750 gr. lh   la huerta,56.00,https://www.lacomer.com.mx/superc/img_art/7501047932024_3.jpg
-La Comer,101,Papa rufleada 750 gr. lh   la huerta,49.50,https://www.lacomer.com.mx/superc/img_art/7501047932017_3.jpg
-La Comer,102,Torta de papa    ,53.90,https://www.lacomer.com.mx/superc/img_art/70733662_3.jpg
-La Comer,103,Papas corte ondulado    mc cain,39.90,https://www.lacomer.com.mx/superc/img_art/55773077414_3.jpg
-La Comer,104,Papas crema y especias fritas sabritas,25.00,https://www.lacomer.com.mx/superc/img_art/7501011115590_3.jpg
-La Comer,105,Papa estilo aleman   f/m,84.00,https://www.lacomer.com.mx/superc/img_art/2650053000007_3.jpg
-La Comer,106,Pure de papa al chipotle idahoan,35.50,https://www.lacomer.com.mx/superc/img_art/29700021511_3.jpg
-La Comer,107,Papas stax cheddar   sabritas,27.60,https://www.lacomer.com.mx/superc/img_art/7501011121980_3.jpg
-La Comer,108,Gourmet papas fritas jamon serrano   sabritas,38.00,https://www.lacomer.com.mx/superc/img_art/7501011131309_3.jpg
-La Comer,109,Sabritas original papas sal fritas sabritas,25.00,https://www.lacomer.com.mx/superc/img_art/7501011133884_3.jpg
-La Comer,110,Receta crujiente papas fritas con jalapeo sabritas,28.70,https://www.lacomer.com.mx/superc/img_art/7501011143258_3.jpg
-La Comer,111,Pringles  papa  de queso 137gr   pringles,30.20,https://www.lacomer.com.mx/superc/img_art/38000846854_3.jpg
-La Comer,112,Pure de papa instantaneo   pronto,14.50,https://www.lacomer.com.mx/superc/img_art/7501200484506_3.jpg
-La Comer,113,Receta crujiente papas fritas  con chile   sabritas,28.70,https://www.lacomer.com.mx/superc/img_art/7501011143265_3.jpg
-La Comer,114,"Veggiechips papa, tomate, espinaca   vechips",28.50,https://www.lacomer.com.mx/superc/img_art/853267004003_3.jpg
-La Comer,115,Papas fritas receta crujiente con sal   sabritas,28.70,https://www.lacomer.com.mx/superc/img_art/7501011143241_3.jpg
-La Comer,116,Pringles pringooools copa america chile crujiente de papa origina pringles,32.50,https://www.lacomer.com.mx/superc/img_art/38000134555_3.jpg
-Chedraui,0,Figura Playskool Sr Y Sra Cara De Papa,188.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/5/65356966674_00.jpg
-Chedraui,1,Papas Vechips Harina Tom Esp Pap 42.5 Gr,29.65,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/5/85326700400_00.jpg
-Chedraui,2,Taco Papas con Chorizo,9.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/3/2351094_00.jpg
-Chedraui,3,Porcion de Pure de Papa,9.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/3/2354095_00.jpg
-Chedraui,4,Torta De Papa,35.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/5/2502750_00.jpg
-Chedraui,5,Papa Blanca Granel Kg,15.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/5/2502916_00.jpg
-Chedraui,6,Pure de Papa,65.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
-Chedraui,7,Papa Gratinada,119.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
-Chedraui,8,Torta de Papa,83.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/5/2503811_00.jpg
-Chedraui,9,Papas A La Francesa Kg,81.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/5/2507055_00.jpg
-Chedraui,10,Papas Gajos Kg,92.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/5/2507056_00.jpg
-Chedraui,11,Pure de Papa con Rajas fs,77.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
-Chedraui,12,Papa Pringles Original 37 Gr,14.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/8/3800084673_00.jpg
-Chedraui,13,"Papas Pringles 40 gr, Crema cebolla",14.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/8/3800084674_00.jpg
-Chedraui,14,"Papas Pringles 40 gr, Queso",14.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/8/3800084675_00.jpg
-Chedraui,15,Papa Pringles Chile Limón 137 Gr,32.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/8/3800084679_00.jpg
-Chedraui,16,"Papas Pringles 137 g, Natural",32.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/8/3800084684_00.jpg
-Chedraui,17,Papas Springfield Cuts  32 Oz,62.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/1/4138050037_00.jpg
-Chedraui,18,Papa Mccain Supercrujiente 750 Gr,68.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/5/5577307731_00.jpg
-Chedraui,19,Papa Mccain Gajos 750 Gr,46.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/5/5577307735_00.jpg
-Chedraui,20,Papa Mccain Recto 500 Gr,38.65,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/5/5577307740_00.jpg
-Chedraui,21,Papa Mccain Ondulado 500 Gr,38.65,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/5/5577307741_00.jpg
-Chedraui,22,Papa Mccain Ondulado 1 Kg,57.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/5/5577307747_00.jpg
-Chedraui,23,Papas Mccain Corte Delgado 1 Kg,57.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/5/5577307748_00.jpg
-Chedraui,24,Papa Valleyfarms Recto 500 Gr,34.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/5/5577307787_00.jpg
-Chedraui,25,Papa Valleyfarms Ondulado 500 Gr,34.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/5/5577307788_00.jpg
-Chedraui,26,Papa Valleyfarms Shoestring 1 Kg,35.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/5/5577307792_00.jpg
-Chedraui,27,Papa Valleyfarms Recto 1 Kg,61.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/5/5577307795_00.jpg
-Chedraui,28,Papa Valleyfarms Ondulado 1 Kg,61.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/5/5577307796_00.jpg
-Chedraui,29,Papa Mixxy 80 Gr Deshidratada,32.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/0/60694130053_00.jpg
-Chedraui,30,Papa Mixxy Chile 80 Gr Deshidratada,32.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/0/60694130054_00.jpg
-Chedraui,31,Papas Farm Nuts Limon 80 G,34.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/0/60694130064_00.jpg
-Chedraui,32,Figura Playskool Cara Papa Marvel B0276,278.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/3/63050935722_00.jpg
-Chedraui,33,Figura Playskool Cara Papa Pirata B0093,278.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/3/63050935724_00.jpg
-Chedraui,34,Figura Playskool Cara Papa Transfo A7281,84.60,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/5/65356997644_00.jpg
-Chedraui,35,Figura Playskool Cara Papa Marvel A7283,71.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/5/65356997650_00.jpg
-Chedraui,36,Figura Playskool Sr Cara Papa Heroes Com,143.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/5/65356999219_00.jpg
-Chedraui,37,Vehiculo Playskool Cara Papa Trans A7273,143.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/5/65356999223_00.jpg
-Chedraui,38,Papa Pik-Nik Original 225 Gr,69.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/4/7492340527_00.jpg
-Chedraui,39,Papas Totis Clásicas Sal 170 Gr,22.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750036600062_00.jpg
-Chedraui,40,"Papas Totis , Adobadas Chile 170 Gr",22.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750036600064_00.jpg
-Chedraui,41,Papas Totis Caseras Jalapeño 170 G,22.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750036600131_00.jpg
-Chedraui,42,Papas Totis Casera Onduladas Sal De Mar,22.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750036600134_00.jpg
-Chedraui,43,Papa Barcel Chips Saladas 46 Gr,11.35,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750100026066_00.jpg
-Chedraui,44,"Papas Fritas Barcel 170 gr, Salados",29.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750100026620_00.jpg
-Chedraui,45,"Papas Fritas Barcel 170 gr, Jalapeño",29.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750100026623_00.jpg
-Chedraui,46,Papa Barcel Chips Jalapeño 46 Gr,11.35,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750100026633_00.jpg
-Chedraui,47,"Papas Fritas Barcel 170 gr, Toreadas",29.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750100039488_00.jpg
-Chedraui,48,Papa Barcel Chips Jalapeño 350 Gr,60.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750100039840_00.jpg
-Chedraui,49,Papa Barcel Salada 350 Gr,60.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750100039841_00.jpg
-Chedraui,50,"Pap Gerber Jr 250 gr, Pollo con papas",23.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750100092239_00.jpg
-Chedraui,51,Pure Maggi De Papa Estandar 125Gr,16.45,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750100160455_00.jpg
-Chedraui,52,Papa Sabritas Salada 240 Gr,40.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101111560_00.jpg
-Chedraui,53,Papa Sabritas Ruffles Queso 290 Gr,47.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101111566_00.jpg
-Chedraui,54,Papa Lays Stax Original 163 Gr,28.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112197_00.jpg
-Chedraui,55,Papas Sabritas Ruffles Queso 200gr,33.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113121_00.jpg
-Chedraui,56,Papas Sabritas Ruffles Saladas 200gr,33.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113125_00.jpg
-Chedraui,57,"Papa Sab Gou, Chile pasilla y vino tinto",35.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113129_00.jpg
-Chedraui,58,Papa Sabritas Salada 170 Gr,31.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113388_00.jpg
-Chedraui,59,Papa Sabritas Adobada 170 Gr,31.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113392_00.jpg
-Chedraui,60,Papa Lays Stax Spicy Pizza 155.9 Gr,28.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113432_00.jpg
-Chedraui,61,Papa Lays Stax Spicy Barbecue 155.9 Gr,28.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113469_00.jpg
-Chedraui,62,"Papas Sabritas Rec Cruj 170gr, S",19.95,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114324_01.jpg
-Chedraui,63,"Papas Sabritas Rec Cruj 170gr, J",29.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114325_01.jpg
-Chedraui,64,"Papas Sabritas Rec Cruj 170gr, C",29.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114326_01.jpg
-Chedraui,65,Papa Sabritas Crujiente Enchilado Flamas,29.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101115926_01.jpg
-Chedraui,66,Pure Verde Valle De Papa 160Gr,13.35,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750107130162_1.jpg
-Chedraui,67,Pure Selecto De Papa 125Gr,13.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125362401_00.jpg
-Chedraui,68,Papa Selecto Recto 500 Gr,28.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364817_00.jpg
-Chedraui,69,Papa Selecto Rizado 1 Kg,44.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364818_00.jpg
-Chedraui,70,Papa Selecto Rizado 500 Gr,28.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364819_00.jpg
-Chedraui,71,Papa Selecto Crunch Fritas Jalapeño 170,19.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125365190_02.jpg
-Chedraui,72,Papa Selecto Adobada 170 Gr,21.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125365192_00.jpg
-Chedraui,73,Papa Barcel Chips Fuego 170 Gr,29.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/75752800188_00.jpg
-Chedraui,74,Papa Barcel Chips Sal De Mar 170 Gr,29.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/75752800988_00.jpg
-Chedraui,75,Papa al Horno 12 pz,19.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/3/2353460_00.jpg
-Chedraui,76,Papa Recta Fs,74.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/5/2508340_00.jpg
-Chedraui,77,Papa Gajo Fs,85.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/5/2508341_00.jpg
-Chedraui,78,Papa Cambray Rosada Kg,27.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/5/2508579_01.jpg
-Chedraui,79,"Papas Pringles 137 g, Crema cebolla",32.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/8/3800084680_00.jpg
-Chedraui,80,"Papas Pringles 137 g, Queso",32.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/8/3800084685_00.jpg
-Chedraui,81,Papas Springfield French Fries,62.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/1/4138050036_00.jpg
-Chedraui,82,Nuggets Springfield Papa,62.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/1/4138050227_00.jpg
-Chedraui,83,Papa Lahuerta Lisa 750 Gr,49.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750104793200_00.jpg
-Chedraui,84,Papa Lahuerta Rufleada 750 Gr,49.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750104793201_00.jpg
-Chedraui,85,Papa La Huerta Gajos Sazonados 750 Gr,55.60,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750104793202_00.jpg
-Chedraui,86,Papa Selecto Crunch Fritas Sal Mar 170 G,19.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125365191_00.jpg
-Chedraui,87,Pps Gnocchi Papa 500 Gr,51.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/0/800125000999_00.jpg
-Chedraui,88,Papa Kettle Cheddar Hierba Mixta 150 Gr,53.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/8411400994_00.jpg
-Chedraui,89,Veggie Fries Zanahoria Papa 397 Grs,110.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/5/85251300500_00.jpg
-Chedraui,90,Veggie Fries Brocoli Papa 397 Grs,110.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/5/85251300501_00.jpg
-Chedraui,91,Papa Kettle Sal Vinagre 142 Gr,53.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/4/8411400996_00.jpg
-Chedraui,92,Papas Chedraui Congeladas 1 Kg,33.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125366208_00.jpg
-Chedraui,93,Tortita de Papa LF,7.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/3/2355874_01.jpg
-Chedraui,94,Papas Hash Brown Cascadian Farm Organico,11.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/1/2190850167_00.jpg
-Chedraui,95,Papas Comparte Sabritas Adobadas 110g,22.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101116766_01.jpg
-Chedraui,96,Papas Sabritas Max Original Sal 67 G,14.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101116743_00.jpg
-Chedraui,97,Papas Farm Nuts Al Parmesano Chipotle 80,37.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/0/60694130060_07.jpg
-Chedraui,98,Papas Farm Nuts Al Pesto Original 80 Gr,38.35,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/0/60694130061_07.jpg
-Chedraui,99,Papas Farm Nuts A La Pimienta Arabe 80 G,35.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/0/60694130062_07.jpg
-Chedraui,100,Papas Farm Nuts A Las Finas Hierbas 80 G,37.05,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/0/60694130063_07.jpg
-Chedraui,101,Papas Farm Nuts A Las Hierbas Orientales,37.05,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/0/60694130058_07.jpg
-Chedraui,102,Papa Cocida Del Monte En Cubos Lata 430,10.45,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750100658426_01.jpg
-Chedraui,103,Papas Botatas Adobadas 160 Gr,40.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750301495502_01.jpg
-Chedraui,104,Papas Pringles Copa America Queso 167 G,32.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
-Walmart,0,papas lays stax original 163 g,27.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112197L.jpg
-Walmart,1,papas lays stax sabor queso 156 g,27.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112198L.jpg
-Walmart,2,papas ruffles  sabor queso 200 g,33.90,https://www.walmart.com.mx/super/images/Products/img_large/0750101113121L.jpg
-Walmart,3,papas sabritas  original 170 g,31.90,https://www.walmart.com.mx/super/images/Products/img_large/0750101113388L.jpg
-Walmart,4,papas sabritas receta crujiente con sal 170 g,29.00,https://www.walmart.com.mx/super/images/Products/img_large/0750101114324L.jpg
-Walmart,5,papas totis paps clásicas con sal 170 g,22.90,https://www.walmart.com.mx/super/images/Products/img_large/0750036600062L.jpg
-Walmart,6,papas fritas totis paps adobadas 170 g,22.90,https://www.walmart.com.mx/super/images/Products/img_large/0750036600064L.jpg
-Walmart,7,papas lays stax sabor pizza pepperoni y tomate 155.9 g,27.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101113432L.jpg
-Walmart,8,papas lays stax sabor bbq picante 155.9 g,27.00,https://www.walmart.com.mx/super/images/Products/img_large/0750101113469L.jpg
-Walmart,9,papas sabritas receta crujiente sabor jalapeño 170 g,29.00,https://www.walmart.com.mx/super/images/Products/img_large/0750101114325L.jpg
-Walmart,10,papas sabritas receta crujiente sabor chiles rojos 170 g,29.00,https://www.walmart.com.mx/super/images/Products/img_large/0750101114326L.jpg
-Walmart,11,papas sabritas flamin hot sabor chile y especias 170 g,29.00,https://www.walmart.com.mx/super/images/Products/img_large/0750101115926L.jpg
-Walmart,12,papas sabritas crema y especias crema y especias 170 g,31.90,https://www.walmart.com.mx/super/images/Products/img_large/0750101111559L.jpg
-Walmart,13,papas totis paps sabor jalapeño estilo caseras 170 g,22.90,https://www.walmart.com.mx/super/images/Products/img_large/0750036600131L.jpg
-Walmart,14,papas totis paps onduladas sabor queso 170 g,22.90,https://www.walmart.com.mx/super/images/Products/img_large/0750036600137L.jpg
-Walmart,15,papas fritas totis paps con sal de mar estilo caseras 170 g,22.90,https://www.walmart.com.mx/super/images/Products/img_large/0750036600134L.jpg
-Walmart,16,papas fritas totis paps onduladas con sal 170 g,22.90,https://www.walmart.com.mx/super/images/Products/img_large/0750036600140L.jpg
-Walmart,17,papas fritas por kg,135.18,https://www.walmart.com.mx/super/images/Products/img_large/0020915200000L.jpg
-Walmart,18,papas pringles  sabor original 137 g,32.50,https://www.walmart.com.mx/super/images/Products/img_large/0003800084684L.jpg
-Walmart,19,papas lays  sal y vinagre 184.2 g,69.00,https://www.walmart.com.mx/super/images/Products/img_large/0002840001750L.jpg
-Walmart,20,papas lays  bbq 184.2 g,69.00,https://www.walmart.com.mx/super/images/Products/img_large/0002840001768L.jpg
-Walmart,21,papas pringles  sabor chile y limón 137 g,32.50,https://www.walmart.com.mx/super/images/Products/img_large/0003800084679L.jpg
-Walmart,22,papas pringles  sabor crema y cebolla 137 g,32.50,https://www.walmart.com.mx/super/images/Products/img_large/0003800084680L.jpg
-Walmart,23,papas a la francesa beaumarais  corte ondulado 1 kg,48.90,https://www.walmart.com.mx/super/images/Products/img_large/0005577307791L.jpg
-Walmart,24,papas farm nuts  deshidratadas 80 g,32.00,https://www.walmart.com.mx/super/images/Products/img_large/0060694130053L.jpg
-Walmart,25,papas great value  onduladas 270 g,36.50,https://www.walmart.com.mx/super/images/Products/img_large/0061667606641L.jpg
-Walmart,26,papas great value  con sal 270 g,36.50,https://www.walmart.com.mx/super/images/Products/img_large/0061667616641L.jpg
-Walmart,27,papas terra  combinación exótica mediterránea 192 g,69.00,https://www.walmart.com.mx/super/images/Products/img_large/0072822912347L.jpg
-Walmart,28,papas terra  combinación exótica original 192 g,69.00,https://www.walmart.com.mx/super/images/Products/img_large/0072822912375L.jpg
-Walmart,29,papas barcel toreadas sabor habanero 170 g,29.90,https://www.walmart.com.mx/super/images/Products/img_large/0750100039488L.jpg
-Walmart,30,papas sabritas  original 240 g,42.00,https://www.walmart.com.mx/super/images/Products/img_large/0750101111560L.jpg
-Walmart,31,papas sabritas  original 340 g,55.00,https://www.walmart.com.mx/super/images/Products/img_large/0750101111561L.jpg
-Walmart,32,papas ruffles  sabor queso 290 g,45.00,https://www.walmart.com.mx/super/images/Products/img_large/0750101111566L.jpg
-Walmart,33,papas lays stax crema y cebolla 155.9 g,28.00,https://www.walmart.com.mx/super/images/Products/img_large/0750101112199L.jpg
-Walmart,34,papas congeladas la huerta  en gajos sazonados 750 g,52.00,https://www.walmart.com.mx/super/images/Products/img_large/0750104793202L.jpg
-Walmart,35,papas chips  sabor jalapeño 350 g,60.00,https://www.walmart.com.mx/super/images/Products/img_large/0750100039840L.jpg
-Walmart,36,papas chips  sabor jalapeño 170 g,29.90,https://www.walmart.com.mx/super/images/Products/img_large/0750100026623L.jpg
-Walmart,37,papas chips  sabor fuego 170 g,29.90,https://www.walmart.com.mx/super/images/Products/img_large/0075752800188L.jpg
-Walmart,38,papas chips  sabor sal de mar 350 g,60.00,https://www.walmart.com.mx/super/images/Products/img_large/0750100039841L.jpg
-Walmart,39,papas chips  sabor sal de mar 170 g,29.90,https://www.walmart.com.mx/super/images/Products/img_large/0750100026620L.jpg
-Walmart,40,papas kettle  con sal y pimienta molida 241 g,59.00,https://www.walmart.com.mx/super/images/Products/img_large/0008411410853L.jpg
-Walmart,41,papas a la francesa paquete de 200 g,15.00,https://www.walmart.com.mx/super/images/Products/img_large/0020058300000L.jpg
-Walmart,42,papas pringles  crema y cebolla 40 g,14.50,https://www.walmart.com.mx/super/images/Products/img_large/0003800084674L.jpg
-Walmart,43,papas pringles  queso 40 g,14.50,https://www.walmart.com.mx/super/images/Products/img_large/0003800084675L.jpg
-Walmart,44,papas pringles  original 37 g,14.50,https://www.walmart.com.mx/super/images/Products/img_large/0003800084673L.jpg
-Walmart,45,papas kettle  sal de mar y vinagre 240 g,59.00,https://www.walmart.com.mx/super/images/Products/img_large/0008411410814L.jpg
-Walmart,46,papas fritas aurrera  sabor natural 170 g,19.50,https://www.walmart.com.mx/super/images/Products/img_large/0750179163199L.jpg
-Walmart,47,papas sabritas  ligeras original 100 g,27.00,https://www.walmart.com.mx/super/images/Products/img_large/0750101115999L.jpg
-Walmart,48,papas chips  sabor fuego limón 100 g,23.00,https://www.walmart.com.mx/super/images/Products/img_large/0075752801849L.jpg
-Walmart,49,papas pringles  chile y limón 40 g,14.50,https://www.walmart.com.mx/super/images/Products/img_large/0003800084761L.jpg
-Walmart,50,papas fritas sabritas  con sal original 110 g,22.00,https://www.walmart.com.mx/super/images/Products/img_large/0750101116765L.jpg
-Walmart,51,papas chips  sabor jalapeño 100 g,23.00,https://www.walmart.com.mx/super/images/Products/img_large/0075752801976L.jpg
-Walmart,52,papas chips  sabor sal de mar 100 g,23.00,https://www.walmart.com.mx/super/images/Products/img_large/0075752801977L.jpg
-Walmart,53,papas pringles  sabor pizza 40 g,14.50,https://www.walmart.com.mx/super/images/Products/img_large/0003800084554L.jpg
-Walmart,54,papas lays stax crema y cebolla 40 g,10.00,https://www.walmart.com.mx/super/images/Products/img_large/0750101115057L.jpg
-Walmart,55,papas lays stax original 40 g,10.00,https://www.walmart.com.mx/super/images/Products/img_large/0750101115039L.jpg
-Walmart,56,papas farm nuts al parmesano y chipotle 80 g,37.90,https://www.walmart.com.mx/super/images/Products/img_large/0060694130060L.jpg
-Walmart,57,papas cape cod kettle cooked original 226 g,59.40,https://www.walmart.com.mx/super/images/Products/img_large/0002068500029L.jpg
-Walmart,58,papas cape cod kettle cooked sabor sea salt and vinegar 226 g,59.40,https://www.walmart.com.mx/super/images/Products/img_large/0002068507940L.jpg
-Walmart,59,papas pringles  sabor parmesano y aceite de oliva 137 g,32.50,https://www.walmart.com.mx/super/images/Products/img_large/0003800084690L.jpg
-Walmart,60,papas a la francesa mccain super wedges con cáscara sazonada 750 g,46.80,https://www.walmart.com.mx/super/images/Products/img_large/0005577307735L.jpg
-Walmart,61,papas a la francesa valley farms  corte delgado 1 kg,42.00,https://www.walmart.com.mx/super/images/Products/img_large/0005577307792L.jpg
-Walmart,62,botana crujiente snyders naturals sabor papas tomates y espinaca 200 g,49.90,https://www.walmart.com.mx/super/images/Products/img_large/0007797508871L.jpg
-Walmart,63,botana crujiente snyders naturals sabor papas tomates y espinaca 170 g,49.90,https://www.walmart.com.mx/super/images/Products/img_large/0007797508872L.jpg
+Superama,0,cacahuates mafer  premium surtido especial salado 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112529L.jpg
+Superama,1,cacahuate japonés great value 180 g,10.00,http://www.superama.com.mx/Content/images/products/img_large/0750179166102L.jpg
+Superama,2,cacahuates calidad selecta  290 g,35.00,http://www.superama.com.mx/Content/images/products/img_large/0750301926831L.jpg
+Superama,3,"salsa spico  de cacahuate, ajonjolí y tres chiles 195 g",75.00,http://www.superama.com.mx/Content/images/products/img_large/0750032626008L.jpg
+Superama,4,cacahuates mafer  premium salado 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112460L.jpg
+Superama,5,cacahuates mafer  premium enchilado clásico 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112477L.jpg
+Superama,6,cacahuates mafer  premium japonés tostado clásico 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101113213L.jpg
+Superama,7,cacahuates mafer  premium japonés tostado con limón 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112624L.jpg
+Superama,8,cacahuates mafer  premium tostado sazonado sabor jalapeño 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101113212L.jpg
+Superama,9,cacahuates mafer  premium tostado sazonado sin aceite 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112693L.jpg
+Superama,10,crema de cacahuate aladino  creamy 425 g,57.00,http://www.superama.com.mx/Content/images/products/img_large/0750222377613L.jpg
+Superama,11,crema de cacahuate aladino  crunchy 425 g,57.00,http://www.superama.com.mx/Content/images/products/img_large/0750222377614L.jpg
+Superama,12,crema de cacahuate aladino  honey crunchy 468 g,57.00,http://www.superama.com.mx/Content/images/products/img_large/0750222377616L.jpg
+Superama,13,crema de cacahuate aladino  soft and sweety 425 g,57.00,http://www.superama.com.mx/Content/images/products/img_large/0750222377615L.jpg
+Superama,14,crema de cacahuate skippy  con miel 462 g,62.50,http://www.superama.com.mx/Content/images/products/img_large/0003760011087L.jpg
+Superama,15,crema de cacahuate skippy  cremosa 462 g,62.50,http://www.superama.com.mx/Content/images/products/img_large/0003760023093L.jpg
+Superama,16,crema de cacahuate skippy  untable con trozos de cacahuate reducida en grasa 462 g,62.50,http://www.superama.com.mx/Content/images/products/img_large/0003760010499L.jpg
+Superama,17,crema de cacahuate great value  untable 510 g,51.51,http://www.superama.com.mx/Content/images/products/img_large/0750179165018L.jpg
+Superama,18,crema de cacahuate great value  untable con trocitos 510 g,51.51,http://www.superama.com.mx/Content/images/products/img_large/0750179165019L.jpg
+Superama,19,crema de cacahuate jif  reducida en grasa 454 g,56.49,http://www.superama.com.mx/Content/images/products/img_large/0005150025485L.jpg
+Superama,20,crema de cacahuate penotti cookie nott speculoos crunchy 350 g,65.01,http://www.superama.com.mx/Content/images/products/img_large/0871720000504L.jpg
+Superama,21,crema de cacahuate peter pan  vitaminada 462 g,49.90,http://www.superama.com.mx/Content/images/products/img_large/0750302108716L.jpg
+Superama,22,crema de cacahuate skippy  untable reducida en grasa 462 g,62.50,http://www.superama.com.mx/Content/images/products/img_large/0003760010500L.jpg
+Superama,23,crema de cacahuate tasty diabetics  sin azúcar 310 g,50.50,http://www.superama.com.mx/Content/images/products/img_large/0750190277024L.jpg
+Superama,24,aceite de cacahuate inés  tostado 250 ml,62.00,http://www.superama.com.mx/Content/images/products/img_large/0750301126318L.jpg
+Superama,25,cacahuate salado great value 180 g,15.00,http://www.superama.com.mx/Content/images/products/img_large/0750179166099L.jpg
+Superama,26,cacahuate tostado great value 180 g,15.00,http://www.superama.com.mx/Content/images/products/img_large/0750179166100L.jpg
+Superama,27,cacahuates barcel hot nuts 100 g,14.30,http://www.superama.com.mx/Content/images/products/img_large/0750103045995L.jpg
+Superama,28,cacahuates barcel hot nuts 190 g,28.00,http://www.superama.com.mx/Content/images/products/img_large/0750103042057L.jpg
+Superama,29,cacahuates bel ara  acaramelados 250 g,39.90,http://www.superama.com.mx/Content/images/products/img_large/0750300387745L.jpg
+Superama,30,cacahuates karate  estilo japonés 171 g,17.00,http://www.superama.com.mx/Content/images/products/img_large/0750101114193L.jpg
+Superama,31,cacahuates kiyakis  japoneses 150 g,15.90,http://www.superama.com.mx/Content/images/products/img_large/0750103042058L.jpg
+Superama,32,cacahuates planters  tostados y salados 453 g,73.00,http://www.superama.com.mx/Content/images/products/img_large/0002900007325L.jpg
+Superama,33,cacahuates sabritas  enchilados 180 g,28.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112868L.jpg
+Superama,34,cacahuates sabritas  japoneses 180 g,28.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112823L.jpg
+Superama,35,cacahuates sabritas  salados con limón 180 g,28.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112825L.jpg
+Superama,36,galletas chocolatines  con malvavisco y cacahuate 7 paketines,31.50,http://www.superama.com.mx/Content/images/products/img_large/0750100066273L.jpg
+Superama,37,palanqueta dulces gilys  de cacahuate 45 g,9.50,http://www.superama.com.mx/Content/images/products/img_large/0066523400019L.jpg
+Superama,38,palomitas farm nuts  garapiñadas con cacahuates 100 g,34.50,http://www.superama.com.mx/Content/images/products/img_large/0060694160009L.jpg
+Superama,39,sutido de garbanzo y cacahuates 205 g,35.00,http://www.superama.com.mx/Content/images/products/img_large/0750301926832L.jpg
+Superama,40,barras de granola nature valley  con cacahuate 6 pzas,32.90,http://www.superama.com.mx/Content/images/products/img_large/0001600044685L.jpg
+Superama,41,bombón bon o bon  relleno con crema de cacahuate 90 g,15.00,http://www.superama.com.mx/Content/images/products/img_large/0750223095027L.jpg
+Superama,42,cacahuate chocolate y coco bel ara 250 g,49.90,http://www.superama.com.mx/Content/images/products/img_large/0750223486730L.jpg
+Superama,43,cacahuates barcel golden nuts saladados 190 g,24.80,http://www.superama.com.mx/Content/images/products/img_large/0750103042055L.jpg
+Superama,44,cacahuates golden nuts estílo japonés 190 g,28.00,http://www.superama.com.mx/Content/images/products/img_large/0750103042054L.jpg
+Superama,45,cacahuates great value  crujientes picositos 160 g,10.00,http://www.superama.com.mx/Content/images/products/img_large/0750179166101L.jpg
+Superama,46,cacahuates great value  enchilados fritos 180 g,15.00,http://www.superama.com.mx/Content/images/products/img_large/0750179166098L.jpg
+Superama,47,cacahuates mafer  premium enchilado clásico 100 g,18.00,http://www.superama.com.mx/Content/images/products/img_large/0750101114344L.jpg
+Superama,48,cacahuates mafer  premium japonés tostado con limón 100 g,18.00,http://www.superama.com.mx/Content/images/products/img_large/0750101114343L.jpg
+Superama,49,cacahuates mafer  premium japonés tostado con limón 70 g,11.80,http://www.superama.com.mx/Content/images/products/img_large/0750101114353L.jpg
+Superama,50,cacahuates mafer  premium tostados sazonados sin aceite 70 g,11.80,http://www.superama.com.mx/Content/images/products/img_large/0750101114345L.jpg
+Superama,51,cacahuates mafer  premium tostados sin aceite sazonados 100 g,17.00,http://www.superama.com.mx/Content/images/products/img_large/0750101114341L.jpg
+Superama,52,cacahuates nipon  3 pack 180 g c/u + 2 tanukis de regalo *,45.00,http://www.superama.com.mx/Content/images/products/img_large/0750301301361L.jpg
+Superama,53,cacahuates sabritas  kacang chile y limón 171 g,19.90,http://www.superama.com.mx/Content/images/products/img_large/0750101115156L.jpg
+Superama,54,cacahuates sabritas  kacang sal y limón 171 g,19.90,http://www.superama.com.mx/Content/images/products/img_large/0750101115148L.jpg
+Superama,55,cacahuates win nuts  calidad premium tostado sin sal 454 g,46.50,http://www.superama.com.mx/Content/images/products/img_large/0750185540233L.jpg
+Superama,56,cacahuates win nuts  super cantinero con totopos chile y ajo 454 g,46.50,http://www.superama.com.mx/Content/images/products/img_large/0750185542390L.jpg
+Superama,57,cacahuates y pepitas sabritas  kacang con chile 171 g,19.90,http://www.superama.com.mx/Content/images/products/img_large/0750101115395L.jpg
+Superama,58,cereal natures path envirokidz panda puffs sabor crema de cacahuate 300 g,78.00,http://www.superama.com.mx/Content/images/products/img_large/0005844986004L.jpg
+Superama,59,chocolate m and m s  con cacahuate 49.3 g,13.50,http://www.superama.com.mx/Content/images/products/img_large/0750617450045L.jpg
+Superama,60,chocolates m&#38;ms  con cacahuate 100 g,26.50,http://www.superama.com.mx/Content/images/products/img_large/0750617450286L.jpg
+Superama,61,chocolates m&#38;ms  con cacahuate 3 pzas 147.9 g,37.00,http://www.superama.com.mx/Content/images/products/img_large/0070646024318L.jpg
+Superama,62,chocolates m&#38;ms  con cacahuate empaque botanero 124 g,29.49,http://www.superama.com.mx/Content/images/products/img_large/0070646024314L.jpg
+Superama,63,crema de almendra terrafertil natures heart clasica 284 g,204.99,http://www.superama.com.mx/Content/images/products/img_large/0750225248170L.jpg
+Superama,64,crema de almendras terrafertil natures heart crunchy 284 g,204.99,http://www.superama.com.mx/Content/images/products/img_large/0750225248171L.jpg
+Superama,65,crema de avellanas great value  cacao y leche 350 g,42.00,http://www.superama.com.mx/Content/images/products/img_large/0750179162948L.jpg
+Superama,66,crema de avellanas nutella  350 g,60.00,http://www.superama.com.mx/Content/images/products/img_large/0078974289505L.jpg
+Superama,67,crema de avellanas nutella  650 g,92.01,http://www.superama.com.mx/Content/images/products/img_large/0078974289650L.jpg
+Superama,68,crema de avellanas tasty diabetics  sin azúcar 350 g,77.00,http://www.superama.com.mx/Content/images/products/img_large/0750190277026L.jpg
+Superama,69,crema de cacahuate smuckers goober con jalea de fresa 340 g,50.00,http://www.superama.com.mx/Content/images/products/img_large/0005150002066L.jpg
+Superama,70,crema de cacao extra special  con café mocca 200 g,42.99,http://www.superama.com.mx/Content/images/products/img_large/0750179163896L.jpg
+Superama,71,crema de chocolate penotti cookie nott  speculoos con espresso 350 g,65.01,http://www.superama.com.mx/Content/images/products/img_large/0871720000505L.jpg
+Superama,72,crema de chocolate penotti cookie nott speculoos capuccino 350 g,65.01,http://www.superama.com.mx/Content/images/products/img_large/0871720000506L.jpg
+Superama,73,crema de chocolate penotti cookie nott speculoos original 350 g,65.01,http://www.superama.com.mx/Content/images/products/img_large/0871720000503L.jpg
+Superama,74,crema duo great value  chocolate y plátano 350 g,42.00,http://www.superama.com.mx/Content/images/products/img_large/0750179163788L.jpg
+Superama,75,crema untable extra special  con trozos de avellana 200 g,42.99,http://www.superama.com.mx/Content/images/products/img_large/0750179163946L.jpg
+Superama,76,crema untable extra special  con trozos de coco 200 g,42.99,http://www.superama.com.mx/Content/images/products/img_large/0750179163894L.jpg
+Superama,77,granola quaker mezcla selecta cacahuate nuez y avena 360 g,33.00,http://www.superama.com.mx/Content/images/products/img_large/0750176183018L.jpg
+Superama,78,helado hiland  sabor chocolate con cacahuate caramelo y mantequilla 1.65 l,95.00,http://www.superama.com.mx/Content/images/products/img_large/0007206008256L.jpg
+Superama,79,helado hiland  sabor vainilla con cacahuate caramelo y mantequilla 1.65 l,95.00,http://www.superama.com.mx/Content/images/products/img_large/0007206008273L.jpg
+Superama,80,mix de semillas extra special  cacahuates nueces y almendras 450 g,109.00,http://www.superama.com.mx/Content/images/products/img_large/0750179162216L.jpg
+Superama,81,palanqueta casa adelita  gourmet de cacahuate 4 pzas,49.00,http://www.superama.com.mx/Content/images/products/img_large/0750225295029L.jpg
+Superama,82,palanqueta casa adelita  gourmet de cacahuate 80 g,15.00,http://www.superama.com.mx/Content/images/products/img_large/0750225295028L.jpg
+Superama,83,palanqueta cruji keta  de cacahuate tostado 6 pzas,36.00,http://www.superama.com.mx/Content/images/products/img_large/0750300718442L.jpg
+Superama,84,palanqueta dulces gilys  campechana amaranto con cacahuate 50 g,9.50,http://www.superama.com.mx/Content/images/products/img_large/0066523400039L.jpg
+Superama,85,salsa de cacahuate d lola  125 g,32.40,http://www.superama.com.mx/Content/images/products/img_large/0750032601015L.jpg
+Superama,86,sazonador artesanal mexicano chiltepetl  con cacahuate y almendra 250 g,95.00,http://www.superama.com.mx/Content/images/products/img_large/0075003263001L.jpg
+Superama,87,crema de avellanas nutella  con palitos de pan 52 g,25.00,http://www.superama.com.mx/Content/images/products/img_large/0000008005010L.jpg
+La Comer,0,Crema de cacahuate c / trozos d / cacahuate reducida skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600104999_3.jpg
+La Comer,1,M&ms cacahuate 3 pack fun size 3 pack m&ms,29.50,https://www.lacomer.com.mx/superc/img_art/706460243185_3.jpg
+La Comer,2,Cacahuate tostados endulzado planter s,58.85,https://www.lacomer.com.mx/superc/img_art/7501001029050_3.jpg
+La Comer,3,Crema de cacahuate cremosa   skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600230933_3.jpg
+La Comer,4,Cacahuate garapiado mily,61.43,https://www.lacomer.com.mx/superc/img_art/2622978000004_3.jpg
+La Comer,5,Cacahuates golden nuts surtido selecto   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/757528004231_3.jpg
+La Comer,6,Cacahuates cubierto chile y limon   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/7501030420576_3.jpg
+La Comer,7,Crema de cacahuate cremosa   aladino,49.00,https://www.lacomer.com.mx/superc/img_art/7502223776135_3.jpg
+La Comer,8,Barra cacahuate tostado nugo slim nugo,70.50,https://www.lacomer.com.mx/superc/img_art/691535203013_3.jpg
+La Comer,9,Crema de cacahuate c / trozos d / cacahuate reducida skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600104999_3.jpg
+La Comer,10,M&ms cacahuate 3 pack fun size 3 pack m&ms,29.50,https://www.lacomer.com.mx/superc/img_art/706460243185_3.jpg
+La Comer,11,Cacahuate tostados endulzado planter s,58.85,https://www.lacomer.com.mx/superc/img_art/7501001029050_3.jpg
+La Comer,12,Crema de cacahuate cremosa   skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600230933_3.jpg
+La Comer,13,Cacahuate garapiado mily,61.43,https://www.lacomer.com.mx/superc/img_art/2622978000004_3.jpg
+La Comer,14,Cacahuates golden nuts surtido selecto   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/757528004231_3.jpg
+La Comer,15,Cacahuates cubierto chile y limon   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/7501030420576_3.jpg
+La Comer,16,Crema de cacahuate cremosa   aladino,49.00,https://www.lacomer.com.mx/superc/img_art/7502223776135_3.jpg
+La Comer,17,Barra cacahuate tostado nugo slim nugo,70.50,https://www.lacomer.com.mx/superc/img_art/691535203013_3.jpg
+La Comer,18,Cacahuates japoneses kiyaquis   barcel,15.30,https://www.lacomer.com.mx/superc/img_art/7501030420583_3.jpg
+La Comer,19,Cacahuate japones   fruit co.,57.00,https://www.lacomer.com.mx/superc/img_art/7502260704481_3.jpg
+La Comer,20,Cacahuates sal golden nuts   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/7501030420552_3.jpg
+La Comer,21,Crema de cacahuate miel   skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600110877_3.jpg
+La Comer,22,Barra de crema cacahuate crujiente nugo free nugo,71.00,https://www.lacomer.com.mx/superc/img_art/691535513013_3.jpg
+La Comer,23,Cacahuate salados cocktail planter s,78.90,https://www.lacomer.com.mx/superc/img_art/7501001029067_3.jpg
+La Comer,24,Cacahuate enchilado mily,87.50,https://www.lacomer.com.mx/superc/img_art/2621311000008_3.jpg
+La Comer,25,Cacahuate frito enchilado   mafer,17.50,https://www.lacomer.com.mx/superc/img_art/7501011143449_3.jpg
+La Comer,26,Palanqueta de cacahuate gigante casa adelita,46.50,https://www.lacomer.com.mx/superc/img_art/7502252950292_3.jpg
+La Comer,27,Crema cacahuate c-mermelada fresa smuckers,46.65,https://www.lacomer.com.mx/superc/img_art/51500020661_3.jpg
+La Comer,28,Cacahuate japones   roli,25.24,https://www.lacomer.com.mx/superc/img_art/7503012987718_3.jpg
+La Comer,29,Cacahuate mixto   ricky s,28.90,https://www.lacomer.com.mx/superc/img_art/7500326832659_3.jpg
+La Comer,30,Cacahuates golden nuts japones    barcel,13.80,https://www.lacomer.com.mx/superc/img_art/7501030459934_3.jpg
+La Comer,31,Cacahuate macho   ricky s,28.90,https://www.lacomer.com.mx/superc/img_art/7500326832666_3.jpg
+La Comer,32,Cacahuate enchilado mily,87.50,https://www.lacomer.com.mx/superc/img_art/752092001228_3.jpg
+La Comer,33,Cacahuates japoneses golden nuts   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/7501030420545_3.jpg
+La Comer,34,Crema de cacahuate   skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600105064_3.jpg
+La Comer,35,Cacahuate surtido sabritas,12.15,https://www.lacomer.com.mx/superc/img_art/7501011197930_3.jpg
+La Comer,36,Crema de cacahuate reducida en grasa   skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600105002_3.jpg
+La Comer,37,Cacahuate a granel el zarape . el zarape,35.64,https://www.lacomer.com.mx/superc/img_art/7501257040236_3.jpg
+La Comer,38,Mezcla de cacahuates fisher 85gr   fisher,21.37,https://www.lacomer.com.mx/superc/img_art/70690271677_3.jpg
+La Comer,39,Cacahuates golden nuts salados   barcel,13.80,https://www.lacomer.com.mx/superc/img_art/7501030459941_3.jpg
+La Comer,40,Cacahuate japones mily,97.20,https://www.lacomer.com.mx/superc/img_art/2621313000006_3.jpg
+La Comer,41,Cacahuate enchilado nishikawa,25.30,https://www.lacomer.com.mx/superc/img_art/7501308300036_3.jpg
+La Comer,42,Mafer cacahuate japones tostado 180gr japones mafer,26.58,https://www.lacomer.com.mx/superc/img_art/7501011132139_3.jpg
+La Comer,43,Cacahuate salado mily,97.20,https://www.lacomer.com.mx/superc/img_art/2621314000005_3.jpg
+La Comer,44,Palanqueta de cacahuate   casa adelita,13.50,https://www.lacomer.com.mx/superc/img_art/7502252950285_3.jpg
+La Comer,45,Cacahuate salado mily,97.20,https://www.lacomer.com.mx/superc/img_art/752092001211_3.jpg
+La Comer,46,Cacahuate salado nishikawa,25.30,https://www.lacomer.com.mx/superc/img_art/7501308300029_3.jpg
+La Comer,47,Trespapitos corazon saludable cacahuate /  mix  ,179.90,https://www.lacomer.com.mx/superc/img_art/7500326819834_3.jpg
+La Comer,48,Cacahuate mixto   roli,25.24,https://www.lacomer.com.mx/superc/img_art/7503012987602_3.jpg
+La Comer,49,Crema de cacahuate   jif,45.60,https://www.lacomer.com.mx/superc/img_art/51500054802_3.jpg
+La Comer,50,Cacahuate japones sabritas,12.15,https://www.lacomer.com.mx/superc/img_art/7501011197923_3.jpg
+La Comer,51,Cacahuate garapiado mily,61.43,https://www.lacomer.com.mx/superc/img_art/69760709_3.jpg
+La Comer,52,Paleta de cacahuate    ,19.50,https://www.lacomer.com.mx/superc/img_art/7502227197035_3.jpg
+La Comer,53,Crema de cacahuate con chocolate blanco peanut butter peanut bitter,68.95,https://www.lacomer.com.mx/superc/img_art/851087000052_3.jpg
+La Comer,54,Crema de cacahuate suave untable aladino,49.00,https://www.lacomer.com.mx/superc/img_art/7502223776159_3.jpg
+La Comer,55,Cacahuate salado sabritas,12.15,https://www.lacomer.com.mx/superc/img_art/7501011197909_3.jpg
+La Comer,56,Cacahuates hot nuts    barcel,13.80,https://www.lacomer.com.mx/superc/img_art/7501030459958_3.jpg
+La Comer,57,Mafer cacahuate enchilado 180gr frito enchilado mafer,26.58,https://www.lacomer.com.mx/superc/img_art/7501011124776_3.jpg
+La Comer,58,Cacahuate alprecio    ,27.60,https://www.lacomer.com.mx/superc/img_art/4640_3.jpg
+La Comer,59,Aceite de cacahuate   ines,84.75,https://www.lacomer.com.mx/superc/img_art/7503011263226_3.jpg
+La Comer,60,Crema de cacahuate untable con miel aladino,49.50,https://www.lacomer.com.mx/superc/img_art/7502223776166_3.jpg
+La Comer,61,Karate cacahuate japones 171 grs karate,16.50,https://www.lacomer.com.mx/superc/img_art/7501011141933_3.jpg
+La Comer,62,Mafer premium cacahuate tostado sazonado tostado sazonado sin acei mafer,11.50,https://www.lacomer.com.mx/superc/img_art/7501011143456_3.jpg
+La Comer,63,Cacahuate espanol mily,97.20,https://www.lacomer.com.mx/superc/img_art/2621312000007_3.jpg
+La Comer,64,Crema de cacahuate untable trocitos aladino,49.00,https://www.lacomer.com.mx/superc/img_art/7502223776142_3.jpg
+La Comer,65,Cacahuate    ,41.00,https://www.lacomer.com.mx/superc/img_art/7501855402337_3.jpg
+La Comer,66,Cacahuate salado   roli,25.24,https://www.lacomer.com.mx/superc/img_art/7503012987510_3.jpg
+La Comer,67,Cacahuate salado   nipon,28.08,https://www.lacomer.com.mx/superc/img_art/7501016421207_3.jpg
+La Comer,68,Barra de avena cacahuate coco almendras arroz quaker,30.00,https://www.lacomer.com.mx/superc/img_art/7501761865523_3.jpg
+La Comer,69,Cacahuate japones   ricky s,28.90,https://www.lacomer.com.mx/superc/img_art/7500326832673_3.jpg
+La Comer,70,Cacahuate espanol mily,97.20,https://www.lacomer.com.mx/superc/img_art/752092001235_3.jpg
+La Comer,71,Cacahuate tostado poca sal   fruit co.,59.00,https://www.lacomer.com.mx/superc/img_art/7502260704498_3.jpg
+La Comer,72,Crema de cacahuate suave laura scudders laura scudders,126.00,https://www.lacomer.com.mx/superc/img_art/51500050293_3.jpg
+La Comer,73,Cacahuates enchilado  golden nuts   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/7501030420569_3.jpg
+La Comer,74,Aceite de cacahuate   ines,55.13,https://www.lacomer.com.mx/superc/img_art/7503011263189_3.jpg
+La Comer,75,Salsa picante de cacahuate   thai heritage,52.50,https://www.lacomer.com.mx/superc/img_art/8850781704503_3.jpg
+La Comer,76,Barra de crema cacahuate cocholate nugo family nugo,50.00,https://www.lacomer.com.mx/superc/img_art/691535503014_3.jpg
+La Comer,77,Barra chocolate crema  cacahuate nugo dark nugo,57.00,https://www.lacomer.com.mx/superc/img_art/691535527010_3.jpg
+La Comer,78,Crema de cacahuate reducida en grasa jif,53.50,https://www.lacomer.com.mx/superc/img_art/51500254851_3.jpg
+La Comer,79,Crema de cacahuate con miel   jif,53.50,https://www.lacomer.com.mx/superc/img_art/51500255780_3.jpg
+La Comer,80,Crema de cacahuate cremosa   reese,167.00,https://www.lacomer.com.mx/superc/img_art/34000400126_3.jpg
+La Comer,81,Barra de avena cacahuate arandano almendras arroz quaker,30.00,https://www.lacomer.com.mx/superc/img_art/7501761865561_3.jpg
+La Comer,82,Cacahuate japones mily,97.20,https://www.lacomer.com.mx/superc/img_art/752092001242_3.jpg
+La Comer,83,Lata cacahuates tostados mantequilla   fisher,44.55,https://www.lacomer.com.mx/superc/img_art/70690292023_3.jpg
+La Comer,84,Mafer premium cacahuate japones tostado japones tostado con sal mafer,11.50,https://www.lacomer.com.mx/superc/img_art/7501011143531_3.jpg
+La Comer,85,Cacahuate garapinado   bel ara,30.00,https://www.lacomer.com.mx/superc/img_art/7503003877455_3.jpg
+La Comer,86,Barras de granola con cacahuates y trozos chocolate natural valley,35.90,https://www.lacomer.com.mx/superc/img_art/16000446878_3.jpg
+La Comer,87,Cacahuate    ,45.20,https://www.lacomer.com.mx/superc/img_art/2721_3.jpg
+La Comer,88,Mafer cacahuate  salado 180gr frito y salado mafer,26.58,https://www.lacomer.com.mx/superc/img_art/7501011124608_3.jpg
+La Comer,89,Mafer cacahuate tostado sazonado 180gr tostado sazonado sin acei mafer,26.58,https://www.lacomer.com.mx/superc/img_art/7501011126930_3.jpg
+La Comer,90,Mafer cacahuate japones  limon 180gr japones con sal mafer,26.58,https://www.lacomer.com.mx/superc/img_art/7501011126244_3.jpg
+La Comer,91,Barras de granola con cacahuate   natural valley,36.90,https://www.lacomer.com.mx/superc/img_art/16000446854_3.jpg
+La Comer,92,Cereal maiz cacahuate panda sin gluten natures path,95.50,https://www.lacomer.com.mx/superc/img_art/58449860044_3.jpg
+La Comer,93,Special k kellogg s barra de cacahuate a arandanos y almendras kelloggs,36.90,https://www.lacomer.com.mx/superc/img_art/38000148002_3.jpg
+La Comer,94,Special k kellogg s barra de cacahuate c chocolate oscuro y almend kelloggs,36.90,https://www.lacomer.com.mx/superc/img_art/38000148033_3.jpg
+La Comer,95,Dulces tipicos othon palanqueta de cacah de cacahuate othon dulces,180.00,https://www.lacomer.com.mx/superc/img_art/7503022645134_3.jpg
+La Comer,96,Barra chocolate mantequilla de mani de cacahuate crujiente nugo,70.50,https://www.lacomer.com.mx/superc/img_art/691535207011_3.jpg
+La Comer,97,Barra  nugo stroger enjanbre de cacahuate glenbays,89.50,https://www.lacomer.com.mx/superc/img_art/691535703018_3.jpg
+La Comer,98,Chocolate bites cacahuate snickers,20.00,https://www.lacomer.com.mx/superc/img_art/7506174503604_3.jpg
+Chedraui,0,Aceite Kaporo Cacahuate 190 Ml,37.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/5/65403200136_00.jpg
+Chedraui,1,"Crema Cacahuate Aladino 425 gr, Trocit",49.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750222377614_00.jpg
+Chedraui,2,"Crema Cacahuate Aladino 425 gr, Miel t",49.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750222377616_00.jpg
+Chedraui,3,Aceite Ines Cacahuate 250 Ml,58.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750301126318_00.jpg
+Chedraui,4,Aceite Ines Cacahuate 500 Ml,113.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750301126322_00.jpg
+Chedraui,5,Barra Nature Valley Cacahuate 210 Gr,35.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/1/6/1600044685_00.jpg
+Chedraui,6,Galleta Oreo Choc Crema Cacahuate 345 Gr,99.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/4/4400002541_00.jpg
+Chedraui,7,Choco Snick Mini Cacahuate Vitrole 442G,95.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/0/70646020016_00.jpg
+Chedraui,8,Mazapan De La Rosa Cacahuate 30Pz 28 Gr,87.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/2/72486910010_00.jpg
+Chedraui,9,Salsa De Cacahuate DLola Frasco 125 Ml,31.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750032601015_00.jpg
+Chedraui,10,Cacahuates Sabritas Kkwates Japonés 180,27.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112823_00.jpg
+Chedraui,11,Cacahuates Sab Kkwates Salados 180 Gr,27.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112825_00.jpg
+Chedraui,12,Cacahuates Sab Kkwates Enchila2 180 Gr,27.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112868_00.jpg
+Chedraui,13,Cacahuates Sab Kkwates Bot Mex 180 Gr,27.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113069_00.jpg
+Chedraui,14,"Cacahuate Sabritas 101 gr, Salados",12.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101119790_01.jpg
+Chedraui,15,"Cacahuate Sabritas 101 gr, Japoneses",12.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101119792_00.jpg
+Chedraui,16,"Cacahuate Sabritas 101 gr, Surtido",12.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101119793_00.jpg
+Chedraui,17,"Cacahuate Barcel 190 gr, Salados",28.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103042055_00.jpg
+Chedraui,18,Cacahuate cubierto con Chile y Limón,28.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103042057_00.jpg
+Chedraui,19,"Cacahuate Barcel 95 gr, Japoneses",14.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103045993_00.jpg
+Chedraui,20,"Cacahuate Barcel 95 gr, Salados",14.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103045994_00.jpg
+Chedraui,21,Cacahuate Chedraui Tostado 454Gr,28.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125362642_00.jpg
+Chedraui,22,"Cacahuates Chedraui, Enchilados",13.15,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364408_00.jpg
+Chedraui,23,"Cacahuates Chedraui, Salados",13.15,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364409_00.jpg
+Chedraui,24,"Cacahuates Chedraui, Japoneses",13.15,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364410_00.jpg
+Chedraui,25,"Cacahuates Chedraui, Holandés",13.15,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364411_00.jpg
+Chedraui,26,Cacahuates Chedraui Surtido 180 Gr,17.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364483_00.jpg
+Chedraui,27,Cacahuate Tostado Chedraui 180Gr,12.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364734_00.jpg
+Chedraui,28,Cacahuates Chedraui Japones 50 Gr,3.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125366111_00.jpg
+Chedraui,29,Cacahuates Chedraui Salado 50 Gr,3.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125366112_00.jpg
+Chedraui,30,Cacahuates Chedraui Enchilado 50 Gr,3.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125366113_00.jpg
+Chedraui,31,Palanqueta La Estrella Cacahuate 65 Gr,10.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750130440154_00.jpg
+Chedraui,32,"Cacahuate Sala, Virginia",70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330238_00.jpg
+Chedraui,33,"Cacahuate Sala, Español",70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330239_00.jpg
+Chedraui,34,"Cacahuate Sala, Enchilados",70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330241_00.jpg
+Chedraui,35,"Cacahuate Sala, Japoneses",70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330242_00.jpg
+Chedraui,36,"Cacahuate Sala, Blanco tostado",70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330256_00.jpg
+Chedraui,37,Cacahuate Saladino Runner Kg,40.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330667_00.jpg
+Chedraui,38,Palanqueta De Cacahuate La Malintzi 6 Pz,34.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750148130009_00.jpg
+Chedraui,39,Crema Cacahuate Tasty Diabetics 310 Gr,49.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750190277024_00.jpg
+Chedraui,40,"Crema Cacahuate Aladino 425 gr, Cremos",49.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750222377613_00.jpg
+Chedraui,41,"Crema Cacahuate Aladino 425 gr, Suave",49.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750222377615_00.jpg
+Chedraui,42,Cacahuate Garapiñado Olype . . 250 Gr,24.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750222947502_00.jpg
+Chedraui,43,Cacahuate Fruitcorp Japones Ench Kg,48.45,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750226070436_00.jpg
+Chedraui,44,Cacahuates Planters Rost Semi Salado,89.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/9/2900007650_00.jpg
+Chedraui,45,Crema De Cacahuate Skippy Untable 425 G,61.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/7/3760010506_00.jpg
+Chedraui,46,Crema De Cacahuate Skippy Natural 425 G,61.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/7/3760023093_00.jpg
+Chedraui,47,Cacahuates Planters Sin Sal 452 Gr,89.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/0/702900007324_01.jpg
+Chedraui,48,Chocolate M&M Cacahuate 3 Pz 128 Gr,35.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/0/70646024318_01.jpg
+Chedraui,49,Barra Clif Cacahuate CMantequilla 68 Gr,42.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/2/72225260141_00.jpg
+Chedraui,50,Cacahuates Sab Mafer Clasico 100 Gr,17.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114344_01.jpg
+Chedraui,51,Cacahuates Mafer Tostado Sazonado 70 Gr,11.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114345_00.jpg
+Chedraui,52,Cacahuates Mafer Surtido Especial Sal 65,11.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114352_01.jpg
+Chedraui,53,"Cacahuate Sabritas 101 gr, Enchilados",12.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101119791_00.jpg
+Chedraui,54,"Cacahuate Sala, Blanco",70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330240_00.jpg
+Chedraui,55,"Avena Quaker 360 gr, Cacahuate",43.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750176183018_00.jpg
+Chedraui,56,Cacahuates Planters Rostizado,73.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/9/2900007325_00.jpg
+Chedraui,57,Chocolates Arcor Bonobon Crema De Cacahu,19.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750223095027_01.jpg
+Chedraui,58,Cacahuates Nishikawa Salado 200 G,25.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750130830002_01.jpg
+Chedraui,59,Cacahuates Nishikawa Enchilado 200 Gr,25.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750130830003_01.jpg
+Chedraui,60,Crema Cacahuate Jif 340 Gr,47.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/1/5150005480_01.jpg
+Chedraui,61,Cacahuates De La Rosa Japones 720 Gr,52.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/2/72486900220_00.jpg
+Chedraui,62,Cacahuates Mafer Salados 180 gramos,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112460_00.jpg
+Chedraui,63,Cacahuates Mafer Enchilados 180 gramos,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112477_00.jpg
+Chedraui,64,Cacahuates Mafer Surtido Especial 180gr,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112529_00.jpg
+Chedraui,65,Cacahuates Mafer Surtido Enchilado 180gr,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112559_00.jpg
+Chedraui,66,Cacahuates Mafer Sal y Limón 180 gramos,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112624_00.jpg
+Chedraui,67,Cacahuates Mafer Tostado 180 gramos,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112693_00.jpg
+Chedraui,68,Cacahuates Mafer Tostado Jalapeño 180gr,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113212_00.jpg
+Chedraui,69,Cacahuates Mafer Japoneses 180 gramos,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113213_00.jpg
+Chedraui,70,Cacahuates Sab Mafer Surtido 95 Gr,17.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114342_00.jpg
+Chedraui,71,"Cacahuate Barcel 95 gr, Enchilados",14.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103045992_00.jpg
+Chedraui,72,GALL AVENITAS CACAHUATE 135 GR,13.45,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/9/4/9433100115_01.jpg
+Chedraui,73,Cacahuates Sab Mafer Sazonado 100 Gr,17.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114341_00.jpg
+Chedraui,74,Cacahuates Sab Mafer Jap Limon 100 Gr,17.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
+Chedraui,75,Cacahuates Mafer Japones 70 Gr,11.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
+Chedraui,76,Cacahuate cubierto con Chile y Limón,14.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103045995_00.jpg
+Chedraui,77,Cacahuates Sabritas Kacang Enchilado 17,26.35,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101115156_01.jpg
+Chedraui,78,Cacahuates Sabritas Mafer Chile Poblano,14.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101116926_01.jpg
+Chedraui,79,Chocolate Nestle Crunch Cacahuate Barra,13.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105861830_01.jpg
+Chedraui,80,Crema De Cacahuate Jif Natural Miel Bote,56.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/1/5150025578_01.jpg
+Chedraui,81,Cacahuates Barcel Kiyakis Trampados Sabo,16.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/75752802225_01.jpg
+Chedraui,82,Palanqueta Destellos con Cacahuate 100 g,13.12,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
+Chedraui,83,Crem Cacahuat Skippy Light CTrozos 425G,61.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/7/3760010499_00.jpg
+Chedraui,84,Barra Nature Valley Chocolate 210 Gr,35.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/1/6/1600044687_00.jpg
+Chedraui,85,Crema Cacahuat Skippy Natural Light 425G,61.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/7/3760010500_00.jpg
+Chedraui,86,"Salsa 250 gr, Norteña",39.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/0/70166201124_01.jpg
+Chedraui,87,Bc Parlor Perfect Praline Crunch 220 Gr,64.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/1/7116971402_00.jpg
+Chedraui,88,Cacahuat Barcel Kiyak Japoneses 150 Gr,15.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103042058_00.jpg
+Chedraui,89,Cac Keops 200 Grs Cj Con 30 Japones,20.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750300039520_00.jpg
+Chedraui,90,Snickers 2 Pack 86 Gr,20.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750617450076_1.jpg
+Chedraui,91,Snickers Individual Big Five 22 Gr,6.65,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750617450264_00.jpg
+Chedraui,92,Chocolates Snickers Bites Cacah Nougat B,25.05,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750617450360_00.jpg
+Chedraui,93,"Barra Kind 40g, Mora azul nuez fibra",39.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/0/60265217669_00.jpg
+Chedraui,94,"Barra Kind 40g, Delicia de nueces",39.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/0/60265217670_00.jpg
+Chedraui,95,Cacahuat Sabritas Maf Karat Jap 171 Gr,14.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114193_00.jpg
+Chedraui,96,Salsa Thai Heritage Cacahuatepicad 110Gr,45.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/8/885078170450_00.jpg
+Chedraui,97,Chocolate Sabor Mantequilla De Cacahuat,300.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
+Chedraui,98,Untable Barney Almen Cocoa Y Coco 284 Gr,247.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/5/85886400403_00.jpg
+Chedraui,99,Untable Barney Almendra 284 Gr,247.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/9/4/9492214998_00.jpg
+Chedraui,100,Untable Barney Almendra Crunchy 284 Gr,247.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/9/4/9492214999_00.jpg
+Chedraui,101,Palanquetas Zopelic Cacah Caja 24Pz 360,94.15,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750032638031_01.jpg
+Walmart,0,cacahuates mafer  premium salado 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112460L.jpg
+Walmart,1,cacahuates mafer  premium enchilado clásico 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112477L.jpg
+Walmart,2,cacahuates mafer  premium surtido especial salado 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112529L.jpg
+Walmart,3,cacahuates mafer  premium japonés tostado con limón 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112624L.jpg
+Walmart,4,cacahuates mafer  premium tostado sazonado sin aceite 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112693L.jpg
+Walmart,5,cacahuates mafer  premium tostado sazonado sabor jalapeño 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101113212L.jpg
+Walmart,6,cacahuates mafer  premium japonés tostado clásico 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101113213L.jpg
+Walmart,7,cacahuates   español 250 g,35.00,https://www.walmart.com.mx/super/images/Products/img_large/0750300674883L.jpg
+Walmart,8,cacahuate tostado   250 g,35.00,https://www.walmart.com.mx/super/images/Products/img_large/0750300674886L.jpg
+Walmart,9,crema de cacahuate skippy  untable con trozos de cacahuate reducida en grasa 462 g,61.00,https://www.walmart.com.mx/super/images/Products/img_large/0003760010499L.jpg
+Walmart,10,aceite de cacahuate kaporo  190 ml,37.00,https://www.walmart.com.mx/super/images/Products/img_large/0065403200136L.jpg
+Walmart,11,cacahuates sabritas  japoneses 180 g,27.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112823L.jpg
+Walmart,12,cacahuates sabritas  enchilados 180 g,27.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112868L.jpg
+Walmart,13,cacahuates mafer  premium enchilado clásico 100 g,17.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101114344L.jpg
+Walmart,14,cacahuates sabritas  enchilados 100 g,12.60,https://www.walmart.com.mx/super/images/Products/img_large/0750101119791L.jpg
+Walmart,15,cacahuates barcel golden nuts saladados 190 g,28.00,https://www.walmart.com.mx/super/images/Products/img_large/0750103042055L.jpg
+Walmart,16,cacahuates kiyakis  japoneses 150 g,15.50,https://www.walmart.com.mx/super/images/Products/img_large/0750103042058L.jpg
+Walmart,17,crema de cacahuate aladino  creamy 425 g,55.50,https://www.walmart.com.mx/super/images/Products/img_large/0750222377613L.jpg
+Walmart,18,crema de cacahuate aladino  crunchy 425 g,55.50,https://www.walmart.com.mx/super/images/Products/img_large/0750222377614L.jpg
+Walmart,19,crema de cacahuate aladino  honey crunchy 468 g,55.50,https://www.walmart.com.mx/super/images/Products/img_large/0750222377616L.jpg
+Walmart,20,aceite de cacahuate inés  tostado 250 ml,58.00,https://www.walmart.com.mx/super/images/Products/img_large/0750301126318L.jpg
+Walmart,21,crema de cacahuate skippy  cremosa 462 g,61.00,https://www.walmart.com.mx/super/images/Products/img_large/0003760023093L.jpg
+Walmart,22,cacahuates karate  estilo japonés 171 g,16.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101114193L.jpg
+Walmart,23,cacahuates barcel hot nuts 190 g,28.00,https://www.walmart.com.mx/super/images/Products/img_large/0750103042057L.jpg
+Walmart,24,crema de cacahuate skippy  con miel 462 g,61.00,https://www.walmart.com.mx/super/images/Products/img_large/0003760011087L.jpg
+Walmart,25,galletas chocolatines  con malvavisco y cacahuate 7 paketines,31.50,https://www.walmart.com.mx/super/images/Products/img_large/0750100066273L.jpg
+Walmart,26,cacahuate tostado y pepita frita   calidad selecta 250 g,55.00,https://www.walmart.com.mx/super/images/Products/img_large/0750301926834L.jpg
+Walmart,27,cacahuates mixtos   calidad selecta  290 g,35.00,https://www.walmart.com.mx/super/images/Products/img_large/0750301926835L.jpg
+Walmart,28,nueces cacahuates y arándanos  calidad selecta 250 g,75.00,https://www.walmart.com.mx/super/images/Products/img_large/0750301926838L.jpg
+Walmart,29,salsa de cacahuate d lola  125 g,31.50,https://www.walmart.com.mx/super/images/Products/img_large/0750032601015L.jpg
+Walmart,30,cacahuates nipon  con sabor a mango y chile 180 g,15.90,https://www.walmart.com.mx/super/images/Products/img_large/0750101642167L.jpg
+Walmart,31,cacahuates nipon  enchilados 180 g,15.90,https://www.walmart.com.mx/super/images/Products/img_large/0750101642166L.jpg
+Walmart,32,chocolates m&amp;m's  con cacahuate 100 g,26.00,https://www.walmart.com.mx/super/images/Products/img_large/0750617450286L.jpg
+Walmart,33,cacahuates barcel hot nuts 100 g,14.00,https://www.walmart.com.mx/super/images/Products/img_large/0750103045995L.jpg
+Walmart,34,chocolate nikolo max almendras y cacahuate 33 g,6.00,https://www.walmart.com.mx/super/images/Products/img_large/0750223095005L.jpg
+Walmart,35,mezcla de cacahuates great value 190 g,13.00,https://www.walmart.com.mx/super/images/Products/img_large/0750179164390L.jpg
+Walmart,36,cacahuates sabritas  kacang chile y limón 171 g,19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750101115156L.jpg
+Walmart,37,cacahuates y pepitas sabritas  kacang con chile 171 g,19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750101115395L.jpg
+Walmart,38,caramelo montes damy crujiente con cacahuate 684 g,66.00,https://www.walmart.com.mx/super/images/Products/img_large/0002414200265L.jpg
+Walmart,39,cacahuates golden nuts estilo japonés 190 g,28.00,https://www.walmart.com.mx/super/images/Products/img_large/0750103042054L.jpg
+Walmart,40,nuez de la india cashitas  y cacahuate con sal 45 g,19.50,https://www.walmart.com.mx/super/images/Products/img_large/0076057308147L.jpg
+Walmart,41,barra de cereal miel chocolate y cacahuate 254 g,35.90,https://www.walmart.com.mx/super/images/Products/img_large/0001600041126L.jpg
+Walmart,42,caramelo crujiente montes damy de leche con cacahuate 100 pzas,43.00,https://www.walmart.com.mx/super/images/Products/img_large/0002414202003L.jpg
+Walmart,43,crema de cacahuate smuckers goober con jalea de fresa 340 g,48.90,https://www.walmart.com.mx/super/images/Products/img_large/0005150002066L.jpg
+Walmart,44,palomitas farm nuts  garapiñadas con cacahuates 100 g,33.90,https://www.walmart.com.mx/super/images/Products/img_large/0060694160009L.jpg
+Walmart,45,chocolates m&amp;m's  con cacahuate empaque botanero 124 g,29.00,https://www.walmart.com.mx/super/images/Products/img_large/0070646024314L.jpg
+Walmart,46,chocolates m&amp;m's  con cacahuate 3 pzas 147.9 g,36.00,https://www.walmart.com.mx/super/images/Products/img_large/0070646024318L.jpg
+Walmart,47,cacahuates mafer  premium tostados sin aceite sazonados 100 g,16.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101114341L.jpg
+Walmart,48,cacahuates mafer  premium japonés tostado con limón 100 g,17.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101114343L.jpg
+Walmart,49,granola quaker mezcla selecta cacahuate nuez y avena 360 g,32.00,https://www.walmart.com.mx/super/images/Products/img_large/0750176183018L.jpg
+Walmart,50,cacahuates great value  surtidos salados 190 g,19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750179163800L.jpg
+Walmart,51,crema de cacahuate tasty diabetics  sin azúcar 310 g,49.90,https://www.walmart.com.mx/super/images/Products/img_large/0750190277024L.jpg
+Walmart,52,crema de cacahuate aladino  soft and sweety 425 g,55.50,https://www.walmart.com.mx/super/images/Products/img_large/0750222377615L.jpg
+Walmart,53,palanqueta casa adelita  gourmet de cacahuate 80 g,13.50,https://www.walmart.com.mx/super/images/Products/img_large/0750225295028L.jpg
+Walmart,54,palanqueta casa adelita  gourmet de cacahuate 4 pzas,47.00,https://www.walmart.com.mx/super/images/Products/img_large/0750225295029L.jpg
+Walmart,55,palanqueta cruji keta  de cacahuate tostado 6 pzas,35.00,https://www.walmart.com.mx/super/images/Products/img_large/0750300718442L.jpg
+Walmart,56,crema de cacahuate skippy  untable reducida en grasa 462 g,61.00,https://www.walmart.com.mx/super/images/Products/img_large/0003760010500L.jpg
+Walmart,57,cacahuates grupo mexicano de calidad en confitados  enchilados 250 g,35.00,https://www.walmart.com.mx/super/images/Products/img_large/0750300674885L.jpg
+Walmart,58,cacahuates grupo mexicano de calidad en confitados  japoneses 250 g,35.00,https://www.walmart.com.mx/super/images/Products/img_large/0750300674887L.jpg
+Walmart,59,crema de cacahuate peter pan  vitaminada 462 g,48.90,https://www.walmart.com.mx/super/images/Products/img_large/0750302108716L.jpg
+Walmart,60,crema de cacahuate peter pan  con trocitos crujientes 462 g,48.90,https://www.walmart.com.mx/super/images/Products/img_large/0750302108718L.jpg
+Walmart,61,crema de cacahuate peter pan  reducida en azúcar 369 g,48.90,https://www.walmart.com.mx/super/images/Products/img_large/0750302108717L.jpg
+Walmart,62,cacahuates win nuts  super cantinero con totopos chile y ajo 454 g,45.00,https://www.walmart.com.mx/super/images/Products/img_large/0750185542390L.jpg
+Walmart,63,cacahuates win nuts  calidad premium tostado sin sal 454 g,45.00,https://www.walmart.com.mx/super/images/Products/img_large/0750185540233L.jpg

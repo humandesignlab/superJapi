@@ -4,4 +4,5 @@
 
 .caption h4, .h4 {
     height: 85px;
+    overflow: hidden;
 }
