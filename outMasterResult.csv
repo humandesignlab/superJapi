@@ -1,354 +1,248 @@
 Tienda,ID,Producto,Precio,imgUrl
-Superama,0,cacahuates mafer  premium surtido especial salado 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112529L.jpg
-Superama,1,cacahuate japonés great value 180 g,10.00,http://www.superama.com.mx/Content/images/products/img_large/0750179166102L.jpg
-Superama,2,cacahuates calidad selecta  290 g,35.00,http://www.superama.com.mx/Content/images/products/img_large/0750301926831L.jpg
-Superama,3,"salsa spico  de cacahuate, ajonjolí y tres chiles 195 g",75.00,http://www.superama.com.mx/Content/images/products/img_large/0750032626008L.jpg
-Superama,4,cacahuates mafer  premium salado 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112460L.jpg
-Superama,5,cacahuates mafer  premium enchilado clásico 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112477L.jpg
-Superama,6,cacahuates mafer  premium japonés tostado clásico 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101113213L.jpg
-Superama,7,cacahuates mafer  premium japonés tostado con limón 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112624L.jpg
-Superama,8,cacahuates mafer  premium tostado sazonado sabor jalapeño 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101113212L.jpg
-Superama,9,cacahuates mafer  premium tostado sazonado sin aceite 180 g,30.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112693L.jpg
-Superama,10,crema de cacahuate aladino  creamy 425 g,57.00,http://www.superama.com.mx/Content/images/products/img_large/0750222377613L.jpg
-Superama,11,crema de cacahuate aladino  crunchy 425 g,57.00,http://www.superama.com.mx/Content/images/products/img_large/0750222377614L.jpg
-Superama,12,crema de cacahuate aladino  honey crunchy 468 g,57.00,http://www.superama.com.mx/Content/images/products/img_large/0750222377616L.jpg
-Superama,13,crema de cacahuate aladino  soft and sweety 425 g,57.00,http://www.superama.com.mx/Content/images/products/img_large/0750222377615L.jpg
-Superama,14,crema de cacahuate skippy  con miel 462 g,62.50,http://www.superama.com.mx/Content/images/products/img_large/0003760011087L.jpg
-Superama,15,crema de cacahuate skippy  cremosa 462 g,62.50,http://www.superama.com.mx/Content/images/products/img_large/0003760023093L.jpg
-Superama,16,crema de cacahuate skippy  untable con trozos de cacahuate reducida en grasa 462 g,62.50,http://www.superama.com.mx/Content/images/products/img_large/0003760010499L.jpg
-Superama,17,crema de cacahuate great value  untable 510 g,51.51,http://www.superama.com.mx/Content/images/products/img_large/0750179165018L.jpg
-Superama,18,crema de cacahuate great value  untable con trocitos 510 g,51.51,http://www.superama.com.mx/Content/images/products/img_large/0750179165019L.jpg
-Superama,19,crema de cacahuate jif  reducida en grasa 454 g,56.49,http://www.superama.com.mx/Content/images/products/img_large/0005150025485L.jpg
-Superama,20,crema de cacahuate penotti cookie nott speculoos crunchy 350 g,65.01,http://www.superama.com.mx/Content/images/products/img_large/0871720000504L.jpg
-Superama,21,crema de cacahuate peter pan  vitaminada 462 g,49.90,http://www.superama.com.mx/Content/images/products/img_large/0750302108716L.jpg
-Superama,22,crema de cacahuate skippy  untable reducida en grasa 462 g,62.50,http://www.superama.com.mx/Content/images/products/img_large/0003760010500L.jpg
-Superama,23,crema de cacahuate tasty diabetics  sin azúcar 310 g,50.50,http://www.superama.com.mx/Content/images/products/img_large/0750190277024L.jpg
-Superama,24,aceite de cacahuate inés  tostado 250 ml,62.00,http://www.superama.com.mx/Content/images/products/img_large/0750301126318L.jpg
-Superama,25,cacahuate salado great value 180 g,15.00,http://www.superama.com.mx/Content/images/products/img_large/0750179166099L.jpg
-Superama,26,cacahuate tostado great value 180 g,15.00,http://www.superama.com.mx/Content/images/products/img_large/0750179166100L.jpg
-Superama,27,cacahuates barcel hot nuts 100 g,14.30,http://www.superama.com.mx/Content/images/products/img_large/0750103045995L.jpg
-Superama,28,cacahuates barcel hot nuts 190 g,28.00,http://www.superama.com.mx/Content/images/products/img_large/0750103042057L.jpg
-Superama,29,cacahuates bel ara  acaramelados 250 g,39.90,http://www.superama.com.mx/Content/images/products/img_large/0750300387745L.jpg
-Superama,30,cacahuates karate  estilo japonés 171 g,17.00,http://www.superama.com.mx/Content/images/products/img_large/0750101114193L.jpg
-Superama,31,cacahuates kiyakis  japoneses 150 g,15.90,http://www.superama.com.mx/Content/images/products/img_large/0750103042058L.jpg
-Superama,32,cacahuates planters  tostados y salados 453 g,73.00,http://www.superama.com.mx/Content/images/products/img_large/0002900007325L.jpg
-Superama,33,cacahuates sabritas  enchilados 180 g,28.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112868L.jpg
-Superama,34,cacahuates sabritas  japoneses 180 g,28.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112823L.jpg
-Superama,35,cacahuates sabritas  salados con limón 180 g,28.00,http://www.superama.com.mx/Content/images/products/img_large/0750101112825L.jpg
-Superama,36,galletas chocolatines  con malvavisco y cacahuate 7 paketines,31.50,http://www.superama.com.mx/Content/images/products/img_large/0750100066273L.jpg
-Superama,37,palanqueta dulces gilys  de cacahuate 45 g,9.50,http://www.superama.com.mx/Content/images/products/img_large/0066523400019L.jpg
-Superama,38,palomitas farm nuts  garapiñadas con cacahuates 100 g,34.50,http://www.superama.com.mx/Content/images/products/img_large/0060694160009L.jpg
-Superama,39,sutido de garbanzo y cacahuates 205 g,35.00,http://www.superama.com.mx/Content/images/products/img_large/0750301926832L.jpg
-Superama,40,barras de granola nature valley  con cacahuate 6 pzas,32.90,http://www.superama.com.mx/Content/images/products/img_large/0001600044685L.jpg
-Superama,41,bombón bon o bon  relleno con crema de cacahuate 90 g,15.00,http://www.superama.com.mx/Content/images/products/img_large/0750223095027L.jpg
-Superama,42,cacahuate chocolate y coco bel ara 250 g,49.90,http://www.superama.com.mx/Content/images/products/img_large/0750223486730L.jpg
-Superama,43,cacahuates barcel golden nuts saladados 190 g,24.80,http://www.superama.com.mx/Content/images/products/img_large/0750103042055L.jpg
-Superama,44,cacahuates golden nuts estílo japonés 190 g,28.00,http://www.superama.com.mx/Content/images/products/img_large/0750103042054L.jpg
-Superama,45,cacahuates great value  crujientes picositos 160 g,10.00,http://www.superama.com.mx/Content/images/products/img_large/0750179166101L.jpg
-Superama,46,cacahuates great value  enchilados fritos 180 g,15.00,http://www.superama.com.mx/Content/images/products/img_large/0750179166098L.jpg
-Superama,47,cacahuates mafer  premium enchilado clásico 100 g,18.00,http://www.superama.com.mx/Content/images/products/img_large/0750101114344L.jpg
-Superama,48,cacahuates mafer  premium japonés tostado con limón 100 g,18.00,http://www.superama.com.mx/Content/images/products/img_large/0750101114343L.jpg
-Superama,49,cacahuates mafer  premium japonés tostado con limón 70 g,11.80,http://www.superama.com.mx/Content/images/products/img_large/0750101114353L.jpg
-Superama,50,cacahuates mafer  premium tostados sazonados sin aceite 70 g,11.80,http://www.superama.com.mx/Content/images/products/img_large/0750101114345L.jpg
-Superama,51,cacahuates mafer  premium tostados sin aceite sazonados 100 g,17.00,http://www.superama.com.mx/Content/images/products/img_large/0750101114341L.jpg
-Superama,52,cacahuates nipon  3 pack 180 g c/u + 2 tanukis de regalo *,45.00,http://www.superama.com.mx/Content/images/products/img_large/0750301301361L.jpg
-Superama,53,cacahuates sabritas  kacang chile y limón 171 g,19.90,http://www.superama.com.mx/Content/images/products/img_large/0750101115156L.jpg
-Superama,54,cacahuates sabritas  kacang sal y limón 171 g,19.90,http://www.superama.com.mx/Content/images/products/img_large/0750101115148L.jpg
-Superama,55,cacahuates win nuts  calidad premium tostado sin sal 454 g,46.50,http://www.superama.com.mx/Content/images/products/img_large/0750185540233L.jpg
-Superama,56,cacahuates win nuts  super cantinero con totopos chile y ajo 454 g,46.50,http://www.superama.com.mx/Content/images/products/img_large/0750185542390L.jpg
-Superama,57,cacahuates y pepitas sabritas  kacang con chile 171 g,19.90,http://www.superama.com.mx/Content/images/products/img_large/0750101115395L.jpg
-Superama,58,cereal natures path envirokidz panda puffs sabor crema de cacahuate 300 g,78.00,http://www.superama.com.mx/Content/images/products/img_large/0005844986004L.jpg
-Superama,59,chocolate m and m s  con cacahuate 49.3 g,13.50,http://www.superama.com.mx/Content/images/products/img_large/0750617450045L.jpg
-Superama,60,chocolates m&#38;ms  con cacahuate 100 g,26.50,http://www.superama.com.mx/Content/images/products/img_large/0750617450286L.jpg
-Superama,61,chocolates m&#38;ms  con cacahuate 3 pzas 147.9 g,37.00,http://www.superama.com.mx/Content/images/products/img_large/0070646024318L.jpg
-Superama,62,chocolates m&#38;ms  con cacahuate empaque botanero 124 g,29.49,http://www.superama.com.mx/Content/images/products/img_large/0070646024314L.jpg
-Superama,63,crema de almendra terrafertil natures heart clasica 284 g,204.99,http://www.superama.com.mx/Content/images/products/img_large/0750225248170L.jpg
-Superama,64,crema de almendras terrafertil natures heart crunchy 284 g,204.99,http://www.superama.com.mx/Content/images/products/img_large/0750225248171L.jpg
-Superama,65,crema de avellanas great value  cacao y leche 350 g,42.00,http://www.superama.com.mx/Content/images/products/img_large/0750179162948L.jpg
-Superama,66,crema de avellanas nutella  350 g,60.00,http://www.superama.com.mx/Content/images/products/img_large/0078974289505L.jpg
-Superama,67,crema de avellanas nutella  650 g,92.01,http://www.superama.com.mx/Content/images/products/img_large/0078974289650L.jpg
-Superama,68,crema de avellanas tasty diabetics  sin azúcar 350 g,77.00,http://www.superama.com.mx/Content/images/products/img_large/0750190277026L.jpg
-Superama,69,crema de cacahuate smuckers goober con jalea de fresa 340 g,50.00,http://www.superama.com.mx/Content/images/products/img_large/0005150002066L.jpg
-Superama,70,crema de cacao extra special  con café mocca 200 g,42.99,http://www.superama.com.mx/Content/images/products/img_large/0750179163896L.jpg
-Superama,71,crema de chocolate penotti cookie nott  speculoos con espresso 350 g,65.01,http://www.superama.com.mx/Content/images/products/img_large/0871720000505L.jpg
-Superama,72,crema de chocolate penotti cookie nott speculoos capuccino 350 g,65.01,http://www.superama.com.mx/Content/images/products/img_large/0871720000506L.jpg
-Superama,73,crema de chocolate penotti cookie nott speculoos original 350 g,65.01,http://www.superama.com.mx/Content/images/products/img_large/0871720000503L.jpg
-Superama,74,crema duo great value  chocolate y plátano 350 g,42.00,http://www.superama.com.mx/Content/images/products/img_large/0750179163788L.jpg
-Superama,75,crema untable extra special  con trozos de avellana 200 g,42.99,http://www.superama.com.mx/Content/images/products/img_large/0750179163946L.jpg
-Superama,76,crema untable extra special  con trozos de coco 200 g,42.99,http://www.superama.com.mx/Content/images/products/img_large/0750179163894L.jpg
-Superama,77,granola quaker mezcla selecta cacahuate nuez y avena 360 g,33.00,http://www.superama.com.mx/Content/images/products/img_large/0750176183018L.jpg
-Superama,78,helado hiland  sabor chocolate con cacahuate caramelo y mantequilla 1.65 l,95.00,http://www.superama.com.mx/Content/images/products/img_large/0007206008256L.jpg
-Superama,79,helado hiland  sabor vainilla con cacahuate caramelo y mantequilla 1.65 l,95.00,http://www.superama.com.mx/Content/images/products/img_large/0007206008273L.jpg
-Superama,80,mix de semillas extra special  cacahuates nueces y almendras 450 g,109.00,http://www.superama.com.mx/Content/images/products/img_large/0750179162216L.jpg
-Superama,81,palanqueta casa adelita  gourmet de cacahuate 4 pzas,49.00,http://www.superama.com.mx/Content/images/products/img_large/0750225295029L.jpg
-Superama,82,palanqueta casa adelita  gourmet de cacahuate 80 g,15.00,http://www.superama.com.mx/Content/images/products/img_large/0750225295028L.jpg
-Superama,83,palanqueta cruji keta  de cacahuate tostado 6 pzas,36.00,http://www.superama.com.mx/Content/images/products/img_large/0750300718442L.jpg
-Superama,84,palanqueta dulces gilys  campechana amaranto con cacahuate 50 g,9.50,http://www.superama.com.mx/Content/images/products/img_large/0066523400039L.jpg
-Superama,85,salsa de cacahuate d lola  125 g,32.40,http://www.superama.com.mx/Content/images/products/img_large/0750032601015L.jpg
-Superama,86,sazonador artesanal mexicano chiltepetl  con cacahuate y almendra 250 g,95.00,http://www.superama.com.mx/Content/images/products/img_large/0075003263001L.jpg
-Superama,87,crema de avellanas nutella  con palitos de pan 52 g,25.00,http://www.superama.com.mx/Content/images/products/img_large/0000008005010L.jpg
-La Comer,0,Crema de cacahuate c / trozos d / cacahuate reducida skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600104999_3.jpg
-La Comer,1,M&ms cacahuate 3 pack fun size 3 pack m&ms,29.50,https://www.lacomer.com.mx/superc/img_art/706460243185_3.jpg
-La Comer,2,Cacahuate tostados endulzado planter s,58.85,https://www.lacomer.com.mx/superc/img_art/7501001029050_3.jpg
-La Comer,3,Crema de cacahuate cremosa   skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600230933_3.jpg
-La Comer,4,Cacahuate garapiado mily,61.43,https://www.lacomer.com.mx/superc/img_art/2622978000004_3.jpg
-La Comer,5,Cacahuates golden nuts surtido selecto   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/757528004231_3.jpg
-La Comer,6,Cacahuates cubierto chile y limon   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/7501030420576_3.jpg
-La Comer,7,Crema de cacahuate cremosa   aladino,49.00,https://www.lacomer.com.mx/superc/img_art/7502223776135_3.jpg
-La Comer,8,Barra cacahuate tostado nugo slim nugo,70.50,https://www.lacomer.com.mx/superc/img_art/691535203013_3.jpg
-La Comer,9,Crema de cacahuate c / trozos d / cacahuate reducida skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600104999_3.jpg
-La Comer,10,M&ms cacahuate 3 pack fun size 3 pack m&ms,29.50,https://www.lacomer.com.mx/superc/img_art/706460243185_3.jpg
-La Comer,11,Cacahuate tostados endulzado planter s,58.85,https://www.lacomer.com.mx/superc/img_art/7501001029050_3.jpg
-La Comer,12,Crema de cacahuate cremosa   skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600230933_3.jpg
-La Comer,13,Cacahuate garapiado mily,61.43,https://www.lacomer.com.mx/superc/img_art/2622978000004_3.jpg
-La Comer,14,Cacahuates golden nuts surtido selecto   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/757528004231_3.jpg
-La Comer,15,Cacahuates cubierto chile y limon   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/7501030420576_3.jpg
-La Comer,16,Crema de cacahuate cremosa   aladino,49.00,https://www.lacomer.com.mx/superc/img_art/7502223776135_3.jpg
-La Comer,17,Barra cacahuate tostado nugo slim nugo,70.50,https://www.lacomer.com.mx/superc/img_art/691535203013_3.jpg
-La Comer,18,Cacahuates japoneses kiyaquis   barcel,15.30,https://www.lacomer.com.mx/superc/img_art/7501030420583_3.jpg
-La Comer,19,Cacahuate japones   fruit co.,57.00,https://www.lacomer.com.mx/superc/img_art/7502260704481_3.jpg
-La Comer,20,Cacahuates sal golden nuts   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/7501030420552_3.jpg
-La Comer,21,Crema de cacahuate miel   skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600110877_3.jpg
-La Comer,22,Barra de crema cacahuate crujiente nugo free nugo,71.00,https://www.lacomer.com.mx/superc/img_art/691535513013_3.jpg
-La Comer,23,Cacahuate salados cocktail planter s,78.90,https://www.lacomer.com.mx/superc/img_art/7501001029067_3.jpg
-La Comer,24,Cacahuate enchilado mily,87.50,https://www.lacomer.com.mx/superc/img_art/2621311000008_3.jpg
-La Comer,25,Cacahuate frito enchilado   mafer,17.50,https://www.lacomer.com.mx/superc/img_art/7501011143449_3.jpg
-La Comer,26,Palanqueta de cacahuate gigante casa adelita,46.50,https://www.lacomer.com.mx/superc/img_art/7502252950292_3.jpg
-La Comer,27,Crema cacahuate c-mermelada fresa smuckers,46.65,https://www.lacomer.com.mx/superc/img_art/51500020661_3.jpg
-La Comer,28,Cacahuate japones   roli,25.24,https://www.lacomer.com.mx/superc/img_art/7503012987718_3.jpg
-La Comer,29,Cacahuate mixto   ricky s,28.90,https://www.lacomer.com.mx/superc/img_art/7500326832659_3.jpg
-La Comer,30,Cacahuates golden nuts japones    barcel,13.80,https://www.lacomer.com.mx/superc/img_art/7501030459934_3.jpg
-La Comer,31,Cacahuate macho   ricky s,28.90,https://www.lacomer.com.mx/superc/img_art/7500326832666_3.jpg
-La Comer,32,Cacahuate enchilado mily,87.50,https://www.lacomer.com.mx/superc/img_art/752092001228_3.jpg
-La Comer,33,Cacahuates japoneses golden nuts   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/7501030420545_3.jpg
-La Comer,34,Crema de cacahuate   skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600105064_3.jpg
-La Comer,35,Cacahuate surtido sabritas,12.15,https://www.lacomer.com.mx/superc/img_art/7501011197930_3.jpg
-La Comer,36,Crema de cacahuate reducida en grasa   skippy,64.00,https://www.lacomer.com.mx/superc/img_art/37600105002_3.jpg
-La Comer,37,Cacahuate a granel el zarape . el zarape,35.64,https://www.lacomer.com.mx/superc/img_art/7501257040236_3.jpg
-La Comer,38,Mezcla de cacahuates fisher 85gr   fisher,21.37,https://www.lacomer.com.mx/superc/img_art/70690271677_3.jpg
-La Comer,39,Cacahuates golden nuts salados   barcel,13.80,https://www.lacomer.com.mx/superc/img_art/7501030459941_3.jpg
-La Comer,40,Cacahuate japones mily,97.20,https://www.lacomer.com.mx/superc/img_art/2621313000006_3.jpg
-La Comer,41,Cacahuate enchilado nishikawa,25.30,https://www.lacomer.com.mx/superc/img_art/7501308300036_3.jpg
-La Comer,42,Mafer cacahuate japones tostado 180gr japones mafer,26.58,https://www.lacomer.com.mx/superc/img_art/7501011132139_3.jpg
-La Comer,43,Cacahuate salado mily,97.20,https://www.lacomer.com.mx/superc/img_art/2621314000005_3.jpg
-La Comer,44,Palanqueta de cacahuate   casa adelita,13.50,https://www.lacomer.com.mx/superc/img_art/7502252950285_3.jpg
-La Comer,45,Cacahuate salado mily,97.20,https://www.lacomer.com.mx/superc/img_art/752092001211_3.jpg
-La Comer,46,Cacahuate salado nishikawa,25.30,https://www.lacomer.com.mx/superc/img_art/7501308300029_3.jpg
-La Comer,47,Trespapitos corazon saludable cacahuate /  mix  ,179.90,https://www.lacomer.com.mx/superc/img_art/7500326819834_3.jpg
-La Comer,48,Cacahuate mixto   roli,25.24,https://www.lacomer.com.mx/superc/img_art/7503012987602_3.jpg
-La Comer,49,Crema de cacahuate   jif,45.60,https://www.lacomer.com.mx/superc/img_art/51500054802_3.jpg
-La Comer,50,Cacahuate japones sabritas,12.15,https://www.lacomer.com.mx/superc/img_art/7501011197923_3.jpg
-La Comer,51,Cacahuate garapiado mily,61.43,https://www.lacomer.com.mx/superc/img_art/69760709_3.jpg
-La Comer,52,Paleta de cacahuate    ,19.50,https://www.lacomer.com.mx/superc/img_art/7502227197035_3.jpg
-La Comer,53,Crema de cacahuate con chocolate blanco peanut butter peanut bitter,68.95,https://www.lacomer.com.mx/superc/img_art/851087000052_3.jpg
-La Comer,54,Crema de cacahuate suave untable aladino,49.00,https://www.lacomer.com.mx/superc/img_art/7502223776159_3.jpg
-La Comer,55,Cacahuate salado sabritas,12.15,https://www.lacomer.com.mx/superc/img_art/7501011197909_3.jpg
-La Comer,56,Cacahuates hot nuts    barcel,13.80,https://www.lacomer.com.mx/superc/img_art/7501030459958_3.jpg
-La Comer,57,Mafer cacahuate enchilado 180gr frito enchilado mafer,26.58,https://www.lacomer.com.mx/superc/img_art/7501011124776_3.jpg
-La Comer,58,Cacahuate alprecio    ,27.60,https://www.lacomer.com.mx/superc/img_art/4640_3.jpg
-La Comer,59,Aceite de cacahuate   ines,84.75,https://www.lacomer.com.mx/superc/img_art/7503011263226_3.jpg
-La Comer,60,Crema de cacahuate untable con miel aladino,49.50,https://www.lacomer.com.mx/superc/img_art/7502223776166_3.jpg
-La Comer,61,Karate cacahuate japones 171 grs karate,16.50,https://www.lacomer.com.mx/superc/img_art/7501011141933_3.jpg
-La Comer,62,Mafer premium cacahuate tostado sazonado tostado sazonado sin acei mafer,11.50,https://www.lacomer.com.mx/superc/img_art/7501011143456_3.jpg
-La Comer,63,Cacahuate espanol mily,97.20,https://www.lacomer.com.mx/superc/img_art/2621312000007_3.jpg
-La Comer,64,Crema de cacahuate untable trocitos aladino,49.00,https://www.lacomer.com.mx/superc/img_art/7502223776142_3.jpg
-La Comer,65,Cacahuate    ,41.00,https://www.lacomer.com.mx/superc/img_art/7501855402337_3.jpg
-La Comer,66,Cacahuate salado   roli,25.24,https://www.lacomer.com.mx/superc/img_art/7503012987510_3.jpg
-La Comer,67,Cacahuate salado   nipon,28.08,https://www.lacomer.com.mx/superc/img_art/7501016421207_3.jpg
-La Comer,68,Barra de avena cacahuate coco almendras arroz quaker,30.00,https://www.lacomer.com.mx/superc/img_art/7501761865523_3.jpg
-La Comer,69,Cacahuate japones   ricky s,28.90,https://www.lacomer.com.mx/superc/img_art/7500326832673_3.jpg
-La Comer,70,Cacahuate espanol mily,97.20,https://www.lacomer.com.mx/superc/img_art/752092001235_3.jpg
-La Comer,71,Cacahuate tostado poca sal   fruit co.,59.00,https://www.lacomer.com.mx/superc/img_art/7502260704498_3.jpg
-La Comer,72,Crema de cacahuate suave laura scudders laura scudders,126.00,https://www.lacomer.com.mx/superc/img_art/51500050293_3.jpg
-La Comer,73,Cacahuates enchilado  golden nuts   barcel,27.70,https://www.lacomer.com.mx/superc/img_art/7501030420569_3.jpg
-La Comer,74,Aceite de cacahuate   ines,55.13,https://www.lacomer.com.mx/superc/img_art/7503011263189_3.jpg
-La Comer,75,Salsa picante de cacahuate   thai heritage,52.50,https://www.lacomer.com.mx/superc/img_art/8850781704503_3.jpg
-La Comer,76,Barra de crema cacahuate cocholate nugo family nugo,50.00,https://www.lacomer.com.mx/superc/img_art/691535503014_3.jpg
-La Comer,77,Barra chocolate crema  cacahuate nugo dark nugo,57.00,https://www.lacomer.com.mx/superc/img_art/691535527010_3.jpg
-La Comer,78,Crema de cacahuate reducida en grasa jif,53.50,https://www.lacomer.com.mx/superc/img_art/51500254851_3.jpg
-La Comer,79,Crema de cacahuate con miel   jif,53.50,https://www.lacomer.com.mx/superc/img_art/51500255780_3.jpg
-La Comer,80,Crema de cacahuate cremosa   reese,167.00,https://www.lacomer.com.mx/superc/img_art/34000400126_3.jpg
-La Comer,81,Barra de avena cacahuate arandano almendras arroz quaker,30.00,https://www.lacomer.com.mx/superc/img_art/7501761865561_3.jpg
-La Comer,82,Cacahuate japones mily,97.20,https://www.lacomer.com.mx/superc/img_art/752092001242_3.jpg
-La Comer,83,Lata cacahuates tostados mantequilla   fisher,44.55,https://www.lacomer.com.mx/superc/img_art/70690292023_3.jpg
-La Comer,84,Mafer premium cacahuate japones tostado japones tostado con sal mafer,11.50,https://www.lacomer.com.mx/superc/img_art/7501011143531_3.jpg
-La Comer,85,Cacahuate garapinado   bel ara,30.00,https://www.lacomer.com.mx/superc/img_art/7503003877455_3.jpg
-La Comer,86,Barras de granola con cacahuates y trozos chocolate natural valley,35.90,https://www.lacomer.com.mx/superc/img_art/16000446878_3.jpg
-La Comer,87,Cacahuate    ,45.20,https://www.lacomer.com.mx/superc/img_art/2721_3.jpg
-La Comer,88,Mafer cacahuate  salado 180gr frito y salado mafer,26.58,https://www.lacomer.com.mx/superc/img_art/7501011124608_3.jpg
-La Comer,89,Mafer cacahuate tostado sazonado 180gr tostado sazonado sin acei mafer,26.58,https://www.lacomer.com.mx/superc/img_art/7501011126930_3.jpg
-La Comer,90,Mafer cacahuate japones  limon 180gr japones con sal mafer,26.58,https://www.lacomer.com.mx/superc/img_art/7501011126244_3.jpg
-La Comer,91,Barras de granola con cacahuate   natural valley,36.90,https://www.lacomer.com.mx/superc/img_art/16000446854_3.jpg
-La Comer,92,Cereal maiz cacahuate panda sin gluten natures path,95.50,https://www.lacomer.com.mx/superc/img_art/58449860044_3.jpg
-La Comer,93,Special k kellogg s barra de cacahuate a arandanos y almendras kelloggs,36.90,https://www.lacomer.com.mx/superc/img_art/38000148002_3.jpg
-La Comer,94,Special k kellogg s barra de cacahuate c chocolate oscuro y almend kelloggs,36.90,https://www.lacomer.com.mx/superc/img_art/38000148033_3.jpg
-La Comer,95,Dulces tipicos othon palanqueta de cacah de cacahuate othon dulces,180.00,https://www.lacomer.com.mx/superc/img_art/7503022645134_3.jpg
-La Comer,96,Barra chocolate mantequilla de mani de cacahuate crujiente nugo,70.50,https://www.lacomer.com.mx/superc/img_art/691535207011_3.jpg
-La Comer,97,Barra  nugo stroger enjanbre de cacahuate glenbays,89.50,https://www.lacomer.com.mx/superc/img_art/691535703018_3.jpg
-La Comer,98,Chocolate bites cacahuate snickers,20.00,https://www.lacomer.com.mx/superc/img_art/7506174503604_3.jpg
-Chedraui,0,Aceite Kaporo Cacahuate 190 Ml,37.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/5/65403200136_00.jpg
-Chedraui,1,"Crema Cacahuate Aladino 425 gr, Trocit",49.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750222377614_00.jpg
-Chedraui,2,"Crema Cacahuate Aladino 425 gr, Miel t",49.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750222377616_00.jpg
-Chedraui,3,Aceite Ines Cacahuate 250 Ml,58.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750301126318_00.jpg
-Chedraui,4,Aceite Ines Cacahuate 500 Ml,113.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750301126322_00.jpg
-Chedraui,5,Barra Nature Valley Cacahuate 210 Gr,35.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/1/6/1600044685_00.jpg
-Chedraui,6,Galleta Oreo Choc Crema Cacahuate 345 Gr,99.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/4/4/4400002541_00.jpg
-Chedraui,7,Choco Snick Mini Cacahuate Vitrole 442G,95.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/0/70646020016_00.jpg
-Chedraui,8,Mazapan De La Rosa Cacahuate 30Pz 28 Gr,87.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/2/72486910010_00.jpg
-Chedraui,9,Salsa De Cacahuate DLola Frasco 125 Ml,31.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750032601015_00.jpg
-Chedraui,10,Cacahuates Sabritas Kkwates Japonés 180,27.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112823_00.jpg
-Chedraui,11,Cacahuates Sab Kkwates Salados 180 Gr,27.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112825_00.jpg
-Chedraui,12,Cacahuates Sab Kkwates Enchila2 180 Gr,27.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112868_00.jpg
-Chedraui,13,Cacahuates Sab Kkwates Bot Mex 180 Gr,27.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113069_00.jpg
-Chedraui,14,"Cacahuate Sabritas 101 gr, Salados",12.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101119790_01.jpg
-Chedraui,15,"Cacahuate Sabritas 101 gr, Japoneses",12.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101119792_00.jpg
-Chedraui,16,"Cacahuate Sabritas 101 gr, Surtido",12.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101119793_00.jpg
-Chedraui,17,"Cacahuate Barcel 190 gr, Salados",28.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103042055_00.jpg
-Chedraui,18,Cacahuate cubierto con Chile y Limón,28.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103042057_00.jpg
-Chedraui,19,"Cacahuate Barcel 95 gr, Japoneses",14.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103045993_00.jpg
-Chedraui,20,"Cacahuate Barcel 95 gr, Salados",14.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103045994_00.jpg
-Chedraui,21,Cacahuate Chedraui Tostado 454Gr,28.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125362642_00.jpg
-Chedraui,22,"Cacahuates Chedraui, Enchilados",13.15,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364408_00.jpg
-Chedraui,23,"Cacahuates Chedraui, Salados",13.15,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364409_00.jpg
-Chedraui,24,"Cacahuates Chedraui, Japoneses",13.15,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364410_00.jpg
-Chedraui,25,"Cacahuates Chedraui, Holandés",13.15,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364411_00.jpg
-Chedraui,26,Cacahuates Chedraui Surtido 180 Gr,17.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364483_00.jpg
-Chedraui,27,Cacahuate Tostado Chedraui 180Gr,12.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364734_00.jpg
-Chedraui,28,Cacahuates Chedraui Japones 50 Gr,3.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125366111_00.jpg
-Chedraui,29,Cacahuates Chedraui Salado 50 Gr,3.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125366112_00.jpg
-Chedraui,30,Cacahuates Chedraui Enchilado 50 Gr,3.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125366113_00.jpg
-Chedraui,31,Palanqueta La Estrella Cacahuate 65 Gr,10.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750130440154_00.jpg
-Chedraui,32,"Cacahuate Sala, Virginia",70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330238_00.jpg
-Chedraui,33,"Cacahuate Sala, Español",70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330239_00.jpg
-Chedraui,34,"Cacahuate Sala, Enchilados",70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330241_00.jpg
-Chedraui,35,"Cacahuate Sala, Japoneses",70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330242_00.jpg
-Chedraui,36,"Cacahuate Sala, Blanco tostado",70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330256_00.jpg
-Chedraui,37,Cacahuate Saladino Runner Kg,40.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330667_00.jpg
-Chedraui,38,Palanqueta De Cacahuate La Malintzi 6 Pz,34.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750148130009_00.jpg
-Chedraui,39,Crema Cacahuate Tasty Diabetics 310 Gr,49.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750190277024_00.jpg
-Chedraui,40,"Crema Cacahuate Aladino 425 gr, Cremos",49.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750222377613_00.jpg
-Chedraui,41,"Crema Cacahuate Aladino 425 gr, Suave",49.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750222377615_00.jpg
-Chedraui,42,Cacahuate Garapiñado Olype . . 250 Gr,24.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750222947502_00.jpg
-Chedraui,43,Cacahuate Fruitcorp Japones Ench Kg,48.45,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750226070436_00.jpg
-Chedraui,44,Cacahuates Planters Rost Semi Salado,89.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/9/2900007650_00.jpg
-Chedraui,45,Crema De Cacahuate Skippy Untable 425 G,61.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/7/3760010506_00.jpg
-Chedraui,46,Crema De Cacahuate Skippy Natural 425 G,61.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/7/3760023093_00.jpg
-Chedraui,47,Cacahuates Planters Sin Sal 452 Gr,89.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/0/702900007324_01.jpg
-Chedraui,48,Chocolate M&M Cacahuate 3 Pz 128 Gr,35.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/0/70646024318_01.jpg
-Chedraui,49,Barra Clif Cacahuate CMantequilla 68 Gr,42.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/2/72225260141_00.jpg
-Chedraui,50,Cacahuates Sab Mafer Clasico 100 Gr,17.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114344_01.jpg
-Chedraui,51,Cacahuates Mafer Tostado Sazonado 70 Gr,11.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114345_00.jpg
-Chedraui,52,Cacahuates Mafer Surtido Especial Sal 65,11.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114352_01.jpg
-Chedraui,53,"Cacahuate Sabritas 101 gr, Enchilados",12.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101119791_00.jpg
-Chedraui,54,"Cacahuate Sala, Blanco",70.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750136330240_00.jpg
-Chedraui,55,"Avena Quaker 360 gr, Cacahuate",43.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750176183018_00.jpg
-Chedraui,56,Cacahuates Planters Rostizado,73.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/9/2900007325_00.jpg
-Chedraui,57,Chocolates Arcor Bonobon Crema De Cacahu,19.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750223095027_01.jpg
-Chedraui,58,Cacahuates Nishikawa Salado 200 G,25.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750130830002_01.jpg
-Chedraui,59,Cacahuates Nishikawa Enchilado 200 Gr,25.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750130830003_01.jpg
-Chedraui,60,Crema Cacahuate Jif 340 Gr,47.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/1/5150005480_01.jpg
-Chedraui,61,Cacahuates De La Rosa Japones 720 Gr,52.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/2/72486900220_00.jpg
-Chedraui,62,Cacahuates Mafer Salados 180 gramos,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112460_00.jpg
-Chedraui,63,Cacahuates Mafer Enchilados 180 gramos,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112477_00.jpg
-Chedraui,64,Cacahuates Mafer Surtido Especial 180gr,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112529_00.jpg
-Chedraui,65,Cacahuates Mafer Surtido Enchilado 180gr,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112559_00.jpg
-Chedraui,66,Cacahuates Mafer Sal y Limón 180 gramos,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112624_00.jpg
-Chedraui,67,Cacahuates Mafer Tostado 180 gramos,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101112693_00.jpg
-Chedraui,68,Cacahuates Mafer Tostado Jalapeño 180gr,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113212_00.jpg
-Chedraui,69,Cacahuates Mafer Japoneses 180 gramos,24.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101113213_00.jpg
-Chedraui,70,Cacahuates Sab Mafer Surtido 95 Gr,17.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114342_00.jpg
-Chedraui,71,"Cacahuate Barcel 95 gr, Enchilados",14.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103045992_00.jpg
-Chedraui,72,GALL AVENITAS CACAHUATE 135 GR,13.45,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/9/4/9433100115_01.jpg
-Chedraui,73,Cacahuates Sab Mafer Sazonado 100 Gr,17.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114341_00.jpg
-Chedraui,74,Cacahuates Sab Mafer Jap Limon 100 Gr,17.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
-Chedraui,75,Cacahuates Mafer Japones 70 Gr,11.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
-Chedraui,76,Cacahuate cubierto con Chile y Limón,14.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103045995_00.jpg
-Chedraui,77,Cacahuates Sabritas Kacang Enchilado 17,26.35,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101115156_01.jpg
-Chedraui,78,Cacahuates Sabritas Mafer Chile Poblano,14.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101116926_01.jpg
-Chedraui,79,Chocolate Nestle Crunch Cacahuate Barra,13.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105861830_01.jpg
-Chedraui,80,Crema De Cacahuate Jif Natural Miel Bote,56.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/5/1/5150025578_01.jpg
-Chedraui,81,Cacahuates Barcel Kiyakis Trampados Sabo,16.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/75752802225_01.jpg
-Chedraui,82,Palanqueta Destellos con Cacahuate 100 g,13.12,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
-Chedraui,83,Crem Cacahuat Skippy Light CTrozos 425G,61.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/7/3760010499_00.jpg
-Chedraui,84,Barra Nature Valley Chocolate 210 Gr,35.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/1/6/1600044687_00.jpg
-Chedraui,85,Crema Cacahuat Skippy Natural Light 425G,61.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/7/3760010500_00.jpg
-Chedraui,86,"Salsa 250 gr, Norteña",39.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/0/70166201124_01.jpg
-Chedraui,87,Bc Parlor Perfect Praline Crunch 220 Gr,64.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/1/7116971402_00.jpg
-Chedraui,88,Cacahuat Barcel Kiyak Japoneses 150 Gr,15.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103042058_00.jpg
-Chedraui,89,Cac Keops 200 Grs Cj Con 30 Japones,20.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750300039520_00.jpg
-Chedraui,90,Snickers 2 Pack 86 Gr,20.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750617450076_1.jpg
-Chedraui,91,Snickers Individual Big Five 22 Gr,6.65,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750617450264_00.jpg
-Chedraui,92,Chocolates Snickers Bites Cacah Nougat B,25.05,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750617450360_00.jpg
-Chedraui,93,"Barra Kind 40g, Mora azul nuez fibra",39.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/0/60265217669_00.jpg
-Chedraui,94,"Barra Kind 40g, Delicia de nueces",39.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/0/60265217670_00.jpg
-Chedraui,95,Cacahuat Sabritas Maf Karat Jap 171 Gr,14.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750101114193_00.jpg
-Chedraui,96,Salsa Thai Heritage Cacahuatepicad 110Gr,45.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/8/885078170450_00.jpg
-Chedraui,97,Chocolate Sabor Mantequilla De Cacahuat,300.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
-Chedraui,98,Untable Barney Almen Cocoa Y Coco 284 Gr,247.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/8/5/85886400403_00.jpg
-Chedraui,99,Untable Barney Almendra 284 Gr,247.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/9/4/9492214998_00.jpg
-Chedraui,100,Untable Barney Almendra Crunchy 284 Gr,247.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/9/4/9492214999_00.jpg
-Chedraui,101,Palanquetas Zopelic Cacah Caja 24Pz 360,94.15,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750032638031_01.jpg
-Walmart,0,cacahuates mafer  premium salado 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112460L.jpg
-Walmart,1,cacahuates mafer  premium enchilado clásico 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112477L.jpg
-Walmart,2,cacahuates mafer  premium surtido especial salado 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112529L.jpg
-Walmart,3,cacahuates mafer  premium japonés tostado con limón 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112624L.jpg
-Walmart,4,cacahuates mafer  premium tostado sazonado sin aceite 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112693L.jpg
-Walmart,5,cacahuates mafer  premium tostado sazonado sabor jalapeño 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101113212L.jpg
-Walmart,6,cacahuates mafer  premium japonés tostado clásico 180 g,29.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101113213L.jpg
-Walmart,7,cacahuates   español 250 g,35.00,https://www.walmart.com.mx/super/images/Products/img_large/0750300674883L.jpg
-Walmart,8,cacahuate tostado   250 g,35.00,https://www.walmart.com.mx/super/images/Products/img_large/0750300674886L.jpg
-Walmart,9,crema de cacahuate skippy  untable con trozos de cacahuate reducida en grasa 462 g,61.00,https://www.walmart.com.mx/super/images/Products/img_large/0003760010499L.jpg
-Walmart,10,aceite de cacahuate kaporo  190 ml,37.00,https://www.walmart.com.mx/super/images/Products/img_large/0065403200136L.jpg
-Walmart,11,cacahuates sabritas  japoneses 180 g,27.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112823L.jpg
-Walmart,12,cacahuates sabritas  enchilados 180 g,27.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101112868L.jpg
-Walmart,13,cacahuates mafer  premium enchilado clásico 100 g,17.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101114344L.jpg
-Walmart,14,cacahuates sabritas  enchilados 100 g,12.60,https://www.walmart.com.mx/super/images/Products/img_large/0750101119791L.jpg
-Walmart,15,cacahuates barcel golden nuts saladados 190 g,28.00,https://www.walmart.com.mx/super/images/Products/img_large/0750103042055L.jpg
-Walmart,16,cacahuates kiyakis  japoneses 150 g,15.50,https://www.walmart.com.mx/super/images/Products/img_large/0750103042058L.jpg
-Walmart,17,crema de cacahuate aladino  creamy 425 g,55.50,https://www.walmart.com.mx/super/images/Products/img_large/0750222377613L.jpg
-Walmart,18,crema de cacahuate aladino  crunchy 425 g,55.50,https://www.walmart.com.mx/super/images/Products/img_large/0750222377614L.jpg
-Walmart,19,crema de cacahuate aladino  honey crunchy 468 g,55.50,https://www.walmart.com.mx/super/images/Products/img_large/0750222377616L.jpg
-Walmart,20,aceite de cacahuate inés  tostado 250 ml,58.00,https://www.walmart.com.mx/super/images/Products/img_large/0750301126318L.jpg
-Walmart,21,crema de cacahuate skippy  cremosa 462 g,61.00,https://www.walmart.com.mx/super/images/Products/img_large/0003760023093L.jpg
-Walmart,22,cacahuates karate  estilo japonés 171 g,16.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101114193L.jpg
-Walmart,23,cacahuates barcel hot nuts 190 g,28.00,https://www.walmart.com.mx/super/images/Products/img_large/0750103042057L.jpg
-Walmart,24,crema de cacahuate skippy  con miel 462 g,61.00,https://www.walmart.com.mx/super/images/Products/img_large/0003760011087L.jpg
-Walmart,25,galletas chocolatines  con malvavisco y cacahuate 7 paketines,31.50,https://www.walmart.com.mx/super/images/Products/img_large/0750100066273L.jpg
-Walmart,26,cacahuate tostado y pepita frita   calidad selecta 250 g,55.00,https://www.walmart.com.mx/super/images/Products/img_large/0750301926834L.jpg
-Walmart,27,cacahuates mixtos   calidad selecta  290 g,35.00,https://www.walmart.com.mx/super/images/Products/img_large/0750301926835L.jpg
-Walmart,28,nueces cacahuates y arándanos  calidad selecta 250 g,75.00,https://www.walmart.com.mx/super/images/Products/img_large/0750301926838L.jpg
-Walmart,29,salsa de cacahuate d lola  125 g,31.50,https://www.walmart.com.mx/super/images/Products/img_large/0750032601015L.jpg
-Walmart,30,cacahuates nipon  con sabor a mango y chile 180 g,15.90,https://www.walmart.com.mx/super/images/Products/img_large/0750101642167L.jpg
-Walmart,31,cacahuates nipon  enchilados 180 g,15.90,https://www.walmart.com.mx/super/images/Products/img_large/0750101642166L.jpg
-Walmart,32,chocolates m&amp;m's  con cacahuate 100 g,26.00,https://www.walmart.com.mx/super/images/Products/img_large/0750617450286L.jpg
-Walmart,33,cacahuates barcel hot nuts 100 g,14.00,https://www.walmart.com.mx/super/images/Products/img_large/0750103045995L.jpg
-Walmart,34,chocolate nikolo max almendras y cacahuate 33 g,6.00,https://www.walmart.com.mx/super/images/Products/img_large/0750223095005L.jpg
-Walmart,35,mezcla de cacahuates great value 190 g,13.00,https://www.walmart.com.mx/super/images/Products/img_large/0750179164390L.jpg
-Walmart,36,cacahuates sabritas  kacang chile y limón 171 g,19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750101115156L.jpg
-Walmart,37,cacahuates y pepitas sabritas  kacang con chile 171 g,19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750101115395L.jpg
-Walmart,38,caramelo montes damy crujiente con cacahuate 684 g,66.00,https://www.walmart.com.mx/super/images/Products/img_large/0002414200265L.jpg
-Walmart,39,cacahuates golden nuts estilo japonés 190 g,28.00,https://www.walmart.com.mx/super/images/Products/img_large/0750103042054L.jpg
-Walmart,40,nuez de la india cashitas  y cacahuate con sal 45 g,19.50,https://www.walmart.com.mx/super/images/Products/img_large/0076057308147L.jpg
-Walmart,41,barra de cereal miel chocolate y cacahuate 254 g,35.90,https://www.walmart.com.mx/super/images/Products/img_large/0001600041126L.jpg
-Walmart,42,caramelo crujiente montes damy de leche con cacahuate 100 pzas,43.00,https://www.walmart.com.mx/super/images/Products/img_large/0002414202003L.jpg
-Walmart,43,crema de cacahuate smuckers goober con jalea de fresa 340 g,48.90,https://www.walmart.com.mx/super/images/Products/img_large/0005150002066L.jpg
-Walmart,44,palomitas farm nuts  garapiñadas con cacahuates 100 g,33.90,https://www.walmart.com.mx/super/images/Products/img_large/0060694160009L.jpg
-Walmart,45,chocolates m&amp;m's  con cacahuate empaque botanero 124 g,29.00,https://www.walmart.com.mx/super/images/Products/img_large/0070646024314L.jpg
-Walmart,46,chocolates m&amp;m's  con cacahuate 3 pzas 147.9 g,36.00,https://www.walmart.com.mx/super/images/Products/img_large/0070646024318L.jpg
-Walmart,47,cacahuates mafer  premium tostados sin aceite sazonados 100 g,16.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101114341L.jpg
-Walmart,48,cacahuates mafer  premium japonés tostado con limón 100 g,17.50,https://www.walmart.com.mx/super/images/Products/img_large/0750101114343L.jpg
-Walmart,49,granola quaker mezcla selecta cacahuate nuez y avena 360 g,32.00,https://www.walmart.com.mx/super/images/Products/img_large/0750176183018L.jpg
-Walmart,50,cacahuates great value  surtidos salados 190 g,19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750179163800L.jpg
-Walmart,51,crema de cacahuate tasty diabetics  sin azúcar 310 g,49.90,https://www.walmart.com.mx/super/images/Products/img_large/0750190277024L.jpg
-Walmart,52,crema de cacahuate aladino  soft and sweety 425 g,55.50,https://www.walmart.com.mx/super/images/Products/img_large/0750222377615L.jpg
-Walmart,53,palanqueta casa adelita  gourmet de cacahuate 80 g,13.50,https://www.walmart.com.mx/super/images/Products/img_large/0750225295028L.jpg
-Walmart,54,palanqueta casa adelita  gourmet de cacahuate 4 pzas,47.00,https://www.walmart.com.mx/super/images/Products/img_large/0750225295029L.jpg
-Walmart,55,palanqueta cruji keta  de cacahuate tostado 6 pzas,35.00,https://www.walmart.com.mx/super/images/Products/img_large/0750300718442L.jpg
-Walmart,56,crema de cacahuate skippy  untable reducida en grasa 462 g,61.00,https://www.walmart.com.mx/super/images/Products/img_large/0003760010500L.jpg
-Walmart,57,cacahuates grupo mexicano de calidad en confitados  enchilados 250 g,35.00,https://www.walmart.com.mx/super/images/Products/img_large/0750300674885L.jpg
-Walmart,58,cacahuates grupo mexicano de calidad en confitados  japoneses 250 g,35.00,https://www.walmart.com.mx/super/images/Products/img_large/0750300674887L.jpg
-Walmart,59,crema de cacahuate peter pan  vitaminada 462 g,48.90,https://www.walmart.com.mx/super/images/Products/img_large/0750302108716L.jpg
-Walmart,60,crema de cacahuate peter pan  con trocitos crujientes 462 g,48.90,https://www.walmart.com.mx/super/images/Products/img_large/0750302108718L.jpg
-Walmart,61,crema de cacahuate peter pan  reducida en azúcar 369 g,48.90,https://www.walmart.com.mx/super/images/Products/img_large/0750302108717L.jpg
-Walmart,62,cacahuates win nuts  super cantinero con totopos chile y ajo 454 g,45.00,https://www.walmart.com.mx/super/images/Products/img_large/0750185542390L.jpg
-Walmart,63,cacahuates win nuts  calidad premium tostado sin sal 454 g,45.00,https://www.walmart.com.mx/super/images/Products/img_large/0750185540233L.jpg
+Superama,0,leche lala  100 reducida en grasa 1 l,19.90,http://www.superama.com.mx/Content/images/products/img_large/0750102054844L.jpg
+Superama,1,leche lala entera 1 l,15.70,http://www.superama.com.mx/Content/images/products/img_large/0750102051534L.jpg
+Superama,2,leche pasteurizada lala  100 semidescremada 1 l,19.90,http://www.superama.com.mx/Content/images/products/img_large/0750102054849L.jpg
+Superama,3,leche lala yomi sabor chocolate 1 l,20.00,http://www.superama.com.mx/Content/images/products/img_large/0750102051560L.jpg
+Superama,4,leche lala yomi sabor chocolate 250 ml,7.00,http://www.superama.com.mx/Content/images/products/img_large/0000007504267L.jpg
+Superama,5,leche lala yomi sabor fresa 1 l,20.00,http://www.superama.com.mx/Content/images/products/img_large/0750102051561L.jpg
+Superama,6,leche lala yomi sabor fresa 250 ml,7.00,http://www.superama.com.mx/Content/images/products/img_large/0000007504268L.jpg
+Superama,7,leche lala yomi sabor vainilla 1 l,20.00,http://www.superama.com.mx/Content/images/products/img_large/0750102051562L.jpg
+Superama,8,leche lala yomi sabor vainilla 250 ml,7.00,http://www.superama.com.mx/Content/images/products/img_large/0000007504269L.jpg
+Superama,9,leche lala  100 reducida en grasa 330 ml,9.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054846L.jpg
+Superama,10,leche pasteurizada lala  100 semidescremada 330 ml,9.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054851L.jpg
+Superama,11,leche pasteurizada lala  sin lactosa semidescremada 1 l,19.90,http://www.superama.com.mx/Content/images/products/img_large/0750102054855L.jpg
+Superama,12,leche pasteurizada lala  sin lactosa semidescremada 330 ml,9.50,http://www.superama.com.mx/Content/images/products/img_large/0750102055017L.jpg
+Superama,13,arroz con leche lala  125 g,5.00,http://www.superama.com.mx/Content/images/products/img_large/0750102053203L.jpg
+Superama,14,"leche lala  100  reducida en grasa, sin lactosa 1 l",19.90,http://www.superama.com.mx/Content/images/products/img_large/0750102054854L.jpg
+Superama,15,leche lala  100 sin lactosa reducida en grasa 330 ml,9.50,http://www.superama.com.mx/Content/images/products/img_large/0750102055016L.jpg
+Superama,16,café con leche lala  250 ml,10.90,http://www.superama.com.mx/Content/images/products/img_large/0750102054119L.jpg
+Superama,17,café con leche lala  deslactosado 1 l,22.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054118L.jpg
+Superama,18,café con leche lala  deslactosado sin azúcar 1 l,22.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054367L.jpg
+Superama,19,leche fresca lala  entera 1 l,13.50,http://www.superama.com.mx/Content/images/products/img_large/0750102052008L.jpg
+Superama,20,leche fresca lala deslactosada 1 l,16.50,http://www.superama.com.mx/Content/images/products/img_large/0750102052727L.jpg
+Superama,21,leche fresca lala entera 3.78 l,53.00,http://www.superama.com.mx/Content/images/products/img_large/0750102050008L.jpg
+Superama,22,leche fresca lala light 1 l,14.05,http://www.superama.com.mx/Content/images/products/img_large/0750102051080L.jpg
+Superama,23,leche fresca lala light 3.78 l,53.00,http://www.superama.com.mx/Content/images/products/img_large/0750102050037L.jpg
+Superama,24,leche lala  deslactosada light 250 ml,6.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054477L.jpg
+Superama,25,leche lala  extra calcio deslactosada 960 ml,17.20,http://www.superama.com.mx/Content/images/products/img_large/0750102054862L.jpg
+Superama,26,leche lala  semidescremada 1 l,15.70,http://www.superama.com.mx/Content/images/products/img_large/0750102051518L.jpg
+Superama,27,leche lala deslactosada 1 l,17.20,http://www.superama.com.mx/Content/images/products/img_large/0750102051539L.jpg
+Superama,28,leche lala deslactosada 250 ml,6.50,http://www.superama.com.mx/Content/images/products/img_large/0000007504270L.jpg
+Superama,29,leche lala deslactosada fibra 960 ml,17.20,http://www.superama.com.mx/Content/images/products/img_large/0750102054864L.jpg
+Superama,30,leche lala entera 1 l,14.50,http://www.superama.com.mx/Content/images/products/img_large/0750102052606L.jpg
+Superama,31,leche lala frutas sabor fresa 1 l,17.00,http://www.superama.com.mx/Content/images/products/img_large/0750102053964L.jpg
+Superama,32,leche lala frutas sabor fresa 250 ml,6.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054107L.jpg
+Superama,33,leche lala frutas sabor mango 1 l,17.00,http://www.superama.com.mx/Content/images/products/img_large/0750102053965L.jpg
+Superama,34,leche lala frutas sabor manzana 1 l,17.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054307L.jpg
+Superama,35,leche lala light 1 l,15.20,http://www.superama.com.mx/Content/images/products/img_large/0750102051535L.jpg
+Superama,36,leche lala light deslactosada 1 l,17.20,http://www.superama.com.mx/Content/images/products/img_large/0750102051587L.jpg
+Superama,37,alimento líquido lala soy almendras sin gluten 960 ml,29.90,http://www.superama.com.mx/Content/images/products/img_large/0750102054826L.jpg
+Superama,38,leche lala  deslactosada 6 pzas 1 l c/u,99.50,http://www.superama.com.mx/Content/images/products/img_large/0750102053779L.jpg
+Superama,39,leche lala  deslactosada light 6 pzas 1 l c/u,92.50,http://www.superama.com.mx/Content/images/products/img_large/0750102053780L.jpg
+Superama,40,leche lala  semidescremada 6 pzas 1 l c/u,91.00,http://www.superama.com.mx/Content/images/products/img_large/0750102053777L.jpg
+Superama,41,leche lala  siluette plus descremada sin grasa 960 ml,17.00,http://www.superama.com.mx/Content/images/products/img_large/0750102054832L.jpg
+Superama,42,leche lala  siluette plus deslactosada sin grasa 960 ml,17.00,http://www.superama.com.mx/Content/images/products/img_large/0750102054831L.jpg
+Superama,43,leche lala entera 6 pzas 1 l c/u,91.00,http://www.superama.com.mx/Content/images/products/img_large/0750102053775L.jpg
+Superama,44,leche lala light 6 pzas 1 l c/u,88.00,http://www.superama.com.mx/Content/images/products/img_large/0750102053778L.jpg
+Superama,45,café con leche lala  deslactosado sabor cappuccino mocha 1 l,22.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054365L.jpg
+Superama,46,café con leche lala  deslactosado sabor cappuccino vainilla 1 l,22.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054362L.jpg
+La Comer,0,Leche pasteurizada lala deslactosada  semi 1.8 lt lala,28.50,https://www.lacomer.com.mx/superc/img_art/7501020547078_3.jpg
+La Comer,1,Media crema alpura  media crema alpura,9.00,https://www.lacomer.com.mx/superc/img_art/7501055905287_3.jpg
+La Comer,2,Leche pasteurizada pref. especial   alpura,56.00,https://www.lacomer.com.mx/superc/img_art/7501055901050_3.jpg
+La Comer,3,Leche pasteurizada frutas   lala,6.50,https://www.lacomer.com.mx/superc/img_art/7501020541076_3.jpg
+La Comer,4,Leche uht light six pack   lala,91.00,https://www.lacomer.com.mx/superc/img_art/7501020537789_3.jpg
+La Comer,5,Leche en polvo   alpura,51.40,https://www.lacomer.com.mx/superc/img_art/7501055901081_3.jpg
+La Comer,6,Leche uht semi six pack   lala,91.00,https://www.lacomer.com.mx/superc/img_art/7501020537772_3.jpg
+La Comer,7,Leche pasteurizada pref. esp. entera lala,53.00,https://www.lacomer.com.mx/superc/img_art/7501020500080_3.jpg
+La Comer,8,Leche uht entera   lala,6.00,https://www.lacomer.com.mx/superc/img_art/75042660_3.jpg
+La Comer,9,Leche pasteurizada lala deslactosada  semi 1.8 lt lala,28.50,https://www.lacomer.com.mx/superc/img_art/7501020547078_3.jpg
+La Comer,10,Media crema alpura  media crema alpura,9.00,https://www.lacomer.com.mx/superc/img_art/7501055905287_3.jpg
+La Comer,11,Leche pasteurizada pref. especial   alpura,56.00,https://www.lacomer.com.mx/superc/img_art/7501055901050_3.jpg
+La Comer,12,Leche pasteurizada frutas   lala,6.50,https://www.lacomer.com.mx/superc/img_art/7501020541076_3.jpg
+La Comer,13,Leche uht light six pack   lala,91.00,https://www.lacomer.com.mx/superc/img_art/7501020537789_3.jpg
+La Comer,14,Leche en polvo   alpura,51.40,https://www.lacomer.com.mx/superc/img_art/7501055901081_3.jpg
+La Comer,15,Leche uht semi six pack   lala,91.00,https://www.lacomer.com.mx/superc/img_art/7501020537772_3.jpg
+La Comer,16,Leche pasteurizada pref. esp. entera lala,53.00,https://www.lacomer.com.mx/superc/img_art/7501020500080_3.jpg
+La Comer,17,Leche uht entera   lala,6.00,https://www.lacomer.com.mx/superc/img_art/75042660_3.jpg
+La Comer,18,Leche en polvo lata alpura,166.90,https://www.lacomer.com.mx/superc/img_art/7501055902248_3.jpg
+La Comer,19,Leche entera ultrapasteurizada selecta alpura,16.41,https://www.lacomer.com.mx/superc/img_art/7501055905034_3.jpg
+La Comer,20,Leche ultra pasteurizada entera alpura,6.00,https://www.lacomer.com.mx/superc/img_art/7501055902040_3.jpg
+La Comer,21,Leche ultra pasteurizada light . alpura,6.00,https://www.lacomer.com.mx/superc/img_art/7501055902187_3.jpg
+La Comer,22,Leche ultra pasteurizada semidescremada . alpura,6.00,https://www.lacomer.com.mx/superc/img_art/7501055902194_3.jpg
+La Comer,23,Cafe con leche   lala,22.30,https://www.lacomer.com.mx/superc/img_art/7501020541182_3.jpg
+La Comer,24,Leche pasteurizada pref. esp. entera lala,13.80,https://www.lacomer.com.mx/superc/img_art/7501020520088_3.jpg
+La Comer,25,Cafe con leche   lala,10.70,https://www.lacomer.com.mx/superc/img_art/7501020541199_3.jpg
+La Comer,26,Leche evaporada   alpura,11.80,https://www.lacomer.com.mx/superc/img_art/7501055908080_3.jpg
+La Comer,27,Leche pasteurizada frutas mango   lala,6.49,https://www.lacomer.com.mx/superc/img_art/7501020541083_3.jpg
+La Comer,28,Leche fresca saborizada manzana   lala,17.51,https://www.lacomer.com.mx/superc/img_art/7501020543070_3.jpg
+La Comer,29,Leche en polvo semidescremada 500 grs   alpura,49.20,https://www.lacomer.com.mx/superc/img_art/7501055905683_3.jpg
+La Comer,30,Leche fresca saborizada sabor fresa   lala,18.50,https://www.lacomer.com.mx/superc/img_art/7501020542158_3.jpg
+La Comer,31,Leche evaporada parcialmente descremada lala,9.74,https://www.lacomer.com.mx/superc/img_art/7501020539592_3.jpg
+La Comer,32,Leche pasteurizada light   lala,25.20,https://www.lacomer.com.mx/superc/img_art/7501020547054_3.jpg
+La Comer,33,Leche fresca c / fresa . alpura,17.90,https://www.lacomer.com.mx/superc/img_art/7501055903788_3.jpg
+La Comer,34,Leche ultra pasteurizada semidescremada alpura,16.00,https://www.lacomer.com.mx/superc/img_art/7501055900046_3.jpg
+La Comer,35,Leche ultra pasteurizada light alpura,16.00,https://www.lacomer.com.mx/superc/img_art/7501055900800_3.jpg
+La Comer,36,Leche ultra pasteurizada entera alpura,16.00,https://www.lacomer.com.mx/superc/img_art/7501055900039_3.jpg
+La Comer,37,Leche fresca saborizada fresa   lala,17.72,https://www.lacomer.com.mx/superc/img_art/7501020539646_3.jpg
+La Comer,38,Leche pasteurizada entera   lala,25.20,https://www.lacomer.com.mx/superc/img_art/7501020547047_3.jpg
+La Comer,39,Leche extra calcio deslactosada semidescremada lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020548624_3.jpg
+La Comer,40,Leche sin lactosa 100 lala,9.50,https://www.lacomer.com.mx/superc/img_art/7501020550177_3.jpg
+La Comer,41,Leche sin lactosa reducida en grasa 100 lala,19.90,https://www.lacomer.com.mx/superc/img_art/7501020548549_3.jpg
+La Comer,42,Leche pasteurizada frutal guanbana alpura,17.90,https://www.lacomer.com.mx/superc/img_art/7501055905072_3.jpg
+La Comer,43,Leche en polvo deslactosada   alpura,56.90,https://www.lacomer.com.mx/superc/img_art/7501055904907_3.jpg
+La Comer,44,Leche fibra deslactosada semidescremada lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020548648_3.jpg
+La Comer,45,Leche 70%+ proteina y 30% +calcio lala,19.90,https://www.lacomer.com.mx/superc/img_art/7501020548495_3.jpg
+La Comer,46,Leche fresca c / durazno . alpura,17.90,https://www.lacomer.com.mx/superc/img_art/7501055903795_3.jpg
+La Comer,47,Leche sin lactosa reducida en grasa 100 lala,9.50,https://www.lacomer.com.mx/superc/img_art/7501020550160_3.jpg
+La Comer,48,Leche sin lactosa 100 lala,19.90,https://www.lacomer.com.mx/superc/img_art/7501020548556_3.jpg
+La Comer,49,Leche pasteurizada frutal pia-coco alpura,17.90,https://www.lacomer.com.mx/superc/img_art/7501055904914_3.jpg
+La Comer,50,Leche fresca c / mango . alpura,17.90,https://www.lacomer.com.mx/superc/img_art/7501055903801_3.jpg
+La Comer,51,Leche pasteurizada pref. esp. entera lala,13.80,https://www.lacomer.com.mx/superc/img_art/7501020526066_3.jpg
+La Comer,52,Leche extra calcio light parc. descremada lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020548631_3.jpg
+La Comer,53,Leche 70% +proteina y 30%+ calcio 100 lala,9.50,https://www.lacomer.com.mx/superc/img_art/7501020548518_3.jpg
+La Comer,54,Leche pasteurizada pref. esp. light lala,13.80,https://www.lacomer.com.mx/superc/img_art/7501020510805_3.jpg
+La Comer,55,Leche fresca deslactosada semid . lala,16.50,https://www.lacomer.com.mx/superc/img_art/7501020527278_3.jpg
+La Comer,56,Leche siluette plus  descremada sin grasa lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020548327_3.jpg
+La Comer,57,Leche ultra pasteurizada entera lala,15.00,https://www.lacomer.com.mx/superc/img_art/7501020515343_3.jpg
+La Comer,58,Leche ultra pasteurizada light lala,15.00,https://www.lacomer.com.mx/superc/img_art/7501020515350_3.jpg
+La Comer,59,Leche ultra pasteurizada semidescremada lala,15.00,https://www.lacomer.com.mx/superc/img_art/7501020515183_3.jpg
+La Comer,60,Leche pasteurizada pref. esp. light alpura,14.70,https://www.lacomer.com.mx/superc/img_art/7501055904433_3.jpg
+La Comer,61,Leche pasteurizada pref. esp. entera alpura,14.70,https://www.lacomer.com.mx/superc/img_art/7501055900022_3.jpg
+La Comer,62,Leche pasteurizada 1 / 2 galon . alpura,28.70,https://www.lacomer.com.mx/superc/img_art/7501055901043_3.jpg
+La Comer,63,Leche pasteurizada pref. esp. semidescremada alpura,14.70,https://www.lacomer.com.mx/superc/img_art/7501055900015_3.jpg
+La Comer,64,Leche 70% +proteina y 30% + calcio reducida en grasa 100 lala,19.90,https://www.lacomer.com.mx/superc/img_art/7501020548440_3.jpg
+La Comer,65,Leche 70%+ proteina y 30% +calcio reducida en grasa 100 lala,9.50,https://www.lacomer.com.mx/superc/img_art/7501020548464_3.jpg
+La Comer,66,Formula de continuacion uht kids 1-3 aos alpura,7.00,https://www.lacomer.com.mx/superc/img_art/7501055907083_3.jpg
+La Comer,67,Frutal manzana verde alpura,18.00,https://www.lacomer.com.mx/superc/img_art/7501055909117_3.jpg
+La Comer,68,Frutal deslactosado fresa   alpura,6.90,https://www.lacomer.com.mx/superc/img_art/7501055905959_3.jpg
+La Comer,69,Frutal manzana verde alpura,6.30,https://www.lacomer.com.mx/superc/img_art/7501055909124_3.jpg
+La Comer,70,Fortileche   alpura,12.40,https://www.lacomer.com.mx/superc/img_art/7501055902378_3.jpg
+La Comer,71,Lache fresca saborizada mango   lala,17.50,https://www.lacomer.com.mx/superc/img_art/7501020539653_3.jpg
+La Comer,72,Frutal deslactosado fresa   alpura,18.80,https://www.lacomer.com.mx/superc/img_art/7501055905997_3.jpg
+La Comer,73,Frutal de guanabana   alpura,6.30,https://www.lacomer.com.mx/superc/img_art/7501055905942_3.jpg
+La Comer,74,Frutal durazno   alpura,6.55,https://www.lacomer.com.mx/superc/img_art/7501055905843_3.jpg
+La Comer,75,Media crema  uht   lala,8.70,https://www.lacomer.com.mx/superc/img_art/7501020515299_3.jpg
+La Comer,76,Formula de continuacion uht kids 1-3 aos alpura,19.90,https://www.lacomer.com.mx/superc/img_art/7501055907069_3.jpg
+La Comer,77,Leche u.p. entera desarollo . lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020515411_3.jpg
+La Comer,78,Leche saborizada u.p. chocolala lala,18.90,https://www.lacomer.com.mx/superc/img_art/7501020515602_3.jpg
+La Comer,79,Leche saborizada chocolate alpura,19.90,https://www.lacomer.com.mx/superc/img_art/7501055900060_3.jpg
+La Comer,80,Leche saborizada fresa alpura,19.90,https://www.lacomer.com.mx/superc/img_art/7501055900077_3.jpg
+La Comer,81,Leche saborizada vainilla alpura,19.90,https://www.lacomer.com.mx/superc/img_art/7501055900084_3.jpg
+La Comer,82,Leche ultra pasteur. multiactiva 40 y tantos alpura,17.50,https://www.lacomer.com.mx/superc/img_art/7501055904464_3.jpg
+La Comer,83,Leche siluette plus  descremada deslactosada sin grasa lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020548310_3.jpg
+La Comer,84,Leche dbt   alpura,20.40,https://www.lacomer.com.mx/superc/img_art/7501055905881_3.jpg
+La Comer,85,Cafe con leche sin azucar   lala,21.90,https://www.lacomer.com.mx/superc/img_art/7501020543674_3.jpg
+La Comer,86,Leche deslactosada light . alpura,17.50,https://www.lacomer.com.mx/superc/img_art/7501055904143_3.jpg
+La Comer,87,Leche ultra pasteurizada deslactosada alpura,17.50,https://www.lacomer.com.mx/superc/img_art/7501055901425_3.jpg
+La Comer,88,Leche ultrapasteurizada mujer 0% alpura,17.50,https://www.lacomer.com.mx/superc/img_art/7501055905546_3.jpg
+La Comer,89,Cafe vainillacapuccino con leche   lala,21.90,https://www.lacomer.com.mx/superc/img_art/7501020543629_3.jpg
+La Comer,90,Leche uht semideslactosada   lala,6.20,https://www.lacomer.com.mx/superc/img_art/75042707_3.jpg
+La Comer,91,Leche saborizada vainilla alpura,7.20,https://www.lacomer.com.mx/superc/img_art/75002091_3.jpg
+La Comer,92,Leche uht deslactosada six pack   lala,99.50,https://www.lacomer.com.mx/superc/img_art/7501020537796_3.jpg
+La Comer,93,Leche saborizada fresa alpura,7.20,https://www.lacomer.com.mx/superc/img_art/75002084_3.jpg
+La Comer,94,Leche ultra pasteurizada deslactosada lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020515398_3.jpg
+La Comer,95,Leche saborizada brick lala,18.90,https://www.lacomer.com.mx/superc/img_art/7501020515619_3.jpg
+La Comer,96,Leche saborizada deslactosada chocolate alpura,6.90,https://www.lacomer.com.mx/superc/img_art/7501055904518_3.jpg
+La Comer,97,Leche ultrapasteurizada deslactosada light alpura,6.50,https://www.lacomer.com.mx/superc/img_art/7501055905560_3.jpg
+La Comer,98,Arroz con leche   lala,17.90,https://www.lacomer.com.mx/superc/img_art/7501020540628_3.jpg
+Chedraui,0,Leche Lala Café CLech SAzuc Uht 1 Lt,22.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
+Chedraui,1,Arroz C Leche Lala 4 Pack 500 Gr,15.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054062_00.jpg
+Chedraui,2,Leche Lala Fresca Light 1 Lt,13.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051080_00.jpg
+Chedraui,3,Leche Lala Semi Ultra Pasteurizada 1Lt,15.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051518_00.jpg
+Chedraui,4,Leche Lala Entera Ultrapast 1 Lt,15.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051534_00.jpg
+Chedraui,5,Leche Lala Light Ultrapasteurizad 1 Lt,15.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051535_00.jpg
+Chedraui,6,"Leche Lala 1 lt, Semi Deslactosada",17.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051539_00.jpg
+Chedraui,7,"Leche Lala 1 lt, Deslactosada light",17.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051587_00.jpg
+Chedraui,8,Leche Lala Fresca Entera 1 Lt,13.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102052606_00.jpg
+Chedraui,9,Leche Lala Fresa Saborizada 1 Lt,17.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053964_00.jpg
+Chedraui,10,Leche Lala Mango Saborizada 1 Lt,17.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053965_00.jpg
+Chedraui,11,Leche Lala Fresa Saborizada 250 Ml,6.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054107_00.jpg
+Chedraui,12,Leche Lala Mango Saborizada 250 Ml,6.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054108_00.jpg
+Chedraui,13,Leche Lala Entera Café 250 Ml,10.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054119_00.jpg
+Chedraui,14,Leche Lala Café Cappuccino Vainilla 1 Lt,22.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
+Chedraui,15,Leche Lala Deslactosada Light 250 Ml,6.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054477_00.jpg
+Chedraui,16,Leche Lala Entera 250 Ml,6.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7504266_00.jpg
+Chedraui,17,Leche Lala Deslactosada 250 Ml,6.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7504270_00.jpg
+Chedraui,18,Leche Lala Fresca Premium 3.8 Lt,49.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102050008_00.jpg
+Chedraui,19,Leche Lala Fresca Premium 1 Lt,13.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102052008_00.jpg
+Chedraui,20,Leche Lala Deslactosada 1 Lt,16.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102052727_00.jpg
+Chedraui,21,Leche Lala Fsa Saborizada Deslactosada 1,18.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054215_00.jpg
+Chedraui,22,Leche Lala Past Light 1.80 Lt,23.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054705_07.jpg
+Chedraui,23,Leche Lala Pasteurizada Entera 1.80 Lt,23.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054704_07.jpg
+Chedraui,24,Leche Lala Pas Desla Sem 1.80 Lt,28.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054707_07.jpg
+Chedraui,25,Leche Lala Entera 6pack cu250 ml,32.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054709_00.jpg
+Chedraui,26,Gelatina Lala Leche Fsa 100 Gr,4.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054088_00.jpg
+Chedraui,27,Leche Lala Extra Calcio Deslactosada Sem,17.20,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054862_01.jpg
+Chedraui,28,Leche Lala Fibra Deslactosada Semdescr 9,17.20,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054864_01.jpg
+Chedraui,29,Leche Lala Extra Calcio Light Parcialmen,17.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054863_01.jpg
+Chedraui,30,Leche Lala 100 Fresca Semidescremada 1 l,19.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054849_07.jpg
+Chedraui,31,Leche Lala 100 Fresca Red Gra 1 lt,19.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054844_07.jpg
+Chedraui,32,Leche Lala 100 Fresca sin Lac Sem 1 lt,19.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054855_07.jpg
+Chedraui,33,Leche Lala 100 Fresca sin Lac Red Gra 1,19.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054854_07.jpg
+Chedraui,34,Leche Lala 100 Fresca Red Gra 330 ml,9.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054846_07.jpg
+Chedraui,35,Leche Lala 100 Fresca Semidescrem 330 ml,9.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054851_07.jpg
+Chedraui,36,Leche Lala 100 Fresca Red Gra 330 ml,9.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102055016_01.jpg
+Chedraui,37,Leche Lala 100 Fresca sin Lac Sem 330 ml,9.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102055017_01.jpg
+Chedraui,38,Leche Lala Siluette Plus Deslact 960 ml,16.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054831_01.jpg
+Chedraui,39,Leche Lala Siluette Plus Light 960 ml,16.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054832_01.jpg
+Chedraui,40,Leche Lala UTH Deslactosada Semi 1.5 lt,24.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
+Chedraui,41,Leche Uht Deslactosada Semi Lala 6 Pack,91.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053779_00.jpg
+Chedraui,42,Leche Uht Deslactosada Light Lala 6 Pack,91.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053780_00.jpg
+Chedraui,43,Leche Sab Lala 3 Pack Chocolate 250 Ml,19.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053920_00.jpg
+Chedraui,44,Leche Evaporada Lala 250 Ml,9.75,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053959_00.jpg
+Chedraui,45,Leche Uht Semi Lala 6 Pack,91.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053777_01.jpg
+Chedraui,46,Leche Uht Light Lala 6 Pack,88.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053778_00.jpg
+Chedraui,47,Producto Lácteo Lala Desarrollo 1 Lt,17.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051541_00.jpg
+Chedraui,48,"Leche Yomilala 1 lt, Chocolate",19.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051560_00.jpg
+Chedraui,49,"Leche Yomilala 1 lt, Fresa",19.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051561_00.jpg
+Chedraui,50,"Leche Yomilala 1 lt, Vainilla",19.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051562_00.jpg
+Chedraui,51,Leche saborizada Yomilala chocol 250 ml,7.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7504267_00.jpg
+Chedraui,52,Leche saborizada Yomilala fresa 250 ml,7.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7504268_00.jpg
+Chedraui,53,Leche saborizada Yomilala vainilla 250,7.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7504269_00.jpg
+Chedraui,54,Arroz C Leche Lala Natural 125 Gr,4.20,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053203_00.jpg
+Walmart,0,leche lala yomi sabor chocolate 250 ml,7.00,https://www.walmart.com.mx/super/images/Products/img_large/0000007504267L.jpg
+Walmart,1,leche lala yomi sabor fresa 250 ml,7.00,https://www.walmart.com.mx/super/images/Products/img_large/0000007504268L.jpg
+Walmart,2,leche lala yomi sabor vainilla 250 ml,7.00,https://www.walmart.com.mx/super/images/Products/img_large/0000007504269L.jpg
+Walmart,3,leche lala yomi sabor chocolate 1 l,20.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102051560L.jpg
+Walmart,4,leche lala yomi sabor fresa 1 l,20.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102051561L.jpg
+Walmart,5,leche lala yomi sabor vainilla 1 l,20.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102051562L.jpg
+Walmart,6,arroz con leche lala  125 g,5.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102053203L.jpg
+Walmart,7,leche lala light 1 l,15.20,https://www.walmart.com.mx/super/images/Products/img_large/0750102051535L.jpg
+Walmart,8,leche lala deslactosada 1 l,17.20,https://www.walmart.com.mx/super/images/Products/img_large/0750102051539L.jpg
+Walmart,9,leche lala light deslactosada 1 l,17.20,https://www.walmart.com.mx/super/images/Products/img_large/0750102051587L.jpg
+Walmart,10,leche lala entera 250 ml,6.00,https://www.walmart.com.mx/super/images/Products/img_large/0000007504266L.jpg
+Walmart,11,leche fresca lala light 3.78 l,49.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102050037L.jpg
+Walmart,12,leche fresca lala light 1 l,13.80,https://www.walmart.com.mx/super/images/Products/img_large/0750102051080L.jpg
+Walmart,13,leche lala  semidescremada 1 l,15.70,https://www.walmart.com.mx/super/images/Products/img_large/0750102051518L.jpg
+Walmart,14,leche lala entera 1 l,15.70,https://www.walmart.com.mx/super/images/Products/img_large/0750102051534L.jpg
+Walmart,15,leche lala desarrollo 1 l,17.20,https://www.walmart.com.mx/super/images/Products/img_large/0750102051541L.jpg
+Walmart,16,leche lala entera 1 l,13.80,https://www.walmart.com.mx/super/images/Products/img_large/0750102052606L.jpg
+Walmart,17,leche fresca lala deslactosada 1 l,16.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102052727L.jpg
+Walmart,18,leche lala frutas sabor fresa 1 l,17.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102053964L.jpg
+Walmart,19,leche lala frutas sabor mango 1 l,17.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102053965L.jpg
+Walmart,20,leche lala frutas sabor fresa 250 ml,6.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054107L.jpg
+Walmart,21,café con leche lala  deslactosado 1 l,22.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054118L.jpg
+Walmart,22,café con leche lala  250 ml,10.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054119L.jpg
+Walmart,23,leche lala frutas sabor manzana 1 l,17.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054307L.jpg
+Walmart,24,leche lala  deslactosada light 250 ml,6.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054477L.jpg
+Walmart,25,leche lala  entera 1.8 l,23.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054704L.jpg
+Walmart,26,leche lala  light 1.8 l,23.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054705L.jpg
+Walmart,27,leche lala  extra calcio deslactosada 960 ml,17.20,https://www.walmart.com.mx/super/images/Products/img_large/0750102054862L.jpg
+Walmart,28,leche lala  deslactosada fibra 960 ml,17.20,https://www.walmart.com.mx/super/images/Products/img_large/0750102054864L.jpg
+Walmart,29,leche pasteurizada lala  100 semidescremada 1 l,19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054849L.jpg
+Walmart,30,leche lala  100 reducida en grasa 1 l,19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054844L.jpg
+Walmart,31,leche pasteurizada lala  sin lactosa semidescremada 1 l,19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054855L.jpg
+Walmart,32,leche lala  100 reducida en grasa 330 ml,9.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054846L.jpg
+Walmart,33,leche pasteurizada lala  100 semidescremada 330 ml,9.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054851L.jpg
+Walmart,34,leche pasteurizada lala  sin lactosa semidescremada 330 ml,9.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102055017L.jpg
+Walmart,35,leche lala entera 6 pzas 1 l c/u,91.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102053775L.jpg
+Walmart,36,leche lala  semidescremada 6 pzas 1 l c/u,91.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102053777L.jpg
+Walmart,37,leche lala light 6 pzas 1 l c/u,88.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102053778L.jpg
+Walmart,38,leche lala  deslactosada 6 pzas 1 l c/u,99.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102053779L.jpg
+Walmart,39,leche lala  deslactosada light 6 pzas 1 l c/u,99.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102053780L.jpg
+Walmart,40,arroz con leche lala  4 pzas 125 g c/u,17.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054062L.jpg
+Walmart,41,café con leche lala  deslactosado sabor cappuccino mocha 1 l,22.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054365L.jpg
+Walmart,42,café con leche lala  deslactosado sabor cappuccino vainilla 1 l,22.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054362L.jpg
+Walmart,43,"leche lala  100  reducida en grasa, sin lactosa 1 l",19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054854L.jpg
+Walmart,44,leche lala  100 sin lactosa reducida en grasa 330 ml,9.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102055016L.jpg
+Walmart,45,leche lala  siluette plus descremada sin grasa 960 ml,17.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102054832L.jpg
