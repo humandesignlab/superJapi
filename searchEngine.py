@@ -12,6 +12,8 @@ import pandas as pd
 from decimal import *
 import re
 
+progCounter = 0
+
 def HTMLEntitiesToUnicode(text):
     text = unicode(BeautifulStoneSoup(text, convertEntities=BeautifulStoneSoup.ALL_ENTITIES))
     return text
@@ -21,6 +23,13 @@ def unicodize(seg):
         return seg.decode('unicode-escape')
 
     return seg.decode('utf-8')
+
+def progressCounter():
+	global progCounter
+	progCounter += 2.5
+	progCounterDict = {'progress' : progCounter}
+	jsonProgCounterDict = json.dumps(progCounterDict)
+	return jsonProgCounterDict
 
 def chedrauiSearchService(searchString):
 
@@ -79,6 +88,7 @@ def chedrauiSearchService(searchString):
 	dfChedraui['Precio']=[Decimal('%.2f' % float(element.strip("$").replace(",", ""))) for element in allPrices]
 	dfChedraui['imgUrl']= allImagesUrl
 	#dfChedraui.to_csv('searches/outchedraui.csv', encoding='utf-8')
+	print progressCounter()
 	return dfChedraui
 
 
@@ -138,6 +148,7 @@ def lacomerSearchService (searchString):
 	dfLacomer['Precio'] = [Decimal('%.2f' % element) for element in allPricesList]
 	dfLacomer['imgUrl'] = allImagesUrl
 	#dfLacomer.to_csv('searches/outlacomer.csv', encoding='utf-8')
+	print progressCounter()
 	return dfLacomer
 
 
@@ -171,6 +182,7 @@ def superamaSearchService(searchString):
 	dfSuperama['Precio']=[Decimal('%.2f' % float(element.strip("$").replace(",", ""))) for element in allPrices]
 	dfSuperama['imgUrl'] = allImagesUrl
 	#dfSuperama.to_csv('searches/outsuperama.csv', encoding='utf-8')
+	print progressCounter()
 	return dfSuperama
 
 def walmartSearchService(searchString):
@@ -203,11 +215,10 @@ def walmartSearchService(searchString):
 	dfWalmart['Precio']=[Decimal('%.2f' % float(element.strip("$").replace(",", ""))) for element in allPrices]
 	dfWalmart['imgUrl'] = allImagesUrl
 	#dfSuperama.to_csv('searches/outsuperama.csv', encoding='utf-8')
+	print progressCounter()
 	return dfWalmart
 
-#TODO: Fix unicode bug in JSON result
 def searchService(searchString):
-	#dfMasterData = {'Superama': superamaSearchService(searchString), 'La Comer': lacomerSearchService (searchString), 'Chedraui': chedrauiSearchService(searchString)}
 	dfMasterResult = pd.concat([superamaSearchService(searchString), lacomerSearchService(searchString), chedrauiSearchService(searchString), walmartSearchService(searchString)], keys=['Superama', 'La Comer', 'Chedraui', 'Walmart'])
 	dfMasterResult.index.levels[0].name = 'Tienda'
 	dfMasterResult.index.levels[1].name = 'ID'

@@ -1,248 +1,34 @@
 Tienda,ID,Producto,Precio,imgUrl
-Superama,0,leche lala  100 reducida en grasa 1 l,19.90,http://www.superama.com.mx/Content/images/products/img_large/0750102054844L.jpg
-Superama,1,leche lala entera 1 l,15.70,http://www.superama.com.mx/Content/images/products/img_large/0750102051534L.jpg
-Superama,2,leche pasteurizada lala  100 semidescremada 1 l,19.90,http://www.superama.com.mx/Content/images/products/img_large/0750102054849L.jpg
-Superama,3,leche lala yomi sabor chocolate 1 l,20.00,http://www.superama.com.mx/Content/images/products/img_large/0750102051560L.jpg
-Superama,4,leche lala yomi sabor chocolate 250 ml,7.00,http://www.superama.com.mx/Content/images/products/img_large/0000007504267L.jpg
-Superama,5,leche lala yomi sabor fresa 1 l,20.00,http://www.superama.com.mx/Content/images/products/img_large/0750102051561L.jpg
-Superama,6,leche lala yomi sabor fresa 250 ml,7.00,http://www.superama.com.mx/Content/images/products/img_large/0000007504268L.jpg
-Superama,7,leche lala yomi sabor vainilla 1 l,20.00,http://www.superama.com.mx/Content/images/products/img_large/0750102051562L.jpg
-Superama,8,leche lala yomi sabor vainilla 250 ml,7.00,http://www.superama.com.mx/Content/images/products/img_large/0000007504269L.jpg
-Superama,9,leche lala  100 reducida en grasa 330 ml,9.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054846L.jpg
-Superama,10,leche pasteurizada lala  100 semidescremada 330 ml,9.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054851L.jpg
-Superama,11,leche pasteurizada lala  sin lactosa semidescremada 1 l,19.90,http://www.superama.com.mx/Content/images/products/img_large/0750102054855L.jpg
-Superama,12,leche pasteurizada lala  sin lactosa semidescremada 330 ml,9.50,http://www.superama.com.mx/Content/images/products/img_large/0750102055017L.jpg
-Superama,13,arroz con leche lala  125 g,5.00,http://www.superama.com.mx/Content/images/products/img_large/0750102053203L.jpg
-Superama,14,"leche lala  100  reducida en grasa, sin lactosa 1 l",19.90,http://www.superama.com.mx/Content/images/products/img_large/0750102054854L.jpg
-Superama,15,leche lala  100 sin lactosa reducida en grasa 330 ml,9.50,http://www.superama.com.mx/Content/images/products/img_large/0750102055016L.jpg
-Superama,16,café con leche lala  250 ml,10.90,http://www.superama.com.mx/Content/images/products/img_large/0750102054119L.jpg
-Superama,17,café con leche lala  deslactosado 1 l,22.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054118L.jpg
-Superama,18,café con leche lala  deslactosado sin azúcar 1 l,22.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054367L.jpg
-Superama,19,leche fresca lala  entera 1 l,13.50,http://www.superama.com.mx/Content/images/products/img_large/0750102052008L.jpg
-Superama,20,leche fresca lala deslactosada 1 l,16.50,http://www.superama.com.mx/Content/images/products/img_large/0750102052727L.jpg
-Superama,21,leche fresca lala entera 3.78 l,53.00,http://www.superama.com.mx/Content/images/products/img_large/0750102050008L.jpg
-Superama,22,leche fresca lala light 1 l,14.05,http://www.superama.com.mx/Content/images/products/img_large/0750102051080L.jpg
-Superama,23,leche fresca lala light 3.78 l,53.00,http://www.superama.com.mx/Content/images/products/img_large/0750102050037L.jpg
-Superama,24,leche lala  deslactosada light 250 ml,6.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054477L.jpg
-Superama,25,leche lala  extra calcio deslactosada 960 ml,17.20,http://www.superama.com.mx/Content/images/products/img_large/0750102054862L.jpg
-Superama,26,leche lala  semidescremada 1 l,15.70,http://www.superama.com.mx/Content/images/products/img_large/0750102051518L.jpg
-Superama,27,leche lala deslactosada 1 l,17.20,http://www.superama.com.mx/Content/images/products/img_large/0750102051539L.jpg
-Superama,28,leche lala deslactosada 250 ml,6.50,http://www.superama.com.mx/Content/images/products/img_large/0000007504270L.jpg
-Superama,29,leche lala deslactosada fibra 960 ml,17.20,http://www.superama.com.mx/Content/images/products/img_large/0750102054864L.jpg
-Superama,30,leche lala entera 1 l,14.50,http://www.superama.com.mx/Content/images/products/img_large/0750102052606L.jpg
-Superama,31,leche lala frutas sabor fresa 1 l,17.00,http://www.superama.com.mx/Content/images/products/img_large/0750102053964L.jpg
-Superama,32,leche lala frutas sabor fresa 250 ml,6.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054107L.jpg
-Superama,33,leche lala frutas sabor mango 1 l,17.00,http://www.superama.com.mx/Content/images/products/img_large/0750102053965L.jpg
-Superama,34,leche lala frutas sabor manzana 1 l,17.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054307L.jpg
-Superama,35,leche lala light 1 l,15.20,http://www.superama.com.mx/Content/images/products/img_large/0750102051535L.jpg
-Superama,36,leche lala light deslactosada 1 l,17.20,http://www.superama.com.mx/Content/images/products/img_large/0750102051587L.jpg
-Superama,37,alimento líquido lala soy almendras sin gluten 960 ml,29.90,http://www.superama.com.mx/Content/images/products/img_large/0750102054826L.jpg
-Superama,38,leche lala  deslactosada 6 pzas 1 l c/u,99.50,http://www.superama.com.mx/Content/images/products/img_large/0750102053779L.jpg
-Superama,39,leche lala  deslactosada light 6 pzas 1 l c/u,92.50,http://www.superama.com.mx/Content/images/products/img_large/0750102053780L.jpg
-Superama,40,leche lala  semidescremada 6 pzas 1 l c/u,91.00,http://www.superama.com.mx/Content/images/products/img_large/0750102053777L.jpg
-Superama,41,leche lala  siluette plus descremada sin grasa 960 ml,17.00,http://www.superama.com.mx/Content/images/products/img_large/0750102054832L.jpg
-Superama,42,leche lala  siluette plus deslactosada sin grasa 960 ml,17.00,http://www.superama.com.mx/Content/images/products/img_large/0750102054831L.jpg
-Superama,43,leche lala entera 6 pzas 1 l c/u,91.00,http://www.superama.com.mx/Content/images/products/img_large/0750102053775L.jpg
-Superama,44,leche lala light 6 pzas 1 l c/u,88.00,http://www.superama.com.mx/Content/images/products/img_large/0750102053778L.jpg
-Superama,45,café con leche lala  deslactosado sabor cappuccino mocha 1 l,22.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054365L.jpg
-Superama,46,café con leche lala  deslactosado sabor cappuccino vainilla 1 l,22.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054362L.jpg
-La Comer,0,Leche pasteurizada lala deslactosada  semi 1.8 lt lala,28.50,https://www.lacomer.com.mx/superc/img_art/7501020547078_3.jpg
-La Comer,1,Media crema alpura  media crema alpura,9.00,https://www.lacomer.com.mx/superc/img_art/7501055905287_3.jpg
-La Comer,2,Leche pasteurizada pref. especial   alpura,56.00,https://www.lacomer.com.mx/superc/img_art/7501055901050_3.jpg
-La Comer,3,Leche pasteurizada frutas   lala,6.50,https://www.lacomer.com.mx/superc/img_art/7501020541076_3.jpg
-La Comer,4,Leche uht light six pack   lala,91.00,https://www.lacomer.com.mx/superc/img_art/7501020537789_3.jpg
-La Comer,5,Leche en polvo   alpura,51.40,https://www.lacomer.com.mx/superc/img_art/7501055901081_3.jpg
-La Comer,6,Leche uht semi six pack   lala,91.00,https://www.lacomer.com.mx/superc/img_art/7501020537772_3.jpg
-La Comer,7,Leche pasteurizada pref. esp. entera lala,53.00,https://www.lacomer.com.mx/superc/img_art/7501020500080_3.jpg
-La Comer,8,Leche uht entera   lala,6.00,https://www.lacomer.com.mx/superc/img_art/75042660_3.jpg
-La Comer,9,Leche pasteurizada lala deslactosada  semi 1.8 lt lala,28.50,https://www.lacomer.com.mx/superc/img_art/7501020547078_3.jpg
-La Comer,10,Media crema alpura  media crema alpura,9.00,https://www.lacomer.com.mx/superc/img_art/7501055905287_3.jpg
-La Comer,11,Leche pasteurizada pref. especial   alpura,56.00,https://www.lacomer.com.mx/superc/img_art/7501055901050_3.jpg
-La Comer,12,Leche pasteurizada frutas   lala,6.50,https://www.lacomer.com.mx/superc/img_art/7501020541076_3.jpg
-La Comer,13,Leche uht light six pack   lala,91.00,https://www.lacomer.com.mx/superc/img_art/7501020537789_3.jpg
-La Comer,14,Leche en polvo   alpura,51.40,https://www.lacomer.com.mx/superc/img_art/7501055901081_3.jpg
-La Comer,15,Leche uht semi six pack   lala,91.00,https://www.lacomer.com.mx/superc/img_art/7501020537772_3.jpg
-La Comer,16,Leche pasteurizada pref. esp. entera lala,53.00,https://www.lacomer.com.mx/superc/img_art/7501020500080_3.jpg
-La Comer,17,Leche uht entera   lala,6.00,https://www.lacomer.com.mx/superc/img_art/75042660_3.jpg
-La Comer,18,Leche en polvo lata alpura,166.90,https://www.lacomer.com.mx/superc/img_art/7501055902248_3.jpg
-La Comer,19,Leche entera ultrapasteurizada selecta alpura,16.41,https://www.lacomer.com.mx/superc/img_art/7501055905034_3.jpg
-La Comer,20,Leche ultra pasteurizada entera alpura,6.00,https://www.lacomer.com.mx/superc/img_art/7501055902040_3.jpg
-La Comer,21,Leche ultra pasteurizada light . alpura,6.00,https://www.lacomer.com.mx/superc/img_art/7501055902187_3.jpg
-La Comer,22,Leche ultra pasteurizada semidescremada . alpura,6.00,https://www.lacomer.com.mx/superc/img_art/7501055902194_3.jpg
-La Comer,23,Cafe con leche   lala,22.30,https://www.lacomer.com.mx/superc/img_art/7501020541182_3.jpg
-La Comer,24,Leche pasteurizada pref. esp. entera lala,13.80,https://www.lacomer.com.mx/superc/img_art/7501020520088_3.jpg
-La Comer,25,Cafe con leche   lala,10.70,https://www.lacomer.com.mx/superc/img_art/7501020541199_3.jpg
-La Comer,26,Leche evaporada   alpura,11.80,https://www.lacomer.com.mx/superc/img_art/7501055908080_3.jpg
-La Comer,27,Leche pasteurizada frutas mango   lala,6.49,https://www.lacomer.com.mx/superc/img_art/7501020541083_3.jpg
-La Comer,28,Leche fresca saborizada manzana   lala,17.51,https://www.lacomer.com.mx/superc/img_art/7501020543070_3.jpg
-La Comer,29,Leche en polvo semidescremada 500 grs   alpura,49.20,https://www.lacomer.com.mx/superc/img_art/7501055905683_3.jpg
-La Comer,30,Leche fresca saborizada sabor fresa   lala,18.50,https://www.lacomer.com.mx/superc/img_art/7501020542158_3.jpg
-La Comer,31,Leche evaporada parcialmente descremada lala,9.74,https://www.lacomer.com.mx/superc/img_art/7501020539592_3.jpg
-La Comer,32,Leche pasteurizada light   lala,25.20,https://www.lacomer.com.mx/superc/img_art/7501020547054_3.jpg
-La Comer,33,Leche fresca c / fresa . alpura,17.90,https://www.lacomer.com.mx/superc/img_art/7501055903788_3.jpg
-La Comer,34,Leche ultra pasteurizada semidescremada alpura,16.00,https://www.lacomer.com.mx/superc/img_art/7501055900046_3.jpg
-La Comer,35,Leche ultra pasteurizada light alpura,16.00,https://www.lacomer.com.mx/superc/img_art/7501055900800_3.jpg
-La Comer,36,Leche ultra pasteurizada entera alpura,16.00,https://www.lacomer.com.mx/superc/img_art/7501055900039_3.jpg
-La Comer,37,Leche fresca saborizada fresa   lala,17.72,https://www.lacomer.com.mx/superc/img_art/7501020539646_3.jpg
-La Comer,38,Leche pasteurizada entera   lala,25.20,https://www.lacomer.com.mx/superc/img_art/7501020547047_3.jpg
-La Comer,39,Leche extra calcio deslactosada semidescremada lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020548624_3.jpg
-La Comer,40,Leche sin lactosa 100 lala,9.50,https://www.lacomer.com.mx/superc/img_art/7501020550177_3.jpg
-La Comer,41,Leche sin lactosa reducida en grasa 100 lala,19.90,https://www.lacomer.com.mx/superc/img_art/7501020548549_3.jpg
-La Comer,42,Leche pasteurizada frutal guanbana alpura,17.90,https://www.lacomer.com.mx/superc/img_art/7501055905072_3.jpg
-La Comer,43,Leche en polvo deslactosada   alpura,56.90,https://www.lacomer.com.mx/superc/img_art/7501055904907_3.jpg
-La Comer,44,Leche fibra deslactosada semidescremada lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020548648_3.jpg
-La Comer,45,Leche 70%+ proteina y 30% +calcio lala,19.90,https://www.lacomer.com.mx/superc/img_art/7501020548495_3.jpg
-La Comer,46,Leche fresca c / durazno . alpura,17.90,https://www.lacomer.com.mx/superc/img_art/7501055903795_3.jpg
-La Comer,47,Leche sin lactosa reducida en grasa 100 lala,9.50,https://www.lacomer.com.mx/superc/img_art/7501020550160_3.jpg
-La Comer,48,Leche sin lactosa 100 lala,19.90,https://www.lacomer.com.mx/superc/img_art/7501020548556_3.jpg
-La Comer,49,Leche pasteurizada frutal pia-coco alpura,17.90,https://www.lacomer.com.mx/superc/img_art/7501055904914_3.jpg
-La Comer,50,Leche fresca c / mango . alpura,17.90,https://www.lacomer.com.mx/superc/img_art/7501055903801_3.jpg
-La Comer,51,Leche pasteurizada pref. esp. entera lala,13.80,https://www.lacomer.com.mx/superc/img_art/7501020526066_3.jpg
-La Comer,52,Leche extra calcio light parc. descremada lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020548631_3.jpg
-La Comer,53,Leche 70% +proteina y 30%+ calcio 100 lala,9.50,https://www.lacomer.com.mx/superc/img_art/7501020548518_3.jpg
-La Comer,54,Leche pasteurizada pref. esp. light lala,13.80,https://www.lacomer.com.mx/superc/img_art/7501020510805_3.jpg
-La Comer,55,Leche fresca deslactosada semid . lala,16.50,https://www.lacomer.com.mx/superc/img_art/7501020527278_3.jpg
-La Comer,56,Leche siluette plus  descremada sin grasa lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020548327_3.jpg
-La Comer,57,Leche ultra pasteurizada entera lala,15.00,https://www.lacomer.com.mx/superc/img_art/7501020515343_3.jpg
-La Comer,58,Leche ultra pasteurizada light lala,15.00,https://www.lacomer.com.mx/superc/img_art/7501020515350_3.jpg
-La Comer,59,Leche ultra pasteurizada semidescremada lala,15.00,https://www.lacomer.com.mx/superc/img_art/7501020515183_3.jpg
-La Comer,60,Leche pasteurizada pref. esp. light alpura,14.70,https://www.lacomer.com.mx/superc/img_art/7501055904433_3.jpg
-La Comer,61,Leche pasteurizada pref. esp. entera alpura,14.70,https://www.lacomer.com.mx/superc/img_art/7501055900022_3.jpg
-La Comer,62,Leche pasteurizada 1 / 2 galon . alpura,28.70,https://www.lacomer.com.mx/superc/img_art/7501055901043_3.jpg
-La Comer,63,Leche pasteurizada pref. esp. semidescremada alpura,14.70,https://www.lacomer.com.mx/superc/img_art/7501055900015_3.jpg
-La Comer,64,Leche 70% +proteina y 30% + calcio reducida en grasa 100 lala,19.90,https://www.lacomer.com.mx/superc/img_art/7501020548440_3.jpg
-La Comer,65,Leche 70%+ proteina y 30% +calcio reducida en grasa 100 lala,9.50,https://www.lacomer.com.mx/superc/img_art/7501020548464_3.jpg
-La Comer,66,Formula de continuacion uht kids 1-3 aos alpura,7.00,https://www.lacomer.com.mx/superc/img_art/7501055907083_3.jpg
-La Comer,67,Frutal manzana verde alpura,18.00,https://www.lacomer.com.mx/superc/img_art/7501055909117_3.jpg
-La Comer,68,Frutal deslactosado fresa   alpura,6.90,https://www.lacomer.com.mx/superc/img_art/7501055905959_3.jpg
-La Comer,69,Frutal manzana verde alpura,6.30,https://www.lacomer.com.mx/superc/img_art/7501055909124_3.jpg
-La Comer,70,Fortileche   alpura,12.40,https://www.lacomer.com.mx/superc/img_art/7501055902378_3.jpg
-La Comer,71,Lache fresca saborizada mango   lala,17.50,https://www.lacomer.com.mx/superc/img_art/7501020539653_3.jpg
-La Comer,72,Frutal deslactosado fresa   alpura,18.80,https://www.lacomer.com.mx/superc/img_art/7501055905997_3.jpg
-La Comer,73,Frutal de guanabana   alpura,6.30,https://www.lacomer.com.mx/superc/img_art/7501055905942_3.jpg
-La Comer,74,Frutal durazno   alpura,6.55,https://www.lacomer.com.mx/superc/img_art/7501055905843_3.jpg
-La Comer,75,Media crema  uht   lala,8.70,https://www.lacomer.com.mx/superc/img_art/7501020515299_3.jpg
-La Comer,76,Formula de continuacion uht kids 1-3 aos alpura,19.90,https://www.lacomer.com.mx/superc/img_art/7501055907069_3.jpg
-La Comer,77,Leche u.p. entera desarollo . lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020515411_3.jpg
-La Comer,78,Leche saborizada u.p. chocolala lala,18.90,https://www.lacomer.com.mx/superc/img_art/7501020515602_3.jpg
-La Comer,79,Leche saborizada chocolate alpura,19.90,https://www.lacomer.com.mx/superc/img_art/7501055900060_3.jpg
-La Comer,80,Leche saborizada fresa alpura,19.90,https://www.lacomer.com.mx/superc/img_art/7501055900077_3.jpg
-La Comer,81,Leche saborizada vainilla alpura,19.90,https://www.lacomer.com.mx/superc/img_art/7501055900084_3.jpg
-La Comer,82,Leche ultra pasteur. multiactiva 40 y tantos alpura,17.50,https://www.lacomer.com.mx/superc/img_art/7501055904464_3.jpg
-La Comer,83,Leche siluette plus  descremada deslactosada sin grasa lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020548310_3.jpg
-La Comer,84,Leche dbt   alpura,20.40,https://www.lacomer.com.mx/superc/img_art/7501055905881_3.jpg
-La Comer,85,Cafe con leche sin azucar   lala,21.90,https://www.lacomer.com.mx/superc/img_art/7501020543674_3.jpg
-La Comer,86,Leche deslactosada light . alpura,17.50,https://www.lacomer.com.mx/superc/img_art/7501055904143_3.jpg
-La Comer,87,Leche ultra pasteurizada deslactosada alpura,17.50,https://www.lacomer.com.mx/superc/img_art/7501055901425_3.jpg
-La Comer,88,Leche ultrapasteurizada mujer 0% alpura,17.50,https://www.lacomer.com.mx/superc/img_art/7501055905546_3.jpg
-La Comer,89,Cafe vainillacapuccino con leche   lala,21.90,https://www.lacomer.com.mx/superc/img_art/7501020543629_3.jpg
-La Comer,90,Leche uht semideslactosada   lala,6.20,https://www.lacomer.com.mx/superc/img_art/75042707_3.jpg
-La Comer,91,Leche saborizada vainilla alpura,7.20,https://www.lacomer.com.mx/superc/img_art/75002091_3.jpg
-La Comer,92,Leche uht deslactosada six pack   lala,99.50,https://www.lacomer.com.mx/superc/img_art/7501020537796_3.jpg
-La Comer,93,Leche saborizada fresa alpura,7.20,https://www.lacomer.com.mx/superc/img_art/75002084_3.jpg
-La Comer,94,Leche ultra pasteurizada deslactosada lala,17.20,https://www.lacomer.com.mx/superc/img_art/7501020515398_3.jpg
-La Comer,95,Leche saborizada brick lala,18.90,https://www.lacomer.com.mx/superc/img_art/7501020515619_3.jpg
-La Comer,96,Leche saborizada deslactosada chocolate alpura,6.90,https://www.lacomer.com.mx/superc/img_art/7501055904518_3.jpg
-La Comer,97,Leche ultrapasteurizada deslactosada light alpura,6.50,https://www.lacomer.com.mx/superc/img_art/7501055905560_3.jpg
-La Comer,98,Arroz con leche   lala,17.90,https://www.lacomer.com.mx/superc/img_art/7501020540628_3.jpg
-Chedraui,0,Leche Lala Café CLech SAzuc Uht 1 Lt,22.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
-Chedraui,1,Arroz C Leche Lala 4 Pack 500 Gr,15.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054062_00.jpg
-Chedraui,2,Leche Lala Fresca Light 1 Lt,13.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051080_00.jpg
-Chedraui,3,Leche Lala Semi Ultra Pasteurizada 1Lt,15.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051518_00.jpg
-Chedraui,4,Leche Lala Entera Ultrapast 1 Lt,15.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051534_00.jpg
-Chedraui,5,Leche Lala Light Ultrapasteurizad 1 Lt,15.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051535_00.jpg
-Chedraui,6,"Leche Lala 1 lt, Semi Deslactosada",17.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051539_00.jpg
-Chedraui,7,"Leche Lala 1 lt, Deslactosada light",17.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051587_00.jpg
-Chedraui,8,Leche Lala Fresca Entera 1 Lt,13.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102052606_00.jpg
-Chedraui,9,Leche Lala Fresa Saborizada 1 Lt,17.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053964_00.jpg
-Chedraui,10,Leche Lala Mango Saborizada 1 Lt,17.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053965_00.jpg
-Chedraui,11,Leche Lala Fresa Saborizada 250 Ml,6.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054107_00.jpg
-Chedraui,12,Leche Lala Mango Saborizada 250 Ml,6.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054108_00.jpg
-Chedraui,13,Leche Lala Entera Café 250 Ml,10.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054119_00.jpg
-Chedraui,14,Leche Lala Café Cappuccino Vainilla 1 Lt,22.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
-Chedraui,15,Leche Lala Deslactosada Light 250 Ml,6.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054477_00.jpg
-Chedraui,16,Leche Lala Entera 250 Ml,6.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7504266_00.jpg
-Chedraui,17,Leche Lala Deslactosada 250 Ml,6.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7504270_00.jpg
-Chedraui,18,Leche Lala Fresca Premium 3.8 Lt,49.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102050008_00.jpg
-Chedraui,19,Leche Lala Fresca Premium 1 Lt,13.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102052008_00.jpg
-Chedraui,20,Leche Lala Deslactosada 1 Lt,16.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102052727_00.jpg
-Chedraui,21,Leche Lala Fsa Saborizada Deslactosada 1,18.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054215_00.jpg
-Chedraui,22,Leche Lala Past Light 1.80 Lt,23.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054705_07.jpg
-Chedraui,23,Leche Lala Pasteurizada Entera 1.80 Lt,23.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054704_07.jpg
-Chedraui,24,Leche Lala Pas Desla Sem 1.80 Lt,28.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054707_07.jpg
-Chedraui,25,Leche Lala Entera 6pack cu250 ml,32.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054709_00.jpg
-Chedraui,26,Gelatina Lala Leche Fsa 100 Gr,4.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054088_00.jpg
-Chedraui,27,Leche Lala Extra Calcio Deslactosada Sem,17.20,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054862_01.jpg
-Chedraui,28,Leche Lala Fibra Deslactosada Semdescr 9,17.20,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054864_01.jpg
-Chedraui,29,Leche Lala Extra Calcio Light Parcialmen,17.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054863_01.jpg
-Chedraui,30,Leche Lala 100 Fresca Semidescremada 1 l,19.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054849_07.jpg
-Chedraui,31,Leche Lala 100 Fresca Red Gra 1 lt,19.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054844_07.jpg
-Chedraui,32,Leche Lala 100 Fresca sin Lac Sem 1 lt,19.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054855_07.jpg
-Chedraui,33,Leche Lala 100 Fresca sin Lac Red Gra 1,19.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054854_07.jpg
-Chedraui,34,Leche Lala 100 Fresca Red Gra 330 ml,9.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054846_07.jpg
-Chedraui,35,Leche Lala 100 Fresca Semidescrem 330 ml,9.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054851_07.jpg
-Chedraui,36,Leche Lala 100 Fresca Red Gra 330 ml,9.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102055016_01.jpg
-Chedraui,37,Leche Lala 100 Fresca sin Lac Sem 330 ml,9.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102055017_01.jpg
-Chedraui,38,Leche Lala Siluette Plus Deslact 960 ml,16.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054831_01.jpg
-Chedraui,39,Leche Lala Siluette Plus Light 960 ml,16.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054832_01.jpg
-Chedraui,40,Leche Lala UTH Deslactosada Semi 1.5 lt,24.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/sin_imagen_1.png
-Chedraui,41,Leche Uht Deslactosada Semi Lala 6 Pack,91.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053779_00.jpg
-Chedraui,42,Leche Uht Deslactosada Light Lala 6 Pack,91.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053780_00.jpg
-Chedraui,43,Leche Sab Lala 3 Pack Chocolate 250 Ml,19.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053920_00.jpg
-Chedraui,44,Leche Evaporada Lala 250 Ml,9.75,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053959_00.jpg
-Chedraui,45,Leche Uht Semi Lala 6 Pack,91.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053777_01.jpg
-Chedraui,46,Leche Uht Light Lala 6 Pack,88.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053778_00.jpg
-Chedraui,47,Producto Lácteo Lala Desarrollo 1 Lt,17.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051541_00.jpg
-Chedraui,48,"Leche Yomilala 1 lt, Chocolate",19.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051560_00.jpg
-Chedraui,49,"Leche Yomilala 1 lt, Fresa",19.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051561_00.jpg
-Chedraui,50,"Leche Yomilala 1 lt, Vainilla",19.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051562_00.jpg
-Chedraui,51,Leche saborizada Yomilala chocol 250 ml,7.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7504267_00.jpg
-Chedraui,52,Leche saborizada Yomilala fresa 250 ml,7.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7504268_00.jpg
-Chedraui,53,Leche saborizada Yomilala vainilla 250,7.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7504269_00.jpg
-Chedraui,54,Arroz C Leche Lala Natural 125 Gr,4.20,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053203_00.jpg
-Walmart,0,leche lala yomi sabor chocolate 250 ml,7.00,https://www.walmart.com.mx/super/images/Products/img_large/0000007504267L.jpg
-Walmart,1,leche lala yomi sabor fresa 250 ml,7.00,https://www.walmart.com.mx/super/images/Products/img_large/0000007504268L.jpg
-Walmart,2,leche lala yomi sabor vainilla 250 ml,7.00,https://www.walmart.com.mx/super/images/Products/img_large/0000007504269L.jpg
-Walmart,3,leche lala yomi sabor chocolate 1 l,20.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102051560L.jpg
-Walmart,4,leche lala yomi sabor fresa 1 l,20.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102051561L.jpg
-Walmart,5,leche lala yomi sabor vainilla 1 l,20.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102051562L.jpg
-Walmart,6,arroz con leche lala  125 g,5.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102053203L.jpg
-Walmart,7,leche lala light 1 l,15.20,https://www.walmart.com.mx/super/images/Products/img_large/0750102051535L.jpg
-Walmart,8,leche lala deslactosada 1 l,17.20,https://www.walmart.com.mx/super/images/Products/img_large/0750102051539L.jpg
-Walmart,9,leche lala light deslactosada 1 l,17.20,https://www.walmart.com.mx/super/images/Products/img_large/0750102051587L.jpg
-Walmart,10,leche lala entera 250 ml,6.00,https://www.walmart.com.mx/super/images/Products/img_large/0000007504266L.jpg
-Walmart,11,leche fresca lala light 3.78 l,49.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102050037L.jpg
-Walmart,12,leche fresca lala light 1 l,13.80,https://www.walmart.com.mx/super/images/Products/img_large/0750102051080L.jpg
-Walmart,13,leche lala  semidescremada 1 l,15.70,https://www.walmart.com.mx/super/images/Products/img_large/0750102051518L.jpg
-Walmart,14,leche lala entera 1 l,15.70,https://www.walmart.com.mx/super/images/Products/img_large/0750102051534L.jpg
-Walmart,15,leche lala desarrollo 1 l,17.20,https://www.walmart.com.mx/super/images/Products/img_large/0750102051541L.jpg
-Walmart,16,leche lala entera 1 l,13.80,https://www.walmart.com.mx/super/images/Products/img_large/0750102052606L.jpg
-Walmart,17,leche fresca lala deslactosada 1 l,16.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102052727L.jpg
-Walmart,18,leche lala frutas sabor fresa 1 l,17.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102053964L.jpg
-Walmart,19,leche lala frutas sabor mango 1 l,17.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102053965L.jpg
-Walmart,20,leche lala frutas sabor fresa 250 ml,6.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054107L.jpg
-Walmart,21,café con leche lala  deslactosado 1 l,22.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054118L.jpg
-Walmart,22,café con leche lala  250 ml,10.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054119L.jpg
-Walmart,23,leche lala frutas sabor manzana 1 l,17.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054307L.jpg
-Walmart,24,leche lala  deslactosada light 250 ml,6.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054477L.jpg
-Walmart,25,leche lala  entera 1.8 l,23.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054704L.jpg
-Walmart,26,leche lala  light 1.8 l,23.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054705L.jpg
-Walmart,27,leche lala  extra calcio deslactosada 960 ml,17.20,https://www.walmart.com.mx/super/images/Products/img_large/0750102054862L.jpg
-Walmart,28,leche lala  deslactosada fibra 960 ml,17.20,https://www.walmart.com.mx/super/images/Products/img_large/0750102054864L.jpg
-Walmart,29,leche pasteurizada lala  100 semidescremada 1 l,19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054849L.jpg
-Walmart,30,leche lala  100 reducida en grasa 1 l,19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054844L.jpg
-Walmart,31,leche pasteurizada lala  sin lactosa semidescremada 1 l,19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054855L.jpg
-Walmart,32,leche lala  100 reducida en grasa 330 ml,9.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054846L.jpg
-Walmart,33,leche pasteurizada lala  100 semidescremada 330 ml,9.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054851L.jpg
-Walmart,34,leche pasteurizada lala  sin lactosa semidescremada 330 ml,9.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102055017L.jpg
-Walmart,35,leche lala entera 6 pzas 1 l c/u,91.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102053775L.jpg
-Walmart,36,leche lala  semidescremada 6 pzas 1 l c/u,91.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102053777L.jpg
-Walmart,37,leche lala light 6 pzas 1 l c/u,88.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102053778L.jpg
-Walmart,38,leche lala  deslactosada 6 pzas 1 l c/u,99.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102053779L.jpg
-Walmart,39,leche lala  deslactosada light 6 pzas 1 l c/u,99.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102053780L.jpg
-Walmart,40,arroz con leche lala  4 pzas 125 g c/u,17.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054062L.jpg
-Walmart,41,café con leche lala  deslactosado sabor cappuccino mocha 1 l,22.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054365L.jpg
-Walmart,42,café con leche lala  deslactosado sabor cappuccino vainilla 1 l,22.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102054362L.jpg
-Walmart,43,"leche lala  100  reducida en grasa, sin lactosa 1 l",19.90,https://www.walmart.com.mx/super/images/Products/img_large/0750102054854L.jpg
-Walmart,44,leche lala  100 sin lactosa reducida en grasa 330 ml,9.50,https://www.walmart.com.mx/super/images/Products/img_large/0750102055016L.jpg
-Walmart,45,leche lala  siluette plus descremada sin grasa 960 ml,17.00,https://www.walmart.com.mx/super/images/Products/img_large/0750102054832L.jpg
+Superama,0,sal la fina  refinada fluorada 1 kg,10.50,http://www.superama.com.mx/Content/images/products/img_large/0003458702002L.jpg
+Superama,1,sal la fina  refinada  750 g,7.20,http://www.superama.com.mx/Content/images/products/img_large/0003458709066L.jpg
+Superama,2,sal aires de campo  fina 250 g,23.90,http://www.superama.com.mx/Content/images/products/img_large/0750221983259L.jpg
+La Comer,0,Molinillo gourmet sal aromatoca finas hie hierbas finas   -,54.00,https://www.lacomer.com.mx/superc/img_art/7500326017780_3.jpg
+La Comer,1,Sal marina con finas hierbas   pragna,124.00,https://www.lacomer.com.mx/superc/img_art/7502219556215_3.jpg
+La Comer,2,Hierbas finas   terana,30.00,https://www.lacomer.com.mx/superc/img_art/7501088102219_3.jpg
+La Comer,3,Sal de mesa light c / finas hierbas biosal biosal,28.75,https://www.lacomer.com.mx/superc/img_art/7809561701028_3.jpg
+La Comer,4,Sal fina orgnico aires de campo,27.00,https://www.lacomer.com.mx/superc/img_art/7502219832593_3.jpg
+La Comer,5,Jugoso al sarten finas hierbas   maggi,14.70,https://www.lacomer.com.mx/superc/img_art/8585002432339_3.jpg
+La Comer,6,Hierbas finas   escosa,30.20,https://www.lacomer.com.mx/superc/img_art/7501076110431_3.jpg
+La Comer,7,Sal mesa la fina,8.95,https://www.lacomer.com.mx/superc/img_art/34587020021_3.jpg
+La Comer,8,Sal mesa la fina,8.50,https://www.lacomer.com.mx/superc/img_art/34587030013_3.jpg
+La Comer,9,Molinillo gourmet sal aromatoca finas hie hierbas finas   -,54.00,https://www.lacomer.com.mx/superc/img_art/7500326017780_3.jpg
+La Comer,10,Sal marina con finas hierbas   pragna,124.00,https://www.lacomer.com.mx/superc/img_art/7502219556215_3.jpg
+La Comer,11,Hierbas finas   terana,30.00,https://www.lacomer.com.mx/superc/img_art/7501088102219_3.jpg
+La Comer,12,Sal de mesa light c / finas hierbas biosal biosal,28.75,https://www.lacomer.com.mx/superc/img_art/7809561701028_3.jpg
+La Comer,13,Sal fina orgnico aires de campo,27.00,https://www.lacomer.com.mx/superc/img_art/7502219832593_3.jpg
+La Comer,14,Jugoso al sarten finas hierbas   maggi,14.70,https://www.lacomer.com.mx/superc/img_art/8585002432339_3.jpg
+La Comer,15,Hierbas finas   escosa,30.20,https://www.lacomer.com.mx/superc/img_art/7501076110431_3.jpg
+La Comer,16,Sal mesa la fina,8.95,https://www.lacomer.com.mx/superc/img_art/34587020021_3.jpg
+La Comer,17,Sal mesa la fina,8.50,https://www.lacomer.com.mx/superc/img_art/34587030013_3.jpg
+Chedraui,0,"Sal Aires del Campo Gsa 250 gr, Finas",20.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983259_00.jpg
+Chedraui,1,Sal La Fina Refinada Light Bote 220Gr,26.35,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458708001_00.jpg
+Chedraui,2,Sal La Fina Fluorado Bote 1Kg,10.20,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458702002_00.jpg
+Chedraui,3,Sal La Fina Yod Fluor Bls 1Kg,9.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458703001_00.jpg
+Chedraui,4,Chile En Polvo La Fina 125Gr,14.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458709046_00.jpg
+Chedraui,5,Aires Del Campo Sal D MarcFh 180Gr,47.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983793_00.jpg
+Chedraui,6,Sal Mar Aires D Campo Hierbasfinas 180Gr,47.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983794_00.jpg
+Chedraui,7,Aires Del Campo Salm CFinhier Pollo 180,47.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983795_00.jpg
+Walmart,0,sal la fina  refinada fluorada 1 kg,10.20,https://www.walmart.com.mx/super/images/Products/img_large/0003458702002L.jpg
+Walmart,1,sal la fina  refinada  750 g,7.00,https://www.walmart.com.mx/super/images/Products/img_large/0003458709066L.jpg
+Walmart,2,sal la fina  light baja en sodio 220 g,26.00,https://www.walmart.com.mx/super/images/Products/img_large/0003458708001L.jpg
+Walmart,3,sal aires de campo  fina 250 g,23.50,https://www.walmart.com.mx/super/images/Products/img_large/0750221983259L.jpg
