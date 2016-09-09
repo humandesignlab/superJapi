@@ -4,8 +4,10 @@ from flask import Flask, jsonify, render_template, request
 from flask_cors import CORS
 from searchEngine import searchService
 import json
+
 app = Flask(__name__)
 CORS(app)
+
 @app.route('/', methods=['GET', 'POST'])
 def index():
     return render_template('index.html')

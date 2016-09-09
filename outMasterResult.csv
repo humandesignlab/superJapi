@@ -1,34 +1,33 @@
 Tienda,ID,Producto,Precio,imgUrl
-Superama,0,sal la fina  refinada fluorada 1 kg,10.50,http://www.superama.com.mx/Content/images/products/img_large/0003458702002L.jpg
-Superama,1,sal la fina  refinada  750 g,7.20,http://www.superama.com.mx/Content/images/products/img_large/0003458709066L.jpg
-Superama,2,sal aires de campo  fina 250 g,23.90,http://www.superama.com.mx/Content/images/products/img_large/0750221983259L.jpg
-La Comer,0,Molinillo gourmet sal aromatoca finas hie hierbas finas   -,54.00,https://www.lacomer.com.mx/superc/img_art/7500326017780_3.jpg
-La Comer,1,Sal marina con finas hierbas   pragna,124.00,https://www.lacomer.com.mx/superc/img_art/7502219556215_3.jpg
-La Comer,2,Hierbas finas   terana,30.00,https://www.lacomer.com.mx/superc/img_art/7501088102219_3.jpg
-La Comer,3,Sal de mesa light c / finas hierbas biosal biosal,28.75,https://www.lacomer.com.mx/superc/img_art/7809561701028_3.jpg
-La Comer,4,Sal fina orgnico aires de campo,27.00,https://www.lacomer.com.mx/superc/img_art/7502219832593_3.jpg
-La Comer,5,Jugoso al sarten finas hierbas   maggi,14.70,https://www.lacomer.com.mx/superc/img_art/8585002432339_3.jpg
-La Comer,6,Hierbas finas   escosa,30.20,https://www.lacomer.com.mx/superc/img_art/7501076110431_3.jpg
-La Comer,7,Sal mesa la fina,8.95,https://www.lacomer.com.mx/superc/img_art/34587020021_3.jpg
-La Comer,8,Sal mesa la fina,8.50,https://www.lacomer.com.mx/superc/img_art/34587030013_3.jpg
-La Comer,9,Molinillo gourmet sal aromatoca finas hie hierbas finas   -,54.00,https://www.lacomer.com.mx/superc/img_art/7500326017780_3.jpg
-La Comer,10,Sal marina con finas hierbas   pragna,124.00,https://www.lacomer.com.mx/superc/img_art/7502219556215_3.jpg
-La Comer,11,Hierbas finas   terana,30.00,https://www.lacomer.com.mx/superc/img_art/7501088102219_3.jpg
-La Comer,12,Sal de mesa light c / finas hierbas biosal biosal,28.75,https://www.lacomer.com.mx/superc/img_art/7809561701028_3.jpg
-La Comer,13,Sal fina orgnico aires de campo,27.00,https://www.lacomer.com.mx/superc/img_art/7502219832593_3.jpg
-La Comer,14,Jugoso al sarten finas hierbas   maggi,14.70,https://www.lacomer.com.mx/superc/img_art/8585002432339_3.jpg
-La Comer,15,Hierbas finas   escosa,30.20,https://www.lacomer.com.mx/superc/img_art/7501076110431_3.jpg
-La Comer,16,Sal mesa la fina,8.95,https://www.lacomer.com.mx/superc/img_art/34587020021_3.jpg
-La Comer,17,Sal mesa la fina,8.50,https://www.lacomer.com.mx/superc/img_art/34587030013_3.jpg
-Chedraui,0,"Sal Aires del Campo Gsa 250 gr, Finas",20.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983259_00.jpg
-Chedraui,1,Sal La Fina Refinada Light Bote 220Gr,26.35,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458708001_00.jpg
-Chedraui,2,Sal La Fina Fluorado Bote 1Kg,10.20,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458702002_00.jpg
-Chedraui,3,Sal La Fina Yod Fluor Bls 1Kg,9.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458703001_00.jpg
-Chedraui,4,Chile En Polvo La Fina 125Gr,14.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458709046_00.jpg
-Chedraui,5,Aires Del Campo Sal D MarcFh 180Gr,47.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983793_00.jpg
-Chedraui,6,Sal Mar Aires D Campo Hierbasfinas 180Gr,47.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983794_00.jpg
-Chedraui,7,Aires Del Campo Salm CFinhier Pollo 180,47.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983795_00.jpg
-Walmart,0,sal la fina  refinada fluorada 1 kg,10.20,https://www.walmart.com.mx/super/images/Products/img_large/0003458702002L.jpg
-Walmart,1,sal la fina  refinada  750 g,7.00,https://www.walmart.com.mx/super/images/Products/img_large/0003458709066L.jpg
-Walmart,2,sal la fina  light baja en sodio 220 g,26.00,https://www.walmart.com.mx/super/images/Products/img_large/0003458708001L.jpg
-Walmart,3,sal aires de campo  fina 250 g,23.50,https://www.walmart.com.mx/super/images/Products/img_large/0750221983259L.jpg
+Superama,0,carne seca de res chihuahua country  en trozo 75 g,79.00,http://www.superama.com.mx/Content/images/products/img_large/0750106570014L.jpg
+Superama,1,carne seca de res tía lencha  100 g,75.00,http://www.superama.com.mx/Content/images/products/img_large/0067909700100L.jpg
+Superama,2,carne seca de res tía lencha  con chile y limón 113.4 g,115.00,http://www.superama.com.mx/Content/images/products/img_large/0067909713113L.jpg
+Superama,3,carne seca de res chihuahua country  175 g,175.00,http://www.superama.com.mx/Content/images/products/img_large/0750106570096L.jpg
+Superama,4,carne seca de res tía lencha  175 g,139.00,http://www.superama.com.mx/Content/images/products/img_large/0067909700175L.jpg
+Superama,5,carne seca de pavo perky jerky  premium sabor cerveza 62.4 g,79.00,http://www.superama.com.mx/Content/images/products/img_large/0081235302044L.jpg
+Superama,6,carne seca de res chihuahua country  machaca 75 g,79.00,http://www.superama.com.mx/Content/images/products/img_large/0750106570015L.jpg
+La Comer,0,Carne seca seca tia lencha,39.00,https://www.lacomer.com.mx/superc/img_art/679097000509_3.jpg
+La Comer,1,Carne seca seca tia lencha,77.20,https://www.lacomer.com.mx/superc/img_art/679097001001_3.jpg
+La Comer,2,Machaca carne seca de res   la estampida,48.70,https://www.lacomer.com.mx/superc/img_art/7503020630064_3.jpg
+La Comer,3,Carne seca machaca del mayo,34.50,https://www.lacomer.com.mx/superc/img_art/7503001494012_3.jpg
+La Comer,4,Trocitos de carne seca    del mayo,66.50,https://www.lacomer.com.mx/superc/img_art/7503001494050_3.jpg
+La Comer,5,Carne seca botanera gusi  ,84.90,https://www.lacomer.com.mx/superc/img_art/7502238430398_3.jpg
+La Comer,6,Carne seca machaca del mayo,66.50,https://www.lacomer.com.mx/superc/img_art/7503001494029_3.jpg
+La Comer,7,Charales secos    ,117.00,https://www.lacomer.com.mx/superc/img_art/2640107000008_3.jpg
+La Comer,8,Camaron seco    ,339.00,https://www.lacomer.com.mx/superc/img_art/2640106000009_3.jpg
+La Comer,9,Carne seca seca tia lencha,39.00,https://www.lacomer.com.mx/superc/img_art/679097000509_3.jpg
+La Comer,10,Carne seca seca tia lencha,77.20,https://www.lacomer.com.mx/superc/img_art/679097001001_3.jpg
+La Comer,11,Machaca carne seca de res   la estampida,48.70,https://www.lacomer.com.mx/superc/img_art/7503020630064_3.jpg
+La Comer,12,Carne seca machaca del mayo,34.50,https://www.lacomer.com.mx/superc/img_art/7503001494012_3.jpg
+La Comer,13,Trocitos de carne seca    del mayo,66.50,https://www.lacomer.com.mx/superc/img_art/7503001494050_3.jpg
+La Comer,14,Carne seca botanera gusi  ,84.90,https://www.lacomer.com.mx/superc/img_art/7502238430398_3.jpg
+La Comer,15,Carne seca machaca del mayo,66.50,https://www.lacomer.com.mx/superc/img_art/7503001494029_3.jpg
+La Comer,16,Charales secos    ,117.00,https://www.lacomer.com.mx/superc/img_art/2640107000008_3.jpg
+La Comer,17,Camaron seco    ,339.00,https://www.lacomer.com.mx/superc/img_art/2640106000009_3.jpg
+Chedraui,0,Carne Seca Tia Lencha Res 50 Gr,46.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/6/7/67909700050_00.jpg
+Walmart,0,carne seca de res chihuahua country  machaca 75 g,79.00,https://www.walmart.com.mx/super/images/Products/img_large/0750106570015L.jpg
+Walmart,1,carne seca de res tía lencha  100 g,75.00,https://www.walmart.com.mx/super/images/Products/img_large/0067909700100L.jpg
+Walmart,2,carne seca de res tía lencha  con chile y limón 113.4 g,115.00,https://www.walmart.com.mx/super/images/Products/img_large/0067909713113L.jpg
+Walmart,3,carne seca de res chihuahua country  175 g,175.00,https://www.walmart.com.mx/super/images/Products/img_large/0750106570096L.jpg
+Walmart,4,carne seca de res chihuahua country  en trozo 75 g,79.00,https://www.walmart.com.mx/super/images/Products/img_large/0750106570014L.jpg
+Walmart,5,carne seca de res tía lencha  50 g,40.00,https://www.walmart.com.mx/super/images/Products/img_large/0067909700050L.jpg

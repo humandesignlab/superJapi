@@ -1,11 +1,13 @@
 var app = angular.module('testApp', ['angular-toArrayFilter']);
-
+$('#progressBar').hide();
 //CONTROLLERS:
 app.controller('searchCtrl', function($scope, $http, $log){
+
 
 	$scope.init = function(input) {
     // function implementation
     	$scope.loaded = false;
+        $('#progressBar').show();
     		if  (!input) {
     			return input;
     		}
