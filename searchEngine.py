@@ -227,6 +227,9 @@ def searchService(searchString):
 	jsonResult = dfMasterResult.reset_index().to_json(orient='records')
 	replacedJsonResult = (unicodize(seg) for seg in re.split(r'(\\u[0-9a-f]{4})',jsonResult))
 	jsonCleanResult = (''.join(replacedJsonResult))
+	global progCounter
+	progCounter = 0
+
 	return jsonCleanResult
 
 
