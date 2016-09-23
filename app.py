@@ -18,7 +18,9 @@ def search():
 	data1 = json.loads(request.data.decode())
 	#print data1
 	searchString = data1['userInput']
-	return searchService(str(searchString))
+	returnSearch = searchService(str(searchString))
+	#TODO: Maybe with the subprocess pakage, read in real time the pipe output to send an object to angularjs each time a specific string prints.
+	return returnSearch
 
 if __name__ == '__main__':
 	app.run(debug=True)
