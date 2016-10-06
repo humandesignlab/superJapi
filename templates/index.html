@@ -13,7 +13,7 @@
 
 	<body>
 		<div ng-controller="searchCtrl" class="container" >
-		{% raw %}
+		
 
 			<div class="page-header">
 			  <h1>Super Japi<small> El buscador de precios.</small></h1>
@@ -30,6 +30,20 @@
 			  </div><!-- /.col-lg-6 -->
 			</div><!-- /.row -->
 
+			 <h1>OAuth Demo</h1>
+	        {% for message in get_flashed_messages() %}
+	            <p><b>Error</b>: {{ message }}</p>
+	        {% endfor %}
+	        {% if current_user.is_authenticated %}
+	            <h2>Hi, {{ current_user.nickname }}!</h2>
+	            <p><a href="{{ url_for('logout') }}">Logout</a></p>
+	        {% else %}
+	            <h2>I don't know you!</h2>
+	            <p><a href="{{ url_for('oauth_authorize', provider='facebook') }}">Login with Facebook</a></p>
+	            <p><a href="{{ url_for('oauth_authorize', provider='twitter') }}">Login with Twitter</a></p>
+	        {% endif %}
+
+	        {% raw %}
 			<div ng-if="!loaded" class="progress" id="progressBar">
 			  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%">
 			    <span class="sr-only">45% Complete</span>
