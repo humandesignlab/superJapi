@@ -1,33 +1,441 @@
 Tienda,ID,Producto,Precio,imgUrl
-Superama,0,sal la fina  refinada  750 g,7.20,http://www.superama.com.mx/Content/images/products/img_large/0003458709066L.jpg
-Superama,1,sal la fina  refinada fluorada 1 kg,10.50,http://www.superama.com.mx/Content/images/products/img_large/0003458702002L.jpg
-Superama,2,sal aires de campo  fina 250 g,23.90,http://www.superama.com.mx/Content/images/products/img_large/0750221983259L.jpg
-La Comer,0,Molinillo gourmet sal aromatoca finas hie hierbas finas   -,54.00,https://www.lacomer.com.mx/superc/img_art/7500326017780_3.jpg
-La Comer,1,Sal marina con finas hierbas   pragna,124.00,https://www.lacomer.com.mx/superc/img_art/7502219556215_3.jpg
-La Comer,2,Hierbas finas   terana,30.00,https://www.lacomer.com.mx/superc/img_art/7501088102219_3.jpg
-La Comer,3,Sal fina orgnico aires de campo,27.00,https://www.lacomer.com.mx/superc/img_art/7502219832593_3.jpg
-La Comer,4,Sal de mesa light c / finas hierbas biosal biosal,28.75,https://www.lacomer.com.mx/superc/img_art/7809561701028_3.jpg
-La Comer,5,Hierbas finas   escosa,33.70,https://www.lacomer.com.mx/superc/img_art/7501076110431_3.jpg
-La Comer,6,Jugoso al sarten finas hierbas   maggi,15.75,https://www.lacomer.com.mx/superc/img_art/8585002432339_3.jpg
-La Comer,7,Sal mesa la fina,8.95,https://www.lacomer.com.mx/superc/img_art/34587020021_3.jpg
-La Comer,8,Sal mesa la fina,8.50,https://www.lacomer.com.mx/superc/img_art/34587030013_3.jpg
-La Comer,9,Molinillo gourmet sal aromatoca finas hie hierbas finas   -,54.00,https://www.lacomer.com.mx/superc/img_art/7500326017780_3.jpg
-La Comer,10,Sal marina con finas hierbas   pragna,124.00,https://www.lacomer.com.mx/superc/img_art/7502219556215_3.jpg
-La Comer,11,Hierbas finas   terana,30.00,https://www.lacomer.com.mx/superc/img_art/7501088102219_3.jpg
-La Comer,12,Sal fina orgnico aires de campo,27.00,https://www.lacomer.com.mx/superc/img_art/7502219832593_3.jpg
-La Comer,13,Sal de mesa light c / finas hierbas biosal biosal,28.75,https://www.lacomer.com.mx/superc/img_art/7809561701028_3.jpg
-La Comer,14,Hierbas finas   escosa,33.70,https://www.lacomer.com.mx/superc/img_art/7501076110431_3.jpg
-La Comer,15,Jugoso al sarten finas hierbas   maggi,15.75,https://www.lacomer.com.mx/superc/img_art/8585002432339_3.jpg
-La Comer,16,Sal mesa la fina,8.95,https://www.lacomer.com.mx/superc/img_art/34587020021_3.jpg
-La Comer,17,Sal mesa la fina,8.50,https://www.lacomer.com.mx/superc/img_art/34587030013_3.jpg
-Chedraui,0,"Sal Aires del Campo Gsa 250 gr, Finas",20.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983259_00.jpg
-Chedraui,1,Sal La Fina Refinada Light Bote 220Gr,26.35,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458708001_00.jpg
-Chedraui,2,Sal La Fina Fluorado Bote 1Kg,10.20,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458702002_00.jpg
-Chedraui,3,Chile En Polvo La Fina 125Gr,14.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458709046_00.jpg
-Chedraui,4,Aires Del Campo Sal D Marc/Fh 180Gr,47.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983793_00.jpg
-Chedraui,5,Sal Mar Aires D Campo Hierbasfinas 180Gr,47.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983794_00.jpg
-Chedraui,6,Aires Del Campo Salm C/Finhier Pollo 180,47.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983795_00.jpg
-Walmart,0,sal la fina  refinada  750 g,7.00,https://www.walmart.com.mx/super/images/Products/img_large/0003458709066L.jpg
-Walmart,1,sal la fina  refinada fluorada 1 kg,10.20,https://www.walmart.com.mx/super/images/Products/img_large/0003458702002L.jpg
-Walmart,2,sal la fina  light baja en sodio 220 g,26.00,https://www.walmart.com.mx/super/images/Products/img_large/0003458708001L.jpg
-Walmart,3,sal aires de campo  fina 250 g,23.50,https://www.walmart.com.mx/super/images/Products/img_large/0750221983259L.jpg
+Superama,0,polvo para gelatina de agua jello  light sabor durazno 25 g,10.30,http://www.superama.com.mx/Content/images/products/img_large/0762230047186L.jpg
+Superama,1,polvo para gelatina de agua jello  light sabor fresa 25 g,10.30,http://www.superama.com.mx/Content/images/products/img_large/0762230047181L.jpg
+Superama,2,polvo para gelatina de agua jello  light sabor mandarina 25 g,10.30,http://www.superama.com.mx/Content/images/products/img_large/0762230047182L.jpg
+Superama,3,polvo para gelatina de agua jello  light sabor piña 25 g,10.30,http://www.superama.com.mx/Content/images/products/img_large/0762230047184L.jpg
+Superama,4,polvo para gelatina de agua jello  sabor cereza 35 g,9.60,http://www.superama.com.mx/Content/images/products/img_large/0762230047116L.jpg
+Superama,5,polvo para gelatina de agua jello  sabor frambuesa 35 g,9.60,http://www.superama.com.mx/Content/images/products/img_large/0762230047117L.jpg
+Superama,6,polvo para gelatina de agua jello  sabor fresa 35 g,9.60,http://www.superama.com.mx/Content/images/products/img_large/0762230047108L.jpg
+Superama,7,polvo para gelatina de agua jello  sabor limón 35 g,9.60,http://www.superama.com.mx/Content/images/products/img_large/0762230047683L.jpg
+Superama,8,polvo para gelatina de agua jello  sabor mango 35 g,9.60,http://www.superama.com.mx/Content/images/products/img_large/0762230047173L.jpg
+Superama,9,polvo para gelatina de agua jello  sabor naranja 35 g,9.60,http://www.superama.com.mx/Content/images/products/img_large/0762230047178L.jpg
+Superama,10,polvo para gelatina de agua jello  sabor piña 35 g,9.60,http://www.superama.com.mx/Content/images/products/img_large/0762230047109L.jpg
+Superama,11,polvo para gelatina de agua jello  sabor uva 35 g,9.60,http://www.superama.com.mx/Content/images/products/img_large/0762230047064L.jpg
+Superama,12,gelatina   mosaico por kg,85.00,http://www.superama.com.mx/Content/images/products/img_large/0020818000000L.jpg
+Superama,13,gelatina de fresa por pza,250.00,http://www.superama.com.mx/Content/images/products/img_large/0020815500000L.jpg
+Superama,14,polvo para gelatina de agua d gari  light sabor fresa 20 g,8.20,http://www.superama.com.mx/Content/images/products/img_large/0073525700303L.jpg
+Superama,15,polvo para gelatina de agua d gari  light sabor jerez 20 g,8.20,http://www.superama.com.mx/Content/images/products/img_large/0073525700306L.jpg
+Superama,16,polvo para gelatina de agua d gari  light sabor limón 20 g,8.20,http://www.superama.com.mx/Content/images/products/img_large/0073525700307L.jpg
+Superama,17,polvo para gelatina de agua d gari  light sabor uva 20 g,8.20,http://www.superama.com.mx/Content/images/products/img_large/0073525700311L.jpg
+Superama,18,polvo para gelatina de agua d gari  sabor durazno 140 g,8.90,http://www.superama.com.mx/Content/images/products/img_large/0073525700003L.jpg
+Superama,19,polvo para gelatina de agua d gari  sabor frambuesa 140 g,8.90,http://www.superama.com.mx/Content/images/products/img_large/0073525700004L.jpg
+Superama,20,polvo para gelatina de agua d gari  sabor fresa 140 g,8.90,http://www.superama.com.mx/Content/images/products/img_large/0073525700005L.jpg
+Superama,21,polvo para gelatina de agua d gari  sabor jerez 140 g,8.90,http://www.superama.com.mx/Content/images/products/img_large/0073525700009L.jpg
+Superama,22,polvo para gelatina de agua d gari  sabor limón 140 g,8.90,http://www.superama.com.mx/Content/images/products/img_large/0073525700010L.jpg
+Superama,23,polvo para gelatina de agua d gari  sabor mandarina 140 g,8.90,http://www.superama.com.mx/Content/images/products/img_large/0073525700011L.jpg
+Superama,24,polvo para gelatina de agua d gari  sabor naranja 140 g,8.90,http://www.superama.com.mx/Content/images/products/img_large/0073525700016L.jpg
+Superama,25,polvo para gelatina de agua d gari  sabor piña 140 g,8.90,http://www.superama.com.mx/Content/images/products/img_large/0073525700018L.jpg
+Superama,26,polvo para gelatina de agua d gari  sabor uva 140 g,8.90,http://www.superama.com.mx/Content/images/products/img_large/0073525700022L.jpg
+Superama,27,polvo para gelatina de leche d gari  light sabor fresa 20 g,8.20,http://www.superama.com.mx/Content/images/products/img_large/0073525700313L.jpg
+Superama,28,polvo para gelatina de leche d gari  sabor fresa 140 g,9.10,http://www.superama.com.mx/Content/images/products/img_large/0073525700006L.jpg
+Superama,29,polvo para gelatina de leche d gari  sabor rompope 140 g,9.10,http://www.superama.com.mx/Content/images/products/img_large/0073525700020L.jpg
+Superama,30,gelatina   de yoghurt frutos rojos pza,250.00,http://www.superama.com.mx/Content/images/products/img_large/0020818500000L.jpg
+Superama,31,gelatina de yoghurt dany sabor mango 120 g,5.20,http://www.superama.com.mx/Content/images/products/img_large/0750103239736L.jpg
+Superama,32,gelatina de agua dany  sabor fresa 125 g,3.30,http://www.superama.com.mx/Content/images/products/img_large/0000007500907L.jpg
+Superama,33,gelatina de agua dany  sabor limón 125 g,3.30,http://www.superama.com.mx/Content/images/products/img_large/0000007500909L.jpg
+Superama,34,gelatina de agua dany  sabor mandarina 125 g,3.30,http://www.superama.com.mx/Content/images/products/img_large/0000007502620L.jpg
+Superama,35,gelatina de agua dany  sabor piña 125 g,3.30,http://www.superama.com.mx/Content/images/products/img_large/0000007500908L.jpg
+Superama,36,gelatina de leche danette  sabor cajeta 100 g,4.80,http://www.superama.com.mx/Content/images/products/img_large/0000007504281L.jpg
+Superama,37,gelatina de leche danette  sabor coco 100 g,4.80,http://www.superama.com.mx/Content/images/products/img_large/0000007504279L.jpg
+Superama,38,gelatina de leche danette  sabor fresa 100 g,4.60,http://www.superama.com.mx/Content/images/products/img_large/0000007503639L.jpg
+Superama,39,gelatina de agua art  bolsitas varios sabores 20 pzas,13.00,http://www.superama.com.mx/Content/images/products/img_large/0750105350320L.jpg
+Superama,40,gelatina de agua art  light sin azúcar varios sabores 4 pzas,11.50,http://www.superama.com.mx/Content/images/products/img_large/0001543409751L.jpg
+Superama,41,gelatina de agua dany  sabor fresa y limón 6 pack de 125 g c/u,14.90,http://www.superama.com.mx/Content/images/products/img_large/0750103231115L.jpg
+Superama,42,gelatina de leche danette  sabor vainilla 100 g,4.80,http://www.superama.com.mx/Content/images/products/img_large/0000007503640L.jpg
+Superama,43,gelatina de mosaico por kg,53.00,http://www.superama.com.mx/Content/images/products/img_large/0020067800000L.jpg
+Superama,44,gelatina de leche danette  3 sabores 6 pack 100 g c/u,28.50,http://www.superama.com.mx/Content/images/products/img_large/0750103239751L.jpg
+Superama,45,gelatina extra special  de fresa 0% azúcar añadida por pza,250.00,http://www.superama.com.mx/Content/images/products/img_large/0020821200000L.jpg
+Superama,46,polvo para gelatina de agua d gari  sabor cereza 140 g,8.90,http://www.superama.com.mx/Content/images/products/img_large/0073525700149L.jpg
+Superama,47,polvo para gelatina de agua pronto  light sabor fresa 25 g,6.60,http://www.superama.com.mx/Content/images/products/img_large/0750120048232L.jpg
+Superama,48,polvo para gelatina de agua pronto  light sabor limón 25 g,6.60,http://www.superama.com.mx/Content/images/products/img_large/0750120048233L.jpg
+Superama,49,polvo para gelatina de agua pronto  light sabor piña 25 g,6.60,http://www.superama.com.mx/Content/images/products/img_large/0750120048235L.jpg
+Superama,50,polvo para gelatina de agua pronto  light sabor uva 25 g,6.60,http://www.superama.com.mx/Content/images/products/img_large/0750120048236L.jpg
+Superama,51,polvo para gelatina de leche d gari  sabor coco 140 g,8.90,http://www.superama.com.mx/Content/images/products/img_large/0073525700151L.jpg
+Superama,52,polvo para gelatina de leche pronto  sabor chocolate 84 g,7.70,http://www.superama.com.mx/Content/images/products/img_large/0750120048222L.jpg
+Superama,53,polvo para gelatina de leche pronto  sabor fresa 84 g,7.70,http://www.superama.com.mx/Content/images/products/img_large/0750120048220L.jpg
+Superama,54,polvo para gelatina de leche pronto  sabor rompope 84 g,7.70,http://www.superama.com.mx/Content/images/products/img_large/0750120048223L.jpg
+Superama,55,polvo para gelatina de leche pronto  sabor vainilla 84 g,7.70,http://www.superama.com.mx/Content/images/products/img_large/0750120048221L.jpg
+Superama,56,gelatina con lechera nestlé por kg,84.00,http://www.superama.com.mx/Content/images/products/img_large/0020058000000L.jpg
+Superama,57,gelatina de agua 250 g,13.00,http://www.superama.com.mx/Content/images/products/img_large/0020083000000L.jpg
+Superama,58,gelatina de agua art  light varios sabores 4 pack 125 g c/u,11.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054262L.jpg
+Superama,59,gelatina de leche 250 g,13.00,http://www.superama.com.mx/Content/images/products/img_large/0020083200000L.jpg
+Superama,60,gelatina de yoghurt nestlé svelty sabor fresa baja en grasa 95 g,4.50,http://www.superama.com.mx/Content/images/products/img_large/0750105923784L.jpg
+Superama,61,gelatina de yoghurt nestlé svelty sabor mango baja en grasa 95 g,4.40,http://www.superama.com.mx/Content/images/products/img_large/0750105928339L.jpg
+Superama,62,gelatina lala yomi varios sabores 8 pzas de 130 g c/u,19.50,http://www.superama.com.mx/Content/images/products/img_large/0750102054892L.jpg
+Superama,63,grenetina knox  en polvo 4 sobres de 7 g c/u,15.90,http://www.superama.com.mx/Content/images/products/img_large/0750120048110L.jpg
+Superama,64,polvo para preparar gelatina frutevia  sabor arándano endulzado con stevia 25 g,8.70,http://www.superama.com.mx/Content/images/products/img_large/0750302148113L.jpg
+Superama,65,polvo para preparar gelatina frutevia  sabor fresa endulzada con stevia 25 g,8.70,http://www.superama.com.mx/Content/images/products/img_large/0750302148108L.jpg
+Superama,66,polvo para preparar gelatina frutevia  sabor limón endulzada con stevia 25 g,8.70,http://www.superama.com.mx/Content/images/products/img_large/0750302148107L.jpg
+Superama,67,polvo para preparar gelatina frutevia  sabor naranja endulzada con stevia 25 g,8.70,http://www.superama.com.mx/Content/images/products/img_large/0750302148111L.jpg
+Superama,68,polvo para preparar gelatina frutevia  sabor piña endulzada con stevia 25 g,8.70,http://www.superama.com.mx/Content/images/products/img_large/0750302148110L.jpg
+Superama,69,polvo para preparar gelatina frutevia  sabor uva endulzada con stevia 25 g,8.70,http://www.superama.com.mx/Content/images/products/img_large/0750302148109L.jpg
+La Comer,0,POLVO PARA GELATINA DE LECHE CONDENSADA 1 pza d-gari,10.00,https://www.lacomer.com.mx/superc/img_art/735257001929_3.jpg
+La Comer,1,Gelatina lecha vainilla ke precio ,7.40,https://www.lacomer.com.mx/superc/img_art/7501010776341_3.jpg
+La Comer,2,Gelatina en polvo sabor uva   golden hills,7.15,https://www.lacomer.com.mx/superc/img_art/7501010787866_3.jpg
+La Comer,3,Gelatina en polvo sabor frambuesa   golden hills,7.15,https://www.lacomer.com.mx/superc/img_art/7501010789846_3.jpg
+La Comer,4,Gelatina s / pina   d-gari,7.40,https://www.lacomer.com.mx/superc/img_art/735257001394_3.jpg
+La Comer,5,Gelatina en polvo agua naranja light d-gari,8.00,https://www.lacomer.com.mx/superc/img_art/735257003091_3.jpg
+La Comer,6,Gelatina en polvo sabor pina   golden hills,7.15,https://www.lacomer.com.mx/superc/img_art/7501010787835_3.jpg
+La Comer,7,Gelatina en polvo agua pina light d-gari,8.00,https://www.lacomer.com.mx/superc/img_art/735257003107_3.jpg
+La Comer,8,Gelatina en polvo agua uva light d-gari,8.00,https://www.lacomer.com.mx/superc/img_art/735257003114_3.jpg
+La Comer,9,POLVO PARA GELATINA DE LECHE CONDENSADA 1 pza d-gari,10.00,https://www.lacomer.com.mx/superc/img_art/735257001929_3.jpg
+La Comer,10,Gelatina lecha vainilla ke precio ,7.40,https://www.lacomer.com.mx/superc/img_art/7501010776341_3.jpg
+La Comer,11,Gelatina en polvo sabor uva   golden hills,7.15,https://www.lacomer.com.mx/superc/img_art/7501010787866_3.jpg
+La Comer,12,Gelatina en polvo sabor frambuesa   golden hills,7.15,https://www.lacomer.com.mx/superc/img_art/7501010789846_3.jpg
+La Comer,13,Gelatina s / pina   d-gari,7.40,https://www.lacomer.com.mx/superc/img_art/735257001394_3.jpg
+La Comer,14,Gelatina en polvo agua naranja light d-gari,8.00,https://www.lacomer.com.mx/superc/img_art/735257003091_3.jpg
+La Comer,15,Gelatina en polvo sabor pina   golden hills,7.15,https://www.lacomer.com.mx/superc/img_art/7501010787835_3.jpg
+La Comer,16,Gelatina en polvo agua pina light d-gari,8.00,https://www.lacomer.com.mx/superc/img_art/735257003107_3.jpg
+La Comer,17,Gelatina en polvo agua uva light d-gari,8.00,https://www.lacomer.com.mx/superc/img_art/735257003114_3.jpg
+La Comer,18,Gelatina en polvo agua durazno light d-gari,8.00,https://www.lacomer.com.mx/superc/img_art/735257003022_3.jpg
+La Comer,19,Polvo para gelatina light con fibra mango d-gari,9.00,https://www.lacomer.com.mx/superc/img_art/735257042106_3.jpg
+La Comer,20,Gelatina en polvo leche light fresa d-gari,9.00,https://www.lacomer.com.mx/superc/img_art/735257003138_3.jpg
+La Comer,21,Polvo para gelatina light con fibra tamarindo d-gari,9.00,https://www.lacomer.com.mx/superc/img_art/735257042120_3.jpg
+La Comer,22,Gelatina en polvo leche light nuez d-gari,9.00,https://www.lacomer.com.mx/superc/img_art/735257003152_3.jpg
+La Comer,23,Gelatina en polvo de agua diet fresa d-gari,8.00,https://www.lacomer.com.mx/superc/img_art/735257003039_3.jpg
+La Comer,24,Gelatina en polvo de agua diet limon d-gari,8.00,https://www.lacomer.com.mx/superc/img_art/735257003077_3.jpg
+La Comer,25,Gelatina en polvo de agua diet jerez d-gari,8.00,https://www.lacomer.com.mx/superc/img_art/735257003060_3.jpg
+La Comer,26,Polvo para gelatina light con fibra fresa cereza d-gari,9.00,https://www.lacomer.com.mx/superc/img_art/735257042137_3.jpg
+La Comer,27,Polvo para gelatina light con fibra manzana verde d-gari,9.00,https://www.lacomer.com.mx/superc/img_art/735257042113_3.jpg
+La Comer,28,Gelatina en polvo d-leche diet rompope d-gari,9.00,https://www.lacomer.com.mx/superc/img_art/735257003169_3.jpg
+La Comer,29,Gelatina en polvo sabor jerez   golden hills,7.15,https://www.lacomer.com.mx/superc/img_art/7501010789839_3.jpg
+La Comer,30,Gelatina de leche vainilla   mccormick,6.30,https://www.lacomer.com.mx/superc/img_art/7501003305329_3.jpg
+La Comer,31,Gelatina en polvo baja en cal  s-mandarina d-gari,8.00,https://www.lacomer.com.mx/superc/img_art/735257003183_3.jpg
+La Comer,32,Gelatina de leche fresa   mccormick,6.30,https://www.lacomer.com.mx/superc/img_art/7501003305312_3.jpg
+La Comer,33,Gelatina sin azucar sabor uva d  duch,29.75,https://www.lacomer.com.mx/superc/img_art/762065252038_3.jpg
+La Comer,34,Gelatina sin azucar sabor limon d  duch,29.75,https://www.lacomer.com.mx/superc/img_art/762065252007_3.jpg
+La Comer,35,Gelatina sin azucar sabor naranja d  duch,29.75,https://www.lacomer.com.mx/superc/img_art/762065252021_3.jpg
+La Comer,36,Gelatina sin azucar sabor  pia d  duch,29.75,https://www.lacomer.com.mx/superc/img_art/762065252045_3.jpg
+La Comer,37,Gelatina de leche s / coco   d-gari,8.90,https://www.lacomer.com.mx/superc/img_art/735257001516_3.jpg
+La Comer,38,Gelatina de agua sabor fresa   ke precio ,6.90,https://www.lacomer.com.mx/superc/img_art/7501010793461_3.jpg
+La Comer,39,Gelatina de leche sabor vainilla   ke precio ,7.40,https://www.lacomer.com.mx/superc/img_art/7501010791696_3.jpg
+La Comer,40,Gelatina de agua sabor uva   ke precio ,6.90,https://www.lacomer.com.mx/superc/img_art/7501010793478_3.jpg
+La Comer,41,Gelatina de leche sabor fresa   ke precio ,7.40,https://www.lacomer.com.mx/superc/img_art/7501010793492_3.jpg
+La Comer,42,Gelatina de agua sabor limon   ke precio ,6.90,https://www.lacomer.com.mx/superc/img_art/7501010793485_3.jpg
+La Comer,43,Gelatina de agua sabor pina   ke precio ,6.90,https://www.lacomer.com.mx/superc/img_art/7501010791689_3.jpg
+La Comer,44,Gelatina de leche chocolate   mccormick,6.30,https://www.lacomer.com.mx/superc/img_art/7501003305305_3.jpg
+La Comer,45,Gelatina de agua limon fresco   mccormick,5.95,https://www.lacomer.com.mx/superc/img_art/7501003305275_3.jpg
+La Comer,46,Gelatina de agua fresa silvestre   mccormick,5.95,https://www.lacomer.com.mx/superc/img_art/7501003305244_3.jpg
+La Comer,47,Gelatina de agua frutos rojos   mccormick,5.95,https://www.lacomer.com.mx/superc/img_art/7501003305299_3.jpg
+La Comer,48,Polvo para preparar gelatina limon 24 / 84g pronto,9.70,https://www.lacomer.com.mx/superc/img_art/7501200482137_3.jpg
+La Comer,49,Gelatina en polvo natural   d-gari,15.20,https://www.lacomer.com.mx/superc/img_art/735257013007_3.jpg
+La Comer,50,Polvo para preparar gelatina  uva 24 / 84g pronto,9.70,https://www.lacomer.com.mx/superc/img_art/7501200482168_3.jpg
+La Comer,51,Polvo para preparar gelatina fresa 24 / 84g pronto,9.70,https://www.lacomer.com.mx/superc/img_art/7501200482120_3.jpg
+La Comer,52,Polvo para preparar gelatina naranja 24 / 84g pronto,9.70,https://www.lacomer.com.mx/superc/img_art/7501200482144_3.jpg
+La Comer,53,Gelatina de leche fresa   pronto,8.60,https://www.lacomer.com.mx/superc/img_art/7501200482205_3.jpg
+La Comer,54,Gelatina de leche chocolate   pronto,8.50,https://www.lacomer.com.mx/superc/img_art/7501200482229_3.jpg
+La Comer,55,Gelatina de leche vainilla   pronto,8.50,https://www.lacomer.com.mx/superc/img_art/7501200482212_3.jpg
+La Comer,56,Gelatina de leche rompope   pronto,8.50,https://www.lacomer.com.mx/superc/img_art/7501200482236_3.jpg
+La Comer,57,Gelatina en polvo baja en calorias pia jell-o,9.90,https://www.lacomer.com.mx/superc/img_art/7622300471842_3.jpg
+La Comer,58,Gelatina en polvo baja en calorias limon jell-o,9.90,https://www.lacomer.com.mx/superc/img_art/7622300471859_3.jpg
+La Comer,59,Gelatina en polvo baja en calorias mandarina jell-o,9.90,https://www.lacomer.com.mx/superc/img_art/7622300471828_3.jpg
+La Comer,60,Gelatina en polvo sabor pia   jell-o,8.00,https://www.lacomer.com.mx/superc/img_art/7622300471095_3.jpg
+La Comer,61,Polvo para gelatina de leche fresa   d-gari,8.90,https://www.lacomer.com.mx/superc/img_art/735257000069_3.jpg
+La Comer,62,Gelatina en polvo baja en calorias fresa   jell-o,9.90,https://www.lacomer.com.mx/superc/img_art/7622300471811_3.jpg
+La Comer,63,Gelatina light pina   pronto,6.40,https://www.lacomer.com.mx/superc/img_art/7501200482359_3.jpg
+La Comer,64,Gelatina light naranja   pronto,6.40,https://www.lacomer.com.mx/superc/img_art/7501200482342_3.jpg
+La Comer,65,Gelatina en polvo sabor cereza   jell-o,8.00,https://www.lacomer.com.mx/superc/img_art/7622300471163_3.jpg
+La Comer,66,Gelatina en polvo sabor frambuesa   jell-o,8.00,https://www.lacomer.com.mx/superc/img_art/7622300471170_3.jpg
+La Comer,67,Polvo para gelatina de leche vainilla   d-gari,8.90,https://www.lacomer.com.mx/superc/img_art/735257000236_3.jpg
+La Comer,68,Polvo para preparar gelatina frambuesa 24 / 84g pronto,9.70,https://www.lacomer.com.mx/superc/img_art/7501200482113_3.jpg
+La Comer,69,Gelatina en polvo sabor fresa   jell-o,8.00,https://www.lacomer.com.mx/superc/img_art/7622300471088_3.jpg
+La Comer,70,Polvo para preparar gelatina pina 24 / 84g pronto,9.70,https://www.lacomer.com.mx/superc/img_art/7501200482151_3.jpg
+La Comer,71,Gelatina light frambuesa   pronto,6.40,https://www.lacomer.com.mx/superc/img_art/7501200482311_3.jpg
+La Comer,72,Polvo para preparar gelatina cereza 24 / 84g pronto,9.70,https://www.lacomer.com.mx/superc/img_art/7501200482106_3.jpg
+La Comer,73,Polvo para gelatina de leche rompope   d-gari,8.90,https://www.lacomer.com.mx/superc/img_art/735257000205_3.jpg
+La Comer,74,Gelatina de agua sabor cereza 140 gr   d-gari,8.60,https://www.lacomer.com.mx/superc/img_art/735257001493_3.jpg
+La Comer,75,Gelatina en polvo sabor limon   jell-o,8.00,https://www.lacomer.com.mx/superc/img_art/7622300476830_3.jpg
+La Comer,76,Gelatina en polvo sabor uva   jell-o,8.00,https://www.lacomer.com.mx/superc/img_art/7622300470647_3.jpg
+La Comer,77,Gelatina en polvo sabor mango   jell-o,8.00,https://www.lacomer.com.mx/superc/img_art/7622300471736_3.jpg
+La Comer,78,Gelatina en polvo sabor naranja   jell-o,8.00,https://www.lacomer.com.mx/superc/img_art/7622300471781_3.jpg
+La Comer,79,Gelatina light limon   pronto,6.40,https://www.lacomer.com.mx/superc/img_art/7501200482335_3.jpg
+La Comer,80,Gelatina light fresa   pronto,6.40,https://www.lacomer.com.mx/superc/img_art/7501200482328_3.jpg
+La Comer,81,Gelatina light uva   pronto,6.40,https://www.lacomer.com.mx/superc/img_art/7501200482366_3.jpg
+La Comer,82,Gelatina light cereza   pronto,6.40,https://www.lacomer.com.mx/superc/img_art/7501200482304_3.jpg
+La Comer,83,Polvo para gelatina de agua limon   d-gari,8.60,https://www.lacomer.com.mx/superc/img_art/735257000106_3.jpg
+La Comer,84,Polvo para gelatina de agua uva   d-gari,8.60,https://www.lacomer.com.mx/superc/img_art/735257000229_3.jpg
+La Comer,85,Polvo para gelatina de agua pina   d-gari,8.60,https://www.lacomer.com.mx/superc/img_art/735257000182_3.jpg
+La Comer,86,Polvo para gelatina de agua fresa   d-gari,8.60,https://www.lacomer.com.mx/superc/img_art/735257000052_3.jpg
+La Comer,87,Gelatina blueberry jel -,33.50,https://www.lacomer.com.mx/superc/img_art/748935020983_3.jpg
+La Comer,88,Gelatina p / agua sabor pia basor .,304.11,https://www.lacomer.com.mx/superc/img_art/7502235154327_3.jpg
+La Comer,89,Gelatina a la crema   f/m,69.00,https://www.lacomer.com.mx/superc/img_art/2650718000007_3.jpg
+La Comer,90,Gelatina strawberry jel -,33.50,https://www.lacomer.com.mx/superc/img_art/748935020952_3.jpg
+La Comer,91,Gelatina p /  leche sabor nuez basor. 5kg basor .,304.11,https://www.lacomer.com.mx/superc/img_art/7502235154556_3.jpg
+La Comer,92,Bolsa de gelatina surtido de agua   art,17.00,https://www.lacomer.com.mx/superc/img_art/7501053503300_3.jpg
+La Comer,93,Gelatina peach jel -,33.50,https://www.lacomer.com.mx/superc/img_art/748935020976_3.jpg
+La Comer,94,Gelatina de cajeta    ,76.00,https://www.lacomer.com.mx/superc/img_art/2661129000005_3.jpg
+La Comer,95,Gelatina en polvo sabor fresa diagell,1.85,https://www.lacomer.com.mx/superc/img_art/7503012260552_3.jpg
+La Comer,96,Gelatina gourmet light mora azul creme brulee bambi,7.00,https://www.lacomer.com.mx/superc/img_art/7501078400141_3.jpg
+La Comer,97,Gelatina mosaico   f/m,54.00,https://www.lacomer.com.mx/superc/img_art/2650166000000_3.jpg
+La Comer,98,Gelatina p / leche sabor fresa basor .,304.11,https://www.lacomer.com.mx/superc/img_art/7502235154440_3.jpg
+La Comer,99,Gelatina de agua bambi,18.50,https://www.lacomer.com.mx/superc/img_art/7501078400707_3.jpg
+La Comer,100,Gelatina en polvo sabor limon diagell,1.85,https://www.lacomer.com.mx/superc/img_art/7503012260569_3.jpg
+La Comer,101,Grenetina especial chef duche,80.00,https://www.lacomer.com.mx/superc/img_art/762065011970_3.jpg
+La Comer,102,Gelatina gourmet light frambuesa mango bambi,7.00,https://www.lacomer.com.mx/superc/img_art/7501078400134_3.jpg
+La Comer,103,Pure de manzana   la costena,19.00,https://www.lacomer.com.mx/superc/img_art/7501017004805_3.jpg
+La Comer,104,Gelatina en polvo sabor naranja diagell,12.43,https://www.lacomer.com.mx/superc/img_art/7503012260545_3.jpg
+La Comer,105,Gelatina de caf   -,62.00,https://www.lacomer.com.mx/superc/img_art/2650806000001_3.jpg
+La Comer,106,Gelatina gourmet light zarzamora q.doble crema bambi,7.00,https://www.lacomer.com.mx/superc/img_art/7501078400110_3.jpg
+La Comer,107,Gelatina p / leche sab vainilla basor .,304.11,https://www.lacomer.com.mx/superc/img_art/7502235154631_3.jpg
+La Comer,108,Gelatina granel  ,56.50,https://www.lacomer.com.mx/superc/img_art/2660083000007_3.jpg
+La Comer,109,Gelatina    ,11.90,https://www.lacomer.com.mx/superc/img_art/2660075000008_3.jpg
+La Comer,110,Gelatina raspberry jel -,33.50,https://www.lacomer.com.mx/superc/img_art/748935020969_3.jpg
+La Comer,111,Gelatina mango jel -,33.50,https://www.lacomer.com.mx/superc/img_art/748935020990_3.jpg
+La Comer,112,Gelatina  cherry j jel -,33.50,https://www.lacomer.com.mx/superc/img_art/748935020945_3.jpg
+La Comer,113,Gelatina con yogurth   f/m,49.00,https://www.lacomer.com.mx/superc/img_art/2650164000002_3.jpg
+La Comer,114,Gelatina de mosaico    ,56.50,https://www.lacomer.com.mx/superc/img_art/2661033000009_3.jpg
+La Comer,115,Fruta en almibar cerezas rojas lol tun,38.00,https://www.lacomer.com.mx/superc/img_art/7501037217063_3.jpg
+La Comer,116,Gelatina agua  china grande fresa bambi,9.50,https://www.lacomer.com.mx/superc/img_art/7501078400318_3.jpg
+La Comer,117,Durazno rebano en almibar   clemente jacqes,39.00,https://www.lacomer.com.mx/superc/img_art/7501052477114_3.jpg
+La Comer,118,Gelatina diferentes sabores lala,13.05,https://www.lacomer.com.mx/superc/img_art/7501020512038_3.jpg
+La Comer,119,Gelatina p / agua sabor uva basor .,304.11,https://www.lacomer.com.mx/superc/img_art/7502235154365_3.jpg
+La Comer,120,Gelatina p / agua sabor fresa basor .,304.11,https://www.lacomer.com.mx/superc/img_art/7502235154167_3.jpg
+La Comer,121,Gelatina p / agua sabor naranja basor .,304.11,https://www.lacomer.com.mx/superc/img_art/7502235154280_3.jpg
+La Comer,122,Gelatina p / agua sabor limon basor .,304.11,https://www.lacomer.com.mx/superc/img_art/7502235154204_3.jpg
+La Comer,123,Gelatina de leche divertigel  ,18.90,https://www.lacomer.com.mx/superc/img_art/7503020262555_3.jpg
+La Comer,124,Gelatina de agua divertigel  ,16.90,https://www.lacomer.com.mx/superc/img_art/7503020262562_3.jpg
+La Comer,125,Gelatina light surtido   art,11.25,https://www.lacomer.com.mx/superc/img_art/7501020542622_3.jpg
+La Comer,126,Gelatina light sabores . art,11.25,https://www.lacomer.com.mx/superc/img_art/15434097519_3.jpg
+La Comer,127,Gelatina sabor fresa   snack pack,36.90,https://www.lacomer.com.mx/superc/img_art/27000419229_3.jpg
+La Comer,128,Gelatina de yoghurt con mango dany,5.50,https://www.lacomer.com.mx/superc/img_art/7501032397364_3.jpg
+La Comer,129,Gelatina sabor cereza sugar free snack pack,36.90,https://www.lacomer.com.mx/superc/img_art/27000419205_3.jpg
+La Comer,130,Chongos zamoranos   coro,61.45,https://www.lacomer.com.mx/superc/img_art/7501022687116_3.jpg
+La Comer,131,Molde para gelatinas neon 25 pzas   bosco,25.50,https://www.lacomer.com.mx/superc/img_art/7501049418540_3.jpg
+La Comer,132,Chongos   la herradura,39.65,https://www.lacomer.com.mx/superc/img_art/7501016000709_3.jpg
+La Comer,133,Gelatina xprim multisabor dany,21.80,https://www.lacomer.com.mx/superc/img_art/7501032315207_3.jpg
+La Comer,134,Gelatina baja en calorias frambuesa stevien,95.95,https://www.lacomer.com.mx/superc/img_art/7503015863378_3.jpg
+La Comer,135,Pulpa de manzana   la costena,7.30,https://www.lacomer.com.mx/superc/img_art/7501017006632_3.jpg
+La Comer,136,Gelatina de sabores surtido 8*114grs de sabores art,17.90,https://www.lacomer.com.mx/superc/img_art/7501053501528_3.jpg
+La Comer,137,Pure de mango   la costena,7.30,https://www.lacomer.com.mx/superc/img_art/7501017006625_3.jpg
+La Comer,138,Gelatina de yoghurt fresa dany,4.80,https://www.lacomer.com.mx/superc/img_art/7501032397616_3.jpg
+La Comer,139,Gelatina limon con stevia   stevien,95.95,https://www.lacomer.com.mx/superc/img_art/7503015863354_3.jpg
+La Comer,140,Gelatina de agua mandarina dany,2.90,https://www.lacomer.com.mx/superc/img_art/75026202_3.jpg
+La Comer,141,Pina en trozos   san marcos,30.50,https://www.lacomer.com.mx/superc/img_art/7501023320128_3.jpg
+La Comer,142,Galatina sin azucar sabor fresa d  duch,29.75,https://www.lacomer.com.mx/superc/img_art/762065252014_3.jpg
+La Comer,143,Pure de platano   la costena,7.30,https://www.lacomer.com.mx/superc/img_art/7501017006601_3.jpg
+La Comer,144,Gelatina baja en calorias manzana verde stevien,95.95,https://www.lacomer.com.mx/superc/img_art/7503015863361_3.jpg
+La Comer,145,Gelatina baja en calorias cereza   stevien,95.95,https://www.lacomer.com.mx/superc/img_art/7503015863385_3.jpg
+La Comer,146,Postres flanes s-cajeta d-gari,6.50,https://www.lacomer.com.mx/superc/img_art/735257005125_3.jpg
+La Comer,147,Fruta en almibar pina rebanada san marcos,30.50,https://www.lacomer.com.mx/superc/img_art/7501023321026_3.jpg
+La Comer,148,Coctel de frutas   golden hills,37.90,https://www.lacomer.com.mx/superc/img_art/7501010749765_3.jpg
+La Comer,149,Ate de chamoy   la costena,30.50,https://www.lacomer.com.mx/superc/img_art/7501017033010_3.jpg
+La Comer,150,Grenetina   duche,12.10,https://www.lacomer.com.mx/superc/img_art/762065013004_3.jpg
+La Comer,151,Flan caramelo d-gari,9.60,https://www.lacomer.com.mx/superc/img_art/735257005071_3.jpg
+La Comer,152,Pure de papaya / manzana / guayaba   la costena,7.30,https://www.lacomer.com.mx/superc/img_art/7501017006656_3.jpg
+La Comer,153,Cocktail de frutas en almibar   clemente jacqes,45.90,https://www.lacomer.com.mx/superc/img_art/7501052477008_3.jpg
+La Comer,154,Duraznos en cubos selection   golden hills,33.90,https://www.lacomer.com.mx/superc/img_art/7501010749956_3.jpg
+La Comer,155,Mango manila rebanado sn marcos 800   f/m,32.70,https://www.lacomer.com.mx/superc/img_art/7501023322023_3.jpg
+La Comer,156,Cerezas enteras en almibar   lol tun,22.90,https://www.lacomer.com.mx/superc/img_art/7501037217124_3.jpg
+La Comer,157,Chabacanos  mitades en almibar la costena,46.08,https://www.lacomer.com.mx/superc/img_art/7501017003440_3.jpg
+La Comer,158,Gelatina de agua multisabor dany,14.80,https://www.lacomer.com.mx/superc/img_art/7501032311155_3.jpg
+La Comer,159,Chongos zamoranos chongos coro,40.75,https://www.lacomer.com.mx/superc/img_art/7501022687185_3.jpg
+La Comer,160,Postres flanes s-coco d-gari,6.50,https://www.lacomer.com.mx/superc/img_art/735257005132_3.jpg
+La Comer,161,Guayabas en almibar san marcos 800   san marcos,32.70,https://www.lacomer.com.mx/superc/img_art/7501023323020_3.jpg
+La Comer,162,Pia en rebanadas en almibar   golden hills,23.00,https://www.lacomer.com.mx/superc/img_art/7501010752017_3.jpg
+La Comer,163,Duraznos en rebanada selection   golden hills,32.90,https://www.lacomer.com.mx/superc/img_art/7501010749949_3.jpg
+La Comer,164,Pure de mango con chile   la costena,7.30,https://www.lacomer.com.mx/superc/img_art/7501017006595_3.jpg
+La Comer,165,Chongos   la herradura,68.05,https://www.lacomer.com.mx/superc/img_art/7501016000013_3.jpg
+La Comer,166,Polvo para preparar flan vainilla pronto,10.50,https://www.lacomer.com.mx/superc/img_art/7501200480010_3.jpg
+La Comer,167,Guayabas en almibar    la costena,32.50,https://www.lacomer.com.mx/superc/img_art/7501017003532_3.jpg
+La Comer,168,Pure de pina con chile   la costena,7.30,https://www.lacomer.com.mx/superc/img_art/7501017006588_3.jpg
+La Comer,169,Gelatina de cajeta   danette,4.65,https://www.lacomer.com.mx/superc/img_art/75042813_3.jpg
+La Comer,170,Pia en trozo en almbar   golden hills,30.50,https://www.lacomer.com.mx/superc/img_art/7501010752024_3.jpg
+La Comer,171,Postres flanes s-capuchino d-gari,6.50,https://www.lacomer.com.mx/superc/img_art/735257005149_3.jpg
+La Comer,172,Duraznos  trocitos  en almibar   clemente jacqes,23.25,https://www.lacomer.com.mx/superc/img_art/7501052477121_3.jpg
+La Comer,173,Duraznos en mitades en conserva 820 g   ke precio ,31.90,https://www.lacomer.com.mx/superc/img_art/7501010773968_3.jpg
+La Comer,174,Polvo para preparar flan c / caramelo 24 / 136g pronto,11.00,https://www.lacomer.com.mx/superc/img_art/7501200480515_3.jpg
+La Comer,175,Gelatina de coco   danette,4.65,https://www.lacomer.com.mx/superc/img_art/75042790_3.jpg
+La Comer,176,Gelatina de leche sabor vainilla   danette,4.65,https://www.lacomer.com.mx/superc/img_art/75036409_3.jpg
+La Comer,177,Flan vainilla con caramelo ya sta   ya sta,8.92,https://www.lacomer.com.mx/superc/img_art/7501200431609_3.jpg
+La Comer,178,Durazno almibar mitades   herdez,39.50,https://www.lacomer.com.mx/superc/img_art/7501003125637_3.jpg
+La Comer,179,Grenetina en polvo   pronto,15.90,https://www.lacomer.com.mx/superc/img_art/7501200481109_3.jpg
+La Comer,180,Pera en mitades en almibar la costena,44.86,https://www.lacomer.com.mx/superc/img_art/7501017003488_3.jpg
+La Comer,181,Duraznos en mitades en almibar selection   golden hills,32.90,https://www.lacomer.com.mx/superc/img_art/7501010749758_3.jpg
+La Comer,182,Gelatina de leche sabor fresa   danette,4.65,https://www.lacomer.com.mx/superc/img_art/75036393_3.jpg
+La Comer,183,Gelatina mango   dany,2.90,https://www.lacomer.com.mx/superc/img_art/75047061_3.jpg
+La Comer,184,Pure de manzana   la costena,7.80,https://www.lacomer.com.mx/superc/img_art/7501017005147_3.jpg
+La Comer,185,Coctel de frutas en almibar herdez,44.70,https://www.lacomer.com.mx/superc/img_art/7501003125071_3.jpg
+La Comer,186,Gelatina de agua fresa dany,2.90,https://www.lacomer.com.mx/superc/img_art/75009076_3.jpg
+La Comer,187,Gelatina de agua limon dany,2.90,https://www.lacomer.com.mx/superc/img_art/75009090_3.jpg
+La Comer,188,Gelatina de agua pina dany,2.90,https://www.lacomer.com.mx/superc/img_art/75009083_3.jpg
+La Comer,189,Ate  guayaba la costena,31.50,https://www.lacomer.com.mx/superc/img_art/76397801018_3.jpg
+La Comer,190,Gelatina de agua uva dany,2.90,https://www.lacomer.com.mx/superc/img_art/75026196_3.jpg
+La Comer,191,Pina en trocitos en almibar   herdez,35.40,https://www.lacomer.com.mx/superc/img_art/7501003125323_3.jpg
+La Comer,192,Pina en rebanadas en almibar   herdez,35.40,https://www.lacomer.com.mx/superc/img_art/7501003125309_3.jpg
+La Comer,193,Polvo para preparar postre estilo flan  sabor chocolate d-gari,6.50,https://www.lacomer.com.mx/superc/img_art/735257005118_3.jpg
+La Comer,194,Flan en polvo vainilla light d-gari,9.90,https://www.lacomer.com.mx/superc/img_art/735257031834_3.jpg
+La Comer,195,Duraznos rebanados la costea lata la costena,41.83,https://www.lacomer.com.mx/superc/img_art/7501017003389_3.jpg
+La Comer,196,Fruta en almibar mango manila rebanad la costena,31.64,https://www.lacomer.com.mx/superc/img_art/7501017003341_3.jpg
+La Comer,197,Pia en almibar en trocitos   clemente jacqes,32.90,https://www.lacomer.com.mx/superc/img_art/7501052477213_3.jpg
+La Comer,198,Flan en polvo vainilla d-gari,6.50,https://www.lacomer.com.mx/superc/img_art/735257005019_3.jpg
+La Comer,199,Duraznos  mitades en almibar   clemente jacques,32.40,https://www.lacomer.com.mx/superc/img_art/7501052477107_3.jpg
+La Comer,200,Flan en polvo vainilla con caramelo   jell-o,10.30,https://www.lacomer.com.mx/superc/img_art/7622300471873_3.jpg
+La Comer,201,Pia  rebanada en almibar   clemente jacqes,32.90,https://www.lacomer.com.mx/superc/img_art/7501052477206_3.jpg
+La Comer,202,Durazno en mitades en almibar   la costena,41.83,https://www.lacomer.com.mx/superc/img_art/7501017003167_3.jpg
+La Comer,203,Coctel de frutas en almibar   la costena,43.70,https://www.lacomer.com.mx/superc/img_art/7501017003358_3.jpg
+La Comer,204,Pina en rebanadas en almibar la costena,40.30,https://www.lacomer.com.mx/superc/img_art/7501017003334_3.jpg
+La Comer,205,Pina en trocitos en almibar la costena,40.30,https://www.lacomer.com.mx/superc/img_art/7501017003396_3.jpg
+La Comer,206,Ates costea de membrillo 700gr membrillo la costena,31.50,https://www.lacomer.com.mx/superc/img_art/76397801025_3.jpg
+Chedraui,0,Gelatina Rosas,150.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/3/2352972_00.jpg
+Chedraui,1,Gelatina Girasol,150.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/3/2352973_00.jpg
+Chedraui,2,Gelatina Rosa Ind.,30.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/3/2352974_00.jpg
+Chedraui,3,Gelatina Girasol Ind.,30.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/3/2352975_00.jpg
+Chedraui,4,Gelatina Frutal,150.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/3/2355027_00.jpg
+Chedraui,5,Gelatina Tres Chocolates,150.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/3/2355028_00.jpg
+Chedraui,6,Gelatina De Mosaico A Granel Kg,59.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/5/2503193_00.jpg
+Chedraui,7,Gelatina Frutas Kg,66.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/5/2503197_00.jpg
+Chedraui,8,Gelatina De Mosaico Kg,59.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/5/2503199_00.jpg
+Chedraui,9,Gelatina De Uvas,57.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/5/2508668_00.jpg
+Chedraui,10,"Gelatina D Gari 140 gr, Anis",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700001_00.jpg
+Chedraui,11,"Gelatina D Gari 140 gr, Chocolate",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700002_00.jpg
+Chedraui,12,"Gelatina D Gari 140 gr, Durazno",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700003_00.jpg
+Chedraui,13,"Gelatina D Gari 140 gr, Frambuesa",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700004_00.jpg
+Chedraui,14,"Gelatina D Gari 140 gr, Fresa agua",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700005_00.jpg
+Chedraui,15,"Gelatina D Gari 140 gr, Fresa Leche",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700006_00.jpg
+Chedraui,16,"Gelatina D Gari 140 gr, Grosella",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700007_00.jpg
+Chedraui,17,"Gelatina D Gari 140 gr, Guanabana",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700008_00.jpg
+Chedraui,18,"Gelatina D Gari 140 gr, Jerez",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700009_00.jpg
+Chedraui,19,"Gelatina D Gari 140 gr, Limón",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700010_00.jpg
+Chedraui,20,"Gelatina D Gari 140 gr, Mandarina",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700011_00.jpg
+Chedraui,21,"Gelatina D Gari 140 gr, Mango",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700012_00.jpg
+Chedraui,22,"Gelatina D Gari 140 gr, Manzana",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700013_00.jpg
+Chedraui,23,"Gelatina D Gari 140 gr, Mora silvestre",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700015_00.jpg
+Chedraui,24,"Gelatina D Gari 140 gr, Naranja",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700016_00.jpg
+Chedraui,25,"Gelatina D Gari 140 gr, Nuez",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700017_00.jpg
+Chedraui,26,"Gelatina D Gari 140 gr, Piña",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700018_00.jpg
+Chedraui,27,"Gelatina D Gari 140 gr, Pistache",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700019_00.jpg
+Chedraui,28,"Gelatina D Gari 140 gr, Rompope",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700020_00.jpg
+Chedraui,29,"Gelatina D Gari 140 gr, Uva",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700022_2.jpg
+Chedraui,30,"Gelatina D Gari 140 gr, Vainilla",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700023_00.jpg
+Chedraui,31,Gelatina Dgari Mango 48 Gr,9.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525704210_00.jpg
+Chedraui,32,Gelatina Yomi Limon 130 Gr,2.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051193_01.jpg
+Chedraui,33,Gelatina Yomi Uva 130 Gr,2.80,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051194_01.jpg
+Chedraui,34,Gelatina Lala Varios 6Pz 780 Gr,15.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102051203_01.jpg
+Chedraui,35,Gelatina Lala Surtido 780 Gr,15.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053355_01.jpg
+Chedraui,36,Gelatina Yomi Surtido Bolsa 800 Gr,20.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102053593_01.jpg
+Chedraui,37,Gelatina Dany Fsa Limón 750 Gr,14.90,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103231115_00.jpg
+Chedraui,38,Gelatina Dany Varios 800 Gr,20.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750103231520_00.jpg
+Chedraui,39,Gelatina Svelty Mango 95 Gramos,4.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105928339_01.jpg
+Chedraui,40,"Gelatina Bambi 220 gr, Fresa",9.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750107840031_00.jpg
+Chedraui,41,Gelatina Knox Natural 7 Gr,16.35,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048110_00.jpg
+Chedraui,42,"Gelatina Pronto 84 gr, Cereza",9.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048210_1.jpg
+Chedraui,43,"Gelatina Pronto 84 gr, Frambuesa",9.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048211_00.jpg
+Chedraui,44,"Gelatina Pronto 84 gr, Fresa",9.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048212_00.jpg
+Chedraui,45,"Gelatina Pronto 84 gr, Limon",9.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048213_1.jpg
+Chedraui,46,"Gelatina Pronto 84 gr, Naranja",9.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048214_1.jpg
+Chedraui,47,"Gelatina Pronto 84 gr, Piña",9.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048215_00.jpg
+Chedraui,48,"Gelatina Pronto 84 gr, Uva",9.85,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048216_00.jpg
+Chedraui,49,Gelatina Pronto Leche Fresa 84 Gr,9.95,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048220_00.jpg
+Chedraui,50,Gelatina Pronto Leche Rompope 84 Gr,9.95,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048223_00.jpg
+Chedraui,51,Gelatina Pronto Light Fresa 25 Gr,7.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048232_00.jpg
+Chedraui,52,Gelatina Pronto Light Limón 25 Gr,7.40,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048233_00.jpg
+Chedraui,53,Gelatina Pronto Light Piña 25 Gr,7.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048235_00.jpg
+Chedraui,54,Gelatina Pronto Light Uva 25 Gr,7.15,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750120048236_00.jpg
+Chedraui,55,"Gelatina Chedraui 140 gr, Uva",7.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125363827_00.jpg
+Chedraui,56,"Gelatina Chedraui 140 gr, Fresa",7.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125363828_00.jpg
+Chedraui,57,"Gelatina Chedraui 140 gr, Limón",7.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125363829_00.jpg
+Chedraui,58,"Gelatina Chedraui 140 gr, Piña",7.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364073_00.jpg
+Chedraui,59,"Gelatina Chedraui 140 gr, Fresa Leche",7.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125364074_00.jpg
+Chedraui,60,Molde Para Gelatina Festival 160Ml 25Pz,15.65,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750200413105_00.jpg
+Chedraui,61,Gelatina Danette Fresa Indiv 100 Gr,4.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7503639_00.jpg
+Chedraui,62,Gelatina Danette Vainilla Indiv 100 Gr,4.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7503640_00.jpg
+Chedraui,63,Gelatina Dany Leche Coco Indiv 100 Gr,4.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7504279_00.jpg
+Chedraui,64,Gelatina Danette Leche Cajeta 100 Gr,4.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7504281_00.jpg
+Chedraui,65,"Gelatina Jello 35 gr, Uva",8.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/6/762230047064_2_1.jpg
+Chedraui,66,"Gelatina Jello 35 gr, Fresa",8.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/6/762230047108_00.jpg
+Chedraui,67,"Gelatina Jello 35 gr, Piña",8.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/6/762230047109_00.jpg
+Chedraui,68,"Gelatina Jello 35 gr, Cereza",8.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/6/762230047116_00.jpg
+Chedraui,69,"Gelatina Jello 35 gr, Frambuesa",8.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/6/762230047117_00.jpg
+Chedraui,70,"Gelatina Jello 35 gr, Naranja",8.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/6/762230047178_00.jpg
+Chedraui,71,"Gelatina Jello Light 25 gr, Fresa",10.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/6/762230047181_00.jpg
+Chedraui,72,"Gelatina Jello Light 25 gr, Mandarina",10.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/6/762230047182_00.jpg
+Chedraui,73,"Gelatina Jello Light 25 gr, Piña",10.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/6/762230047184_00.jpg
+Chedraui,74,"Gelatina Jello Light 25 gr, Limón",10.25,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/6/762230047185_00.jpg
+Chedraui,75,"Gelatina Jello 35 gr, Limón",8.55,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/6/762230047683_1_1.jpg
+Chedraui,76,Gelatina Zuko Limón 35 Gr,9.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/8/780280066811_00.jpg
+Chedraui,77,Gelatina Zuko Jamaica 35 Gr,9.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/8/780280066814_00.jpg
+Chedraui,78,Gelatina Zuko Uva 35 Gr,9.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/8/780280066815_00.jpg
+Chedraui,79,"Gelatina D Gari 140 gr, Melón",8.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700014_00.jpg
+Chedraui,80,Gelatina D Gari Uva 35 Gr,8.65,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700134_00.jpg
+Chedraui,81,Gelatina D Gari Fresa 35 Gr,8.65,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700135_00.jpg
+Chedraui,82,Gelatina D Gari Moras 35 Gr,8.65,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700136_00.jpg
+Chedraui,83,Gelatina D Gari Naranja 35 Gr,8.65,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700138_00.jpg
+Chedraui,84,Gelatina D Gari Piña 35 Gr,8.65,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700139_00.jpg
+Chedraui,85,Gelatina D Gari Cereza 35 Gr,8.65,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700140_00.jpg
+Chedraui,86,Gelatina D Gari Cereza 140 Gr,8.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/3/73525700149_01.jpg
+Chedraui,87,"Gelatina Bambi 220 gr, Limón",9.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750107840033_00.jpg
+Chedraui,88,"Gelatina Chedraui 140 gr, Naranja",7.30,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750125363830_00.jpg
+Chedraui,89,Gelatina Art Light 500 Gr,11.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/1/5/1543409751_01.jpg
+Chedraui,90,"Gelatina Dany 125 gr, Fresa",2.75,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7500907_00.jpg
+Chedraui,91,"Gelatina Dany 125 gr, Piña",2.75,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7500908_00.jpg
+Chedraui,92,"Gelatina Dany 125 gr, Limón",2.75,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7500909_00.jpg
+Chedraui,93,Gelatina Art Surtido Light 4 Pz 500 gr,11.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750102054262_01.jpg
+Chedraui,94,Gelatina Art Bolsa 1 Kg,16.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105350330_01.jpg
+Chedraui,95,"Gelatina Dany 125 gr, Uva",2.75,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7502619_00.jpg
+Chedraui,96,Gelatina Dany Agua Indiv 125 Gr,2.75,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/7502620_00.jpg
+Chedraui,97,Gelatina Svelty Zarzamora 95 Gramos,4.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105927920_01.jpg
+Chedraui,98,Gelatina Art Varios 800 Gr,13.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105350320_01.jpg
+Walmart,0,polvo para gelatina de agua jello  sabor limón 35 g,9.40,https://www.walmart.com.mx/super/images/Products/img_large/0762230047683L.jpg
+Walmart,1,polvo para gelatina de agua jello  sabor uva 35 g,9.40,https://www.walmart.com.mx/super/images/Products/img_large/0762230047064L.jpg
+Walmart,2,polvo para gelatina de agua jello  sabor piña 35 g,9.40,https://www.walmart.com.mx/super/images/Products/img_large/0762230047109L.jpg
+Walmart,3,polvo para gelatina de agua jello  light sabor limón 25 g,10.00,https://www.walmart.com.mx/super/images/Products/img_large/0762230047185L.jpg
+Walmart,4,polvo para gelatina de agua jello  light sabor piña 25 g,10.00,https://www.walmart.com.mx/super/images/Products/img_large/0762230047184L.jpg
+Walmart,5,polvo para gelatina de agua jello  sabor frambuesa 35 g,9.40,https://www.walmart.com.mx/super/images/Products/img_large/0762230047117L.jpg
+Walmart,6,polvo para gelatina de agua jello  sabor fresa 35 g,9.40,https://www.walmart.com.mx/super/images/Products/img_large/0762230047108L.jpg
+Walmart,7,polvo para gelatina de agua jello  sabor durazno 35 g,9.40,https://www.walmart.com.mx/super/images/Products/img_large/0762230047114L.jpg
+Walmart,8,polvo para gelatina de agua jello  sabor cereza 35 g,9.40,https://www.walmart.com.mx/super/images/Products/img_large/0762230047116L.jpg
+Walmart,9,polvo para gelatina de agua jello  sabor mango 35 g,9.40,https://www.walmart.com.mx/super/images/Products/img_large/0762230047173L.jpg
+Walmart,10,polvo para gelatina de agua jello  sabor naranja 35 g,9.40,https://www.walmart.com.mx/super/images/Products/img_large/0762230047178L.jpg
+Walmart,11,polvo para gelatina de agua jello  light sabor fresa 25 g,10.00,https://www.walmart.com.mx/super/images/Products/img_large/0762230047181L.jpg
+Walmart,12,polvo para gelatina de agua jello  light sabor mandarina 25 g,10.00,https://www.walmart.com.mx/super/images/Products/img_large/0762230047182L.jpg
+Walmart,13,polvo para gelatina de agua jello  light sabor durazno 25 g,10.00,https://www.walmart.com.mx/super/images/Products/img_large/0762230047186L.jpg
+Walmart,14,molde boris  para gelatina,29.90,https://www.walmart.com.mx/super/images/Products/img_large/0750624512026L.jpg
+Walmart,15,gelatina de agua dany  sabor fresa 125 g,3.30,https://www.walmart.com.mx/super/images/Products/img_large/0000007500907L.jpg
+Walmart,16,gelatina de agua dany  sabor piña 125 g,3.30,https://www.walmart.com.mx/super/images/Products/img_large/0000007500908L.jpg
+Walmart,17,gelatina de agua dany  sabor limón 125 g,3.30,https://www.walmart.com.mx/super/images/Products/img_large/0000007500909L.jpg
+Walmart,18,gelatina de agua dany  sabor uva 125 g,3.30,https://www.walmart.com.mx/super/images/Products/img_large/0000007502619L.jpg
+Walmart,19,gelatina de agua dany  sabor mandarina 125 g,3.30,https://www.walmart.com.mx/super/images/Products/img_large/0000007502620L.jpg
+Walmart,20,gelatina de leche danette  sabor fresa 100 g,4.70,https://www.walmart.com.mx/super/images/Products/img_large/0000007503639L.jpg
+Walmart,21,gelatina de leche danette  sabor vainilla 100 g,4.70,https://www.walmart.com.mx/super/images/Products/img_large/0000007503640L.jpg
+Walmart,22,gelatina de leche danette  sabor coco 100 g,4.70,https://www.walmart.com.mx/super/images/Products/img_large/0000007504279L.jpg
+Walmart,23,gelatina de leche danette  sabor cajeta 100 g,4.70,https://www.walmart.com.mx/super/images/Products/img_large/0000007504281L.jpg
+Walmart,24,gelatina de agua dany  sabor mango 125 g,3.30,https://www.walmart.com.mx/super/images/Products/img_large/0000007504706L.jpg
+Walmart,25,gelatina de agua art  varios sabores 8 pack,17.90,https://www.walmart.com.mx/super/images/Products/img_large/0750105350152L.jpg
+Walmart,26,gelatina de mosaico por kg,51.00,https://www.walmart.com.mx/super/images/Products/img_large/0020067800000L.jpg
+Walmart,27,moldes denser  para gelatina 4 piezas,26.90,https://www.walmart.com.mx/super/images/Products/img_large/0750116489094L.jpg
+Walmart,28,gelatina   tricolor por pza,10.00,https://www.walmart.com.mx/super/images/Products/img_large/0020913000000L.jpg
+Walmart,29,gelatina con leche individual 1 pza,12.00,https://www.walmart.com.mx/super/images/Products/img_large/0750301708147L.jpg
+Walmart,30,gelatina de agua individual 1 pza,12.00,https://www.walmart.com.mx/super/images/Products/img_large/0750301708149L.jpg
+Walmart,31,gelatina mosaico en vaso por pza,12.00,https://www.walmart.com.mx/super/images/Products/img_large/0020818300000L.jpg
+Walmart,32,gelatina rosca de frutas por pza,85.00,https://www.walmart.com.mx/super/images/Products/img_large/0020818400000L.jpg
+Walmart,33,polvo para gelatina de agua d gari  sabor jerez 140 g,8.70,https://www.walmart.com.mx/super/images/Products/img_large/0073525700009L.jpg
+Walmart,34,polvo para gelatina de agua d gari  sabor mandarina 140 g,8.70,https://www.walmart.com.mx/super/images/Products/img_large/0073525700011L.jpg
+Walmart,35,polvo para gelatina de agua d gari  sabor limón 140 g,8.70,https://www.walmart.com.mx/super/images/Products/img_large/0073525700010L.jpg
+Walmart,36,polvo para gelatina de agua d gari  sabor durazno 140 g,8.70,https://www.walmart.com.mx/super/images/Products/img_large/0073525700003L.jpg
+Walmart,37,polvo para gelatina de agua d gari  sabor piña 140 g,8.70,https://www.walmart.com.mx/super/images/Products/img_large/0073525700018L.jpg
+Walmart,38,polvo para gelatina de agua d gari  sabor frambuesa 140 g,8.70,https://www.walmart.com.mx/super/images/Products/img_large/0073525700004L.jpg
+Walmart,39,polvo para gelatina de agua d gari  sabor anís 140 g,8.70,https://www.walmart.com.mx/super/images/Products/img_large/0073525700001L.jpg
+Walmart,40,polvo para gelatina de leche d gari  sabor chocolate 140 g,8.90,https://www.walmart.com.mx/super/images/Products/img_large/0073525700002L.jpg
+Walmart,41,polvo para gelatina de agua d gari  sabor fresa 140 g,8.70,https://www.walmart.com.mx/super/images/Products/img_large/0073525700005L.jpg
+Walmart,42,polvo para gelatina de leche d gari  sabor fresa 140 g,8.90,https://www.walmart.com.mx/super/images/Products/img_large/0073525700006L.jpg
+Walmart,43,polvo para gelatina de agua d gari  sabor grosella 140 g,8.70,https://www.walmart.com.mx/super/images/Products/img_large/0073525700007L.jpg
+Walmart,44,polvo para gelatina de agua d gari  sabor melón tropical 140 g,8.70,https://www.walmart.com.mx/super/images/Products/img_large/0073525700014L.jpg
+Walmart,45,polvo para gelatina de agua d gari  sabor mora silvestre 140 g,8.70,https://www.walmart.com.mx/super/images/Products/img_large/0073525700015L.jpg
+Walmart,46,polvo para gelatina de agua d gari  sabor naranja 140 g,8.70,https://www.walmart.com.mx/super/images/Products/img_large/0073525700016L.jpg
+Walmart,47,polvo para gelatina de leche d gari  sabor nuez 140 g,8.90,https://www.walmart.com.mx/super/images/Products/img_large/0073525700017L.jpg
+Walmart,48,polvo para gelatina de leche d gari  sabor pistache 140 g,8.90,https://www.walmart.com.mx/super/images/Products/img_large/0073525700019L.jpg
+Walmart,49,polvo para gelatina de leche d gari  sabor rompope 140 g,8.90,https://www.walmart.com.mx/super/images/Products/img_large/0073525700020L.jpg
+Walmart,50,polvo para gelatina de agua d gari  sabor uva 140 g,8.70,https://www.walmart.com.mx/super/images/Products/img_large/0073525700022L.jpg
+Walmart,51,polvo para gelatina de leche d gari  sabor vainilla 140 g,8.90,https://www.walmart.com.mx/super/images/Products/img_large/0073525700023L.jpg
+Walmart,52,polvo para gelatina de agua d gari  light sabor durazno 20 g,8.00,https://www.walmart.com.mx/super/images/Products/img_large/0073525700302L.jpg
+Walmart,53,polvo para gelatina de agua d gari  light sabor fresa 20 g,8.00,https://www.walmart.com.mx/super/images/Products/img_large/0073525700303L.jpg
+Walmart,54,polvo para gelatina de agua d gari  light sabor jerez 20 g,8.00,https://www.walmart.com.mx/super/images/Products/img_large/0073525700306L.jpg
+Walmart,55,polvo para gelatina de agua d gari  light sabor limón 20 g,8.00,https://www.walmart.com.mx/super/images/Products/img_large/0073525700307L.jpg
+Walmart,56,polvo para gelatina de agua d gari  light sabor piña 20 g,8.00,https://www.walmart.com.mx/super/images/Products/img_large/0073525700310L.jpg
+Walmart,57,polvo para gelatina de agua d gari  light sabor uva 20 g,8.00,https://www.walmart.com.mx/super/images/Products/img_large/0073525700311L.jpg
+Walmart,58,polvo para gelatina de leche d gari  light sabor fresa 20 g,8.00,https://www.walmart.com.mx/super/images/Products/img_large/0073525700313L.jpg
+Walmart,59,polvo para gelatina de leche d gari  light sabor rompope 20 g,8.00,https://www.walmart.com.mx/super/images/Products/img_large/0073525700316L.jpg
+Walmart,60,polvo para gelatina de agua d gari  light sabor mandarina 20 g,8.00,https://www.walmart.com.mx/super/images/Products/img_large/0073525700318L.jpg
+Walmart,61,polvo para gelatina de agua d gari  light sabor mango con fibra 48 g,8.00,https://www.walmart.com.mx/super/images/Products/img_large/0073525704210L.jpg
+Walmart,62,polvo para gelatina de agua d gari  light sabor manzana verde con fibra 48 g,8.00,https://www.walmart.com.mx/super/images/Products/img_large/0073525704211L.jpg
+Walmart,63,polvo para gelatina de agua d gari  light sabor fresa cereza con fibra 48 g,8.00,https://www.walmart.com.mx/super/images/Products/img_large/0073525704213L.jpg

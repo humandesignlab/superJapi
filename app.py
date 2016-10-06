@@ -29,7 +29,7 @@ app.config['OAUTH_CREDENTIALS'] = {
 
 db = SQLAlchemy(app)
 lm = LoginManager(app)
-lm.login_view = 'index'
+lm.login_view = 'login'
 
 
 class User(UserMixin, db.Model):
@@ -45,15 +45,10 @@ def load_user(id):
     return User.query.get(int(id))
 
 
-# @app.route('/')
-# def index():
-#     return render_template('index.html')
-
-
 @app.route('/logout')
 def logout():
     logout_user()
-    return redirect(url_for('index'))
+    return redirect(url_for('login'))
 
 
 @app.route('/authorize/<provider>')
@@ -72,7 +67,7 @@ def oauth_callback(provider):
     social_id, username, email = oauth.callback()
     if social_id is None:
         flash('Authentication failed.')
-        return redirect(url_for('index'))
+        return redirect(url_for('login'))
     user = User.query.filter_by(social_id=social_id).first()
     if not user:
         user = User(social_id=social_id, nickname=username, email=email)
@@ -84,16 +79,23 @@ def oauth_callback(provider):
 #END OF AUTHENTICATION
 
 @app.route('/', methods=['GET', 'POST'])
+def login():
+    return render_template('login.html')
+
+@app.route('/hello', methods=['GET', 'POST'])
 def index():
-    return render_template('index.html')
+    if not current_user.is_anonymous:
+        return render_template('index.html')
+    else :   
+        return redirect(url_for('login'))
 
 
 @app.route('/superJapi/api/v1.0/searchResult', methods=['GET', 'POST'])
 def search():
-	data1 = json.loads(request.data.decode())
+	data1 = json.loads(request.data)
 	#print data1
 	searchString = data1['userInput']
-	returnSearch = searchService(str(searchString))
+	returnSearch = searchService(searchString.encode('utf8'))
 	#TODO: Maybe with the subprocess pakage, read in real time the pipe output to send an object to angularjs each time a specific string prints.
 	return returnSearch
 

@@ -75,7 +75,7 @@ scipy==0.13.0b1
 selenium==2.53.6
 semantic-version==2.5.0
 six==1.4.1
-SQLAlchemy==1.0.15
+SQLAlchemy==1.1.0
 texttable==0.8.4
 virtualenv==15.0.3
 wcwidth==0.1.7
