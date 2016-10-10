@@ -1,19 +1,34 @@
 <html>
     <head>
-        <title>OAuth Flask Demo</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Super Japi</title>
+        <link rel="stylesheet" type="text/css" href="static/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="static/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" type="text/css" href="static/css/style.css">
     </head>
     <body>
-        <h1>OAuth Demo</h1>
-        {% for message in get_flashed_messages() %}
-            <p><b>Error</b>: {{ message }}</p>
-        {% endfor %}
-        {% if current_user.is_authenticated %}
-            <h2>Hi, {{ current_user.nickname }}!</h2>
-            <p><a href="{{ url_for('logout') }}">Logout</a></p>
-        {% else %}
-            <h2>I don't know you!</h2>
-            <p><a href="{{ url_for('oauth_authorize', provider='facebook') }}">Login with Facebook</a></p>
-            <p><a href="{{ url_for('oauth_authorize', provider='twitter') }}">Login with Twitter</a></p>
-        {% endif %}
+        <div class="container row">
+            <div class="col-md-5 col-md-offset-5" >
+                <h1>Súper Japi</h1>
+                {% for message in get_flashed_messages() %}
+                    <p><b>Error</b>: {{ message }}</p>
+                {% endfor %}
+                {% if current_user.is_authenticated %}
+                    <h2>Hi, {{ current_user.nickname }}!</h2>
+                    <p><a href="{{ url_for('logout') }}">Logout</a></p>
+                {% else %}
+                    <h2>Tú decides dónde compras</h2>
+                    <h3>porque nadie está peleado con su dinero.</h3>
+                    <p><a href="{{ url_for('oauth_authorize', provider='facebook') }}"><img src="static/img/facebook_login.png"></a></p>
+                    <p><a href="{{ url_for('oauth_authorize', provider='twitter') }}"><img src="static/img/twitter_login.png"></a></p>
+                {% endif %}
+            </div>
+        </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
+<!--    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/X.Y.Z/angular-animate.js"></script>
+ -->    <script type="text/javascript">"static/js/bootstrap.min.js"</script>
     </body>
 </html>
