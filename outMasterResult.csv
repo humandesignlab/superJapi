@@ -1,34 +1,30 @@
 Tienda,ID,Producto,Precio,imgUrl
-Superama,0,sal la fina  refinada fluorada 1 kg,10.50,http://www.superama.com.mx/Content/images/products/img_large/0003458702002L.jpg
-Superama,1,sal la fina  refinada  750 g,7.20,http://www.superama.com.mx/Content/images/products/img_large/0003458709066L.jpg
-Superama,2,sal aires de campo  fina 250 g,23.90,http://www.superama.com.mx/Content/images/products/img_large/0750221983259L.jpg
-La Comer,0,Molinillo gourmet sal aromatoca finas hie hierbas finas   -,54.00,https://www.lacomer.com.mx/superc/img_art/7500326017780_3.jpg
-La Comer,1,Sal marina con finas hierbas   pragna,124.00,https://www.lacomer.com.mx/superc/img_art/7502219556215_3.jpg
-La Comer,2,Hierbas finas   terana,30.00,https://www.lacomer.com.mx/superc/img_art/7501088102219_3.jpg
-La Comer,3,Sal fina orgnico aires de campo,27.00,https://www.lacomer.com.mx/superc/img_art/7502219832593_3.jpg
-La Comer,4,Sal de mesa light c / finas hierbas biosal biosal,28.75,https://www.lacomer.com.mx/superc/img_art/7809561701028_3.jpg
-La Comer,5,Hierbas finas   escosa,33.70,https://www.lacomer.com.mx/superc/img_art/7501076110431_3.jpg
-La Comer,6,Jugoso al sarten finas hierbas   maggi,15.75,https://www.lacomer.com.mx/superc/img_art/8585002432339_3.jpg
-La Comer,7,Sal mesa la fina,8.95,https://www.lacomer.com.mx/superc/img_art/34587020021_3.jpg
-La Comer,8,Sal mesa la fina,8.50,https://www.lacomer.com.mx/superc/img_art/34587030013_3.jpg
-La Comer,9,Molinillo gourmet sal aromatoca finas hie hierbas finas   -,54.00,https://www.lacomer.com.mx/superc/img_art/7500326017780_3.jpg
-La Comer,10,Sal marina con finas hierbas   pragna,124.00,https://www.lacomer.com.mx/superc/img_art/7502219556215_3.jpg
-La Comer,11,Hierbas finas   terana,30.00,https://www.lacomer.com.mx/superc/img_art/7501088102219_3.jpg
-La Comer,12,Sal fina orgnico aires de campo,27.00,https://www.lacomer.com.mx/superc/img_art/7502219832593_3.jpg
-La Comer,13,Sal de mesa light c / finas hierbas biosal biosal,28.75,https://www.lacomer.com.mx/superc/img_art/7809561701028_3.jpg
-La Comer,14,Hierbas finas   escosa,33.70,https://www.lacomer.com.mx/superc/img_art/7501076110431_3.jpg
-La Comer,15,Jugoso al sarten finas hierbas   maggi,15.75,https://www.lacomer.com.mx/superc/img_art/8585002432339_3.jpg
-La Comer,16,Sal mesa la fina,8.95,https://www.lacomer.com.mx/superc/img_art/34587020021_3.jpg
-La Comer,17,Sal mesa la fina,8.50,https://www.lacomer.com.mx/superc/img_art/34587030013_3.jpg
-Chedraui,0,"Sal Aires del Campo Gsa 250 gr, Finas",23.10,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983259_00.jpg
-Chedraui,1,Sal La Fina Refinada Light Bote 220Gr,26.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458708001_00.jpg
-Chedraui,2,Sal La Fina Fluorado Bote 1Kg,10.00,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458702002_00.jpg
-Chedraui,3,Sal La Fina Yod Fluor Bls 1Kg,9.45,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458703001_00.jpg
-Chedraui,4,Chile En Polvo La Fina 125Gr,13.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/3/4/3458709046_00.jpg
-Chedraui,5,Aires Del Campo Sal D Marc/Fh 180Gr,57.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983793_00.jpg
-Chedraui,6,Sal Mar Aires D Campo Hierbasfinas 180Gr,57.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983794_00.jpg
-Chedraui,7,Aires Del Campo Salm C/Finhier Pollo 180,57.70,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750221983795_00.jpg
-Walmart,0,sal la fina  refinada  750 g,7.00,https://www.walmart.com.mx/super/images/Products/img_large/0003458709066L.jpg
-Walmart,1,sal la fina  refinada fluorada 1 kg,10.20,https://www.walmart.com.mx/super/images/Products/img_large/0003458702002L.jpg
-Walmart,2,sal la fina  light baja en sodio 220 g,26.00,https://www.walmart.com.mx/super/images/Products/img_large/0003458708001L.jpg
-Walmart,3,sal aires de campo  fina 250 g,23.50,https://www.walmart.com.mx/super/images/Products/img_large/0750221983259L.jpg
+Superama,0,leche alpura  deslactosada 250 ml,6.70,http://www.superama.com.mx/Content/images/products/img_large/0750105590497L.jpg
+Superama,1,leche alpura  deslactosada 1 l,17.50,http://www.superama.com.mx/Content/images/products/img_large/0750105590142L.jpg
+Superama,2,leche alpura  deslactosada sabor chocolate 250 ml,7.20,http://www.superama.com.mx/Content/images/products/img_large/0750105590451L.jpg
+Superama,3,leche alpura  deslactosada light 1 l,18.00,http://www.superama.com.mx/Content/images/products/img_large/0750105590414L.jpg
+Superama,4,leche alpura  deslactosada light 250 ml,6.70,http://www.superama.com.mx/Content/images/products/img_large/0750105590556L.jpg
+Superama,5,leche alpura selecta deslactosada 1 l,18.55,http://www.superama.com.mx/Content/images/products/img_large/0750105590919L.jpg
+Superama,6,leche en polvo alpura  deslactosada 480 g,59.00,http://www.superama.com.mx/Content/images/products/img_large/0750105590490L.jpg
+Superama,7,alpura frutal deslactosado fresa 1 l,18.00,http://www.superama.com.mx/Content/images/products/img_large/0750105590599L.jpg
+Superama,8,leche evaporada alpura  deslactosada 376 ml,13.00,http://www.superama.com.mx/Content/images/products/img_large/0750105590809L.jpg
+La Comer,0,Leche en polvo deslactosada   alpura,56.90,https://www.lacomer.com.mx/superc/img_art/7501055904907_3.jpg
+La Comer,1,Leche deslactosada light . alpura,17.50,https://www.lacomer.com.mx/superc/img_art/7501055904143_3.jpg
+La Comer,2,Leche ultrapasteurizada deslactosada light alpura,6.50,https://www.lacomer.com.mx/superc/img_art/7501055905560_3.jpg
+La Comer,3,Leche saborizada deslactosada chocolate alpura,7.10,https://www.lacomer.com.mx/superc/img_art/7501055904518_3.jpg
+La Comer,4,Leche ultra pasteurizada deslactosada alpura,17.50,https://www.lacomer.com.mx/superc/img_art/7501055901425_3.jpg
+La Comer,5,Leche ultrapasteurizada deslactosada alpura,6.50,https://www.lacomer.com.mx/superc/img_art/7501055904976_3.jpg
+Chedraui,0,Leche Alpura Deslactosada 1 Lt,16.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105590142_00.jpg
+Chedraui,1,Leche Alpura Deslactosada 250 Ml,6.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105590497_1.jpg
+Chedraui,2,Leche Alpura Light Deslactosada 1 Lt,16.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105590414_00.jpg
+Chedraui,3,Leche Polvo Alpura Deslactosada 480 Gr,57.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105590490_1_1.jpg
+Chedraui,4,Leche Alpura Mujer Deslactosada 1 Lt,17.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105590554_4_1.jpg
+Chedraui,5,Leche Alpura Ultrap Deslaclight 250 Ml,6.50,http://www.chedraui.com.mx/media/catalog/product/cache/6/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/7/5/750105590556_00.jpg
+Walmart,0,leche alpura  deslactosada light 1 l,17.50,https://www.walmart.com.mx/super/images/Products/img_large/0750105590414L.jpg
+Walmart,1,leche alpura  deslactosada 1 l,17.50,https://www.walmart.com.mx/super/images/Products/img_large/0750105590142L.jpg
+Walmart,2,leche en polvo alpura  deslactosada 480 g,57.50,https://www.walmart.com.mx/super/images/Products/img_large/0750105590490L.jpg
+Walmart,3,leche alpura  deslactosada sabor chocolate 250 ml,7.20,https://www.walmart.com.mx/super/images/Products/img_large/0750105590451L.jpg
+Walmart,4,leche alpura  deslactosada 250 ml,6.50,https://www.walmart.com.mx/super/images/Products/img_large/0750105590497L.jpg
+Walmart,5,leche alpura  deslactosada light 250 ml,6.50,https://www.walmart.com.mx/super/images/Products/img_large/0750105590556L.jpg
+Walmart,6,leche evaporada alpura  deslactosada 376 ml,12.80,https://www.walmart.com.mx/super/images/Products/img_large/0750105590809L.jpg
+Walmart,7,leche alpura selecta deslactosada 1 l,18.00,https://www.walmart.com.mx/super/images/Products/img_large/0750105590919L.jpg

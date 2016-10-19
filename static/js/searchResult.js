@@ -1,7 +1,7 @@
 var app = angular.module('testApp', ['angular-toArrayFilter']);
 $('#progressBar').hide();
 //CONTROLLERS:
-app.controller('searchCtrl', function($scope, $http, $log){
+app.controller('searchCtrl', function($scope, $http, $log, $filter){
 
 
 	$scope.init = function(input) {
@@ -21,17 +21,12 @@ app.controller('searchCtrl', function($scope, $http, $log){
     		}).success(function(response){
     			$scope.data = response;
     			$scope.loaded = true;
-    			$log.info(response)
-    			//console.log(response);
+    			$log.info(response);
+    			$scope.selectedItems = function () {
+					$scope.shopList = $filter('filter')($scope.data, {checked: true});
+				}
     		});
-        	//console.log($scope.input)
-				
-				/*console.log(response.data.length)
-				for (var i = 0; i < response.data.length; i ++) {
-					console.log(response.data[i]['Tienda']);
-				}		
-		});*/	
-};
+	};
 	
 });
 

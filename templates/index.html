@@ -53,6 +53,7 @@
 					<div class="col-sm-3 col-sm-4">
 					<h2>Chedraui</h2>
 					    <div class="thumbnail" ng-repeat=" value in data | orderObjectBy:'Precio':false " ng-if="value.Tienda == 'Chedraui' ">
+					    	<input type="checkbox" name="{{value.Producto}}" tienda="{{value.Tienda}}" ng-model="value.checked" ng-change="selectedItems()">
 					    	<img ng-src="{{value.imgUrl}}" err-src="static/img/imgNotFound1.jpg"  alt="{{value.Producto}}">
 					    	<div class="caption">
 						        <h4>{{value.Producto}}</h4>
@@ -61,6 +62,13 @@
 						        <p><a href="#" class="btn btn-primary" role="button">A la lista</a> <!-- <a href="#" class="btn btn-default" role="button">Button</a> --></p>
 					      	</div>
 					    </div>
+					    <div ng-repeat="item in shopList" >
+					    <ul>
+					    	<li>[{{$index + 1}}] {{shopList[$index].Producto}}</li>
+					    </ul>
+					    </div>
+    						
+						</div>
 					</div>
 
 					<div class="col-sm-3 col-sm-4">
