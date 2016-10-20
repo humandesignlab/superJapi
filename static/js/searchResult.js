@@ -1,4 +1,4 @@
-var app = angular.module('testApp', ['angular-toArrayFilter']);
+var app = angular.module('testApp', ['ngRoute','ngResource','angular-toArrayFilter']);
 $('#progressBar').hide();
 //CONTROLLERS:
 app.controller('searchCtrl', function($scope, $http, $log, $filter){

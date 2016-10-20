@@ -6,3 +6,13 @@
     height: 85px;
     overflow: hidden;
 }
+
+.bottom0.panel-group  {
+margin-bottom: 0;
+}
+
+.notifications-scroll-area {
+    height: 150px;
+	position: relative;
+	overflow: auto;
+}
